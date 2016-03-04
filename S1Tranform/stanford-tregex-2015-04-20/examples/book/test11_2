@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (S
+      (NP (ART O) (N Jaime))
+      (VP
+        (V sabia)
+        (CP
+          (C que)
+          (S (NP (ART o) (N Joao)) (VP (V havia) (NP (N chegado)))))))
+    (PNT .))) 

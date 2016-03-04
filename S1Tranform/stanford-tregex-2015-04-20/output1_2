@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (NP (NNP James))
+    (VP (VBN hurried) (, ,)
+      (UNMV-S
+        (UNMV-VP
+          (UNMV-ADVP (RB barely))
+          (VBG catching)
+          (UNMV-NP (DT the) (NN bus)))))
+    (. .)))
+
+(ROOT (S (NP (NNP James)) (VP (VBN hurried) (, ,) (UNMV-S (UNMV-VP (UNMV-ADVP (RB barely)) (VBG catching) (UNMV-NP (DT the) (NN bus))))) (. .)))
+(ROOT (S (NP (NNP James)) (VP (VBN hurried) (, ,) (UNMV-S (UNMV-VP (UNMV-ADVP (RB barely)) (VBG catching) (UNMV-NP (DT the) (NN bus))))) (. .)))

@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (PP (IN Before)
+      (S
+        (VP (VBG taking)
+          (NP (DT the) (NN exam)))))
+    (NP (NNP James))
+    (VP (VBD studied))
+    (. .)))

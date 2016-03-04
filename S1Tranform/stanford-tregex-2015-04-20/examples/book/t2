@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (S
+      (NP (N Jorge))
+      (VP
+        (V veio)
+        (CONJP (CONJ quando) (S (NP (PRS tu)) (V saiste)))))
+    (. .)))

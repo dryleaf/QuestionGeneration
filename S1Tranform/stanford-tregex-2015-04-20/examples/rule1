@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (S
+      (NP (N Joana))
+      (VP (V correu)
+        (UNMV-VP
+          (ADV' (PNT ,) (ADV mal))
+          (VP (V subiu)
+            (NP (ART o) (N autocarro))))))
+    (PNT .)))
+
+

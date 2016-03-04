@@ -1,0 +1,8 @@
+// used in delete and relabel
+(VP<<(NP<(DT<these=th))) $ (PUNCT=pt > VP)	// Tregex
+delete pt					// Tsurgeon
+relabel th those				// Tsurgeon
+
+// used in insert
+VP=vp < VP & !<- /PUNCT/ !$ VP	// Tregex
+insert (PUNCT .) >-1 vp		// Tsurgeon

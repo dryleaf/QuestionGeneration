@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (S
+      (NP
+        (ART A)
+        (N' (N capital) (PP (P de_) (NP (ART a) (N Russia)))))
+      (VP (V e) (NP (N Moscovo))))
+    (. .)))

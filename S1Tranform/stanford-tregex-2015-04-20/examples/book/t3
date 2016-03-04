@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (S
+      (NP (ART O) (N patrao))
+      (VP
+        (V diz)
+        (CP
+          (C que)
+          (S
+            (NP (PRS eu))
+            (VP (ADV ja) (VP (V' (ADV nao) (V tenho)) (NP (N mao))))))))
+    (. .)))

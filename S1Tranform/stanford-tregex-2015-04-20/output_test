@@ -1,0 +1,2 @@
+(ROOT (S (NP (NNP James)) (VP (VBN hurried) (, ,) (S (VP (ADVP (RB barely)) (VBG catching) (NP (DT the) (NN bus))))) (. .)))
+(ROOT (S (VP (IN Before) (, ,) (S (VP (VBG taking) (NP (DT the) (NN exam))))) (NP (NNP James)) (VP (VBD studied)) (. .)))

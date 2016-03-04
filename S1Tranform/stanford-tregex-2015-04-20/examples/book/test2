@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (S
+      (S
+        (VP
+          (ADV' (ADV Antes) (ADV de))
+          (VP (V fazer) (NP (ART o) (N exame)))))
+      (S (NP (ART o) (N Jaime)) (V estudou)))
+    (PNT .)))

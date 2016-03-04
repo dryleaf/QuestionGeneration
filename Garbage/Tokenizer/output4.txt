@@ -1,0 +1,4 @@
+A/DA Ciência/PNM refere/V -se/CL a/PREP qualquer/QNT conhecimento/CN ou/CJ prática/CN sistemáticos/ADJ .*//PNT 
+
+Josimar/PNM ,*//PNT o/DA estudante/CN de_/PREP o/DA qual/REL lhe/CL falei/V ,*//PNT vai/V se/CL casar/INF .*//PNT 
+

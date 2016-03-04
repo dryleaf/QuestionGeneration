@@ -1,0 +1,10 @@
+(ROOT
+  (S
+    (S
+      (NP (N Joana))
+      (VP
+        (V correu)
+        (VP
+          (ADV' (, ,) (ADV mal))
+          (VP (V subiu) (NP (ART o) (N autocarro))))))
+    (. .)))

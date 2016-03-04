@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (S
+      (VP
+        (VP (ADV Darwin) (V estudou))
+        (CONJP
+          (CONJ como)
+          (S 
+	    (NP (ART as) (N especies)) 
+	    (V evolvem)))))
+    (PNT .)))

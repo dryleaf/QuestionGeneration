@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (S
+      (NP (ART O) (N Jaime))
+      (VP
+        (V possuiu)
+        (NP
+          (ART um)
+          (N'
+            (N carro)
+            (CP (NP (REL que)) (S (VP (V era) (A azul))))))))
+    (. .)))

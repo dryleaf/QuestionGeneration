@@ -1,0 +1,10 @@
+ROOT
+  (S
+    (NP (NNP James))
+    (VP (VBD knew)
+      (SBAR (IN that)
+        (S
+          (NP (NNP John))
+          (VP (VBD had)
+            (VP (VBN arrived))))))
+    (. .)))

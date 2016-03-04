@@ -1,0 +1,13 @@
+(ROOT
+  (S
+    (S
+      (NP (N Joana))
+      (VP
+        (VP (V fechou) (NP (ART os) (N olhos)))
+        (CONJP
+          (CONJ porque)
+          (S
+            (VP
+              (V' (ADV nao) (V queria))
+              (VP (V continuar) (NP (ART a) (N conversa))))))))
+    (. .))) 

@@ -1,0 +1,3 @@
+SBAR < /^WH.*P/ << NP|VP=unmv
+
+relabel unmv /^(.*)$/UNMOVABLE-$1/

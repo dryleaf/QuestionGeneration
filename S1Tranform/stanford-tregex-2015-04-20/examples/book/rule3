@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (NNP John))
+    (VP (VBD met)
+      (NP (NNP Bob)
+        (CC and)
+        (NNP Mary)))
+    (. .)))

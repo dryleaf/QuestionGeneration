@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN capital))
+      (PP (IN of)
+        (NP (NNP Russia))))
+    (VP (VBZ is)
+      (PP (NNP Moscow)))
+    (. .)))

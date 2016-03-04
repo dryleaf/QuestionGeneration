@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (ART A) (N' (N capital) (N de_) (N os) (N Estados) (N Unidos) (N de_) (N a) (N América))) (VP (V é) (NP (N Washington)))) (. .)))

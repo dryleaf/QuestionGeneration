@@ -1,0 +1,2 @@
+java -mx100m -cp stanford-tregex.jar edu.stanford.nlp.trees.tregex.tsurgeon.Tsurgeon -treeFile output_test_2 -po '@UNMV << NP|ADJP|VP|ADVP|PP=unmv' 'relabel unmv /^(.*)$/UNMV-/'
+./tsurgeon.sh -treeFile examples/rules/regex1 -po 'VP < (S=unmv $,, /,/)' 'relabel unmv /^(.*)$/UNMV-/'

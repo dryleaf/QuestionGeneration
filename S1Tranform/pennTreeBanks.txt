@@ -1,0 +1,1 @@
+(ROOT (S (S (NP (ART O) (N Paulo)) (VP (V chegou) (PP (P a_) (NP (ART as) (N' (CARD 12) (N horas)))))) (. .)))

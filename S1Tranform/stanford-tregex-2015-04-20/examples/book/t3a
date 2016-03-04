@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (S
+      (NP (ART A) (N pequenina))
+      (VP
+        (V exigiu)
+        (CP
+          (C que)
+          (S
+            (NP (ART o) (N chapeu))
+            (VP (V ficasse) (PP (P sobre) (NP (ART a) (N banca))))))))
+    (. .)))

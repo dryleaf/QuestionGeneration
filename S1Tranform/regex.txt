@@ -1,0 +1,7 @@
+re.findall(r'\b[A-Z]+ \w+\b', t2.decode('utf8'), re.UNICODE)
+
+
+string1 = "(A(B(C()())D)(C(())))"
+    string2 = "(ROOT (S (NP-0 (PRP I)) (VP (VBD was) (PP (IN at) (NP-1 (NN home)))) (. .)))"
+    string3 = "(ROOT (S (NP-0 (UNMOVABLE-NP (DT the) (NN capital)) (UNMOVABLE-PP (IN of) (UNMOVABLE-NP (NNP Russia)))) (VP (VBZ is) (NP-1 (NNP Moscow))) (. .)))"
+    pattern = r'^[NPC]P-[0-9]+'

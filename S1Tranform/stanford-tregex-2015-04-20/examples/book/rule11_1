@@ -1,0 +1,12 @@
+(ROOT
+  (S
+    (NP (NNP James))
+    (VP (VBD owned)
+      (NP
+        (NP (DT a) (NN car))
+        (SBAR
+          (WHNP (WDT that))
+          (S
+            (VP (VBD was)
+              (ADJP (JJ blue)))))))
+    (. .)))

@@ -1,0 +1,11 @@
+(ROOT
+  (S
+    (NP (NNP James))
+    (VP (VBN hurried) (, ,)
+      (UNMV-S
+        (VP
+          (ADVP (RB barely))
+          (VBG catching)
+          (NP (DT the) (NN bus)))))
+    (. .)))
+

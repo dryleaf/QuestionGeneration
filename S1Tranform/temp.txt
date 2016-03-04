@@ -1,0 +1,39 @@
+[Rule 1] [VP < (S=unmv $,, /,/)]
+(MEANING)[/,/ is the leftmost descendant of VP]
+Ex.:
+Joana correu, mal subiu o autocarro.
+VP < (S=unmv $,, /,/)
+Joana apressou-se, dificilmente subiu o autocarro.
+
+[Rule 5] [CONJP <, CONJ << NP|V'|VP|V|ADVP|PP=unmv]
+Ex.:
+Darwin estudou como as espécies evolvem.
+Jorge veio quando tu saiste.
+Joana fechou os olhos porque não queria continuar a conversa.
+
+[Rule 6] [CP <, C < (S < (NP=unmv !$,, VP))]
+Complementizer phrases:: Subordinacao de complemento
+(MEANING)[CP <, C #C is the 1st child of CP] [NP=unmv !$,, VP #NP is not a sister that follows VP]
+Ex.:
+O patrão diz que eu já não tenho mão.
+A pequenina exigiu que o chapéu ficasse sobre a banca.
+
+[Rule 10] [NP $ VP << PP=unmv]
+Prepositional phrases:: Since the wh-movements cannot occur within the subjects
+Ex.:
+A capital da Rússia é Moscovo.
+
+[Rule 11] [CP=unmv [!>VP | $-- /,/ | < ADV ]]
+(MEANING) [Mark unmv for CP that is not child of VP | right sister of /,/ | dominates ADV]
+Subordinate clauses:: that are not children of verbs
+Ex.:
+(Disallowed): O Jaime possuiu um carro que era azul.
+(Allowed): O Jaime sabia que o João havia chegado.
+
+#A actividade favorita do Pedro é correr no parque.
+Darwin estudou como as espécies evolvem.
+
+#O Pedro carregou uma sacola e um par de sapatos.
+
+# answer phrase
+NP-0 >, (S $++ /./) > S >> ROOT
