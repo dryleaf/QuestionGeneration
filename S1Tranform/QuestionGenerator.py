@@ -149,7 +149,12 @@ class QuestionGenerator:
                     else:
                         self.__sst[i].append("B-" + line[0] + ".OTHER")
                 elif line[2].startswith("V"):
-                    self.__sst[i].append("B-" + line[1] + "." + line[2])
+                    if '+' in line[2] and '+' in line[1]:
+                        line1 = line[1].split('+')
+                        line2 = line[2].split('+')
+                        self.__sst[i].append("B-" + line1[0] + "." + line2[0])
+                    else:
+                        self.__sst[i].append("B-" + line[1] + "." + line[2])
                 elif bool(re.search(r'^PP[0-3][CMF][SP][0N]00$', line[2])):
                     self.__sst[i].append("B-" + line[2] + ".PRS")
                 else:   # Trigger words condition to NER
@@ -253,7 +258,10 @@ class QuestionGenerator:
                         # case 'Qual':
                         # if
                         if prep[j][i] == u'PP':
-                            qtype = ap[j][i][0] + u' onde'
+                            if ap[j][i][0] == u'a' and tags[j][i][0] == u'ART':
+                                qtype = ap[j][i][0] + u' onde'
+                            else:
+                                qtype = u'Onde'
                         else:
                         # case 'O que':
                             qtype = u'O que'
@@ -273,6 +281,8 @@ class QuestionGenerator:
                     elif istime:
                         # case 'Quando'
                         if prep[j][i] == u'PP':
+                            qtype = u'Quando'
+                        elif prep[j][i] == u'NP' and bool(tags[j][i].index(u'P')):
                             qtype = u'Quando'
                         else:
                             qtype = u'O que'
@@ -300,7 +310,9 @@ class QuestionGenerator:
                                 else:
                                     qtype = ap[j][i][0] + u' que'
                             else:
-                                if tags[j][i][-1] == u'N':
+                                if ap[j][i][0] == u'de' and tags[j][i][1] == u'N':
+                                    qtype = ap[j][i][0] + u' que'
+                                elif tags[j][i][-1] == u'N':
                                     qtype = u'Quando'
                                 else:
                                     qtype = ap[j][i][0] + u' que'
@@ -310,7 +322,9 @@ class QuestionGenerator:
                     if not issubj:
                         qtype = qtype.capitalize()
                         word = question[j][i][0]
-                        if qtags[j][i][0] != u'N':
+                        prs = bool(re.search(r'DP[.]*', ''.join(self.__sst[j][0])))
+                        print "PRS = ", prs
+                        if qtags[j][i][0] != u'N' or qtags[j][i][0] == u'N' and prs:
                             question[j][i][0] = word.lower()
 
                     qp[j].append(qtype)
@@ -330,13 +344,14 @@ class QuestionGenerator:
                 # print "Ordered:: ", temp_vp[j][i], " Unordered:: ", vp[j]
                 # print "Ordered_t:: ", temp_vtags[j][i], " Unordered_t:: ", vtags[j]
 
-                temp_qg = ' '.join(question[j][i])
-                temp_tag = ' '.join(qtags[j][i])
-                temp_qg = temp_qg.replace(' '.join(vp[j]), ' '.join(temp_vp[j][i]))
-                # print "temp_qg::", temp_qg, ", vp.: ", ' '.join(vp[j]), " temp_vp.: ", ' '.join(temp_vp[j][i])
-                temp_tag = temp_tag.replace(' '.join(vtags[j]), ' '.join(temp_vtags[j][i]))
-                question[j][i] = temp_qg.split(' ')
-                qtags[j][i] = temp_tag.split(' ')
+                if i != n-1 or temp_vtags[j][i][0] == u'ADV':
+                    temp_qg = ' '.join(question[j][i])
+                    temp_tag = ' '.join(qtags[j][i])
+                    temp_qg = temp_qg.replace(' '.join(vp[j]), ' '.join(temp_vp[j][i]))
+                    # print "temp_qg::", temp_qg, ", vp.: ", ' '.join(vp[j]), " temp_vp.: ", ' '.join(temp_vp[j][i])
+                    temp_tag = temp_tag.replace(' '.join(vtags[j]), ' '.join(temp_vtags[j][i]))
+                    question[j][i] = temp_qg.split(' ')
+                    qtags[j][i] = temp_tag.split(' ')
 
                 if i != n-1:
                     del question[j][i][m[0]:m[1]]
@@ -348,11 +363,12 @@ class QuestionGenerator:
                     qtags[j][i].insert(m[0], u'QP')
 
                     if not issubj:
-                        print "CUR_Q.: ", question[j][i]
-                        print "CUR_Q.: ", qtags[j][i]
+                        # print "CUR_Q.: ", question[j][i]
+                        # print "CUR_Q.: ", qtags[j][i]
 
-                        vbindex = question[j][i].index(temp_vp[j][i][0])
-                        vfindex = question[j][i].index(temp_vp[j][i][-1]) + 1
+                        print "In question.: ", question[j][i]
+                        vbindex = question[j][i].index(temp_vp[j][i][0].lower())
+                        vfindex = question[j][i].index(temp_vp[j][i][-1].lower()) + 1
                         print "vbindex = ", vbindex, " vfindex = ", vfindex
 
                         qpindex = qtags[j][i].index(u'QP')
@@ -377,10 +393,11 @@ class QuestionGenerator:
 
                         qtags[j][i].insert(0, qptag)
                         question[j][i].insert(0, qpval)
-                if i == n-1:
+                """if i == n-1:
                     word = question[j][i][0]
                     if qtags[j][i][0] != u'N':
                         question[j][i][0] = word.lower()
+
                     vtag = qtags[j][i][vbindex:vfindex]
                     qpverb = question[j][i][vbindex:vfindex]
                     # print "vtag.: ", vtag, " qpverb.: ", qpverb
@@ -393,7 +410,7 @@ class QuestionGenerator:
                         qtags[j][i].insert(b, vtag[b])
                         question[j][i].insert(b, qpverb[b])
                     word = question[j][i][0]
-                    question[j][i][0] = word.capitalize()
+                    question[j][i][0] = word.capitalize()"""
 
             j += 1
 
@@ -410,7 +427,7 @@ class QuestionGenerator:
                     break
             else:
                 return i, i+len(small)
-        return False
+        return 0, 0
 
     def inSubject(self, inputTree, i):
         """Returns true or false"""
@@ -545,7 +562,7 @@ class QuestionGenerator:
         print "VP:: \n", vp
         print "verb Tags:: \n", vtags
         # print "Tags = \n", tags
-        print "PREP = \n", prep
+        # print "PREP = \n", prep
         # print "SENTENCES = \n", sents
         # print "Tags_Sentences = \n", tags_sents
         return ap, tags, prep, sents, tags_sents, vp, vtags
