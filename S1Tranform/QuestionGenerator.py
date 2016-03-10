@@ -3,14 +3,13 @@
 # Author: Josimar H. Lopes,
 # Master of EEIE, NUT
 
-from subprocess import Popen, PIPE
-from nltk.tree import ParentedTree
+from subprocess import Popen, PIPE, check_output
+from popen import Sh
 
 import re
 import os
 import sys
 import tempfile
-import nltk_tgrep
 
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from S1Tranform import StanfordParserPT
@@ -156,14 +155,13 @@ class QuestionGenerator:
                     else:
                         self.__sst[i].append("B-" + line[1] + "." + line[2])
                 elif bool(re.search(r'^PP[0-3][CMF][SP][0N]00$', line[2])):
-                    self.__sst[i].append("B-" + line[2] + ".PRS")
+                    self.__sst[i].append("B-" + line[0] + ".PERSON")
                 else:   # Trigger words condition to NER
-
-                    if bool(line[0].encode(self.__encoding) in _twPER):
+                    if bool(line[1].encode(self.__encoding) in _twPER):
                         self.__sst[i].append("B." + line[0] + ".PERSON")
-                    elif bool(line[0].encode(self.__encoding) in _twLOC):
+                    elif bool(line[1].encode(self.__encoding) in _twLOC):
                         self.__sst[i].append("B." + line[0] + ".LOCATION")
-                    elif bool(line[0].encode(self.__encoding) in _twORG):
+                    elif bool(line[1].encode(self.__encoding) in _twORG):
                         self.__sst[i].append("B." + line[0] + ".ORGANIZATION")
                     elif bool(re.search(r'^W$', line[2])):
                         # print "Line.:", line
@@ -202,7 +200,12 @@ class QuestionGenerator:
         qp = []
         temp_vp = []
         temp_vtags = []
-        issubj = False
+
+        # Verb Tenses
+        verbTense = {'VMIP': 'Presente do Indicativo', 'VMII': 'Imperfeito do Indicativo',
+                     'VMIS': 'Perfeito do Indicativo', 'VMIF': 'Futuro do Presente do Indicativo',
+                     'VMIC': 'Futuro do Pretérito do Indicativo', 'VMSP': 'Presente do Subjuntivo',
+                     'VMSI': 'Imperfeito do Subjuntivo', 'VMSF': 'Futuro do Subjuntivo'}
 
         j = 0
         for aptree in trees:
@@ -246,10 +249,25 @@ class QuestionGenerator:
                                 qtype = u'O que'
                             elif tags[j][i][1] == u'CL' and isqual and not flag_art:
                                 qtype = u'Qual'
+                            elif u'ADV' in tags[j][i]:
+                                if tags[j][i].index(u'ADV') < tags[j][i].index(u'N'):
+                                    qtype = u'O que'
+                                else:
+                                    qtype = ap[j][i][0] + u' quem'
                             else:
                                 qtype = ap[j][i][0] + u' quem'
+                            qtype = qtype.replace(u'_', u'')
                         elif prep[j][i] == u'CP':
                             qtype = u'O que'
+                        elif prep[j][i] == u'NP':
+                            if not issubj:
+                                if 'B-' + ap[j][i][tags[j][i].index(u'N')] + '.PERSON' not in self.__sst[j]:
+                                    qtype = u'O que'
+                                else:
+                                    qtype = u'Quem'
+                            else:
+
+                                qtype = u'Quem'
                         else:
                             qtype = u'Quem'
                     elif isorg:
@@ -258,10 +276,13 @@ class QuestionGenerator:
                         # case 'Qual':
                         # if
                         if prep[j][i] == u'PP':
-                            if ap[j][i][0] == u'a' and tags[j][i][0] == u'ART':
+                            if ap[j][i][1] == u'a' and tags[j][i][1] == u'ART':
                                 qtype = ap[j][i][0] + u' onde'
+                            elif tags[j][i][1] == u'ART':
+                                qtype = ap[j][i][0] + u' que'
                             else:
                                 qtype = u'Onde'
+                            qtype = qtype.replace(u'_', u'')
                         else:
                         # case 'O que':
                             qtype = u'O que'
@@ -271,7 +292,11 @@ class QuestionGenerator:
                         # case 'Onde':
 
                         if prep[j][i] == u'PP':
-                            qtype = u'Onde'
+                            if 'B-' + ap[j][i][tags[j][i].index(u'N')] + '.LOCATION' not in self.__sst[j]:
+                                qtype = ap[j][i][0] + u' que'
+                            else:
+                                qtype = u'Onde'
+                            qtype = qtype.replace(u'_', u'')
                         # case 'Qual':
                         elif isqual and not flag_art:
                             qtype = u'Qual'
@@ -291,15 +316,19 @@ class QuestionGenerator:
                         if prep[j][i] == u'NP':
                             if tags[j][i][0] == u'CARD':
                                 if tags[j][i][1] == u'N':
-                                    if u'NCMS000' in self.__sst[j][m[0]:m[1]] or u'NCMP000' in self.__sst[j][m[0]:m[1]]:
+                                    if u'NCMP000' in self.__sst[j][m[0]:m[1]]:
                                         qtype = u'Quantos ' + ap[j][i][1]
-                                    elif u'NCFS000' in self.__sst[j][m[0]:m[1]] or u'NCFP000' in self.__sst[j][m[0]:m[1]]:
+                                    elif u'NCFP000' in self.__sst[j][m[0]:m[1]]:
                                         qtype = u'Quantas ' + ap[j][i][1]
+                                    elif u'NCCS000' in self.__sst[j][m[0]:m[1]] or u'NCCP000' in self.__sst[j][m[0]:m[1]]:
+                                        qtype = u'O que'
+                                    elif u'NCMS000' in self.__sst[j][m[0]:m[1]] or u'NCFS000' in self.__sst[j][m[0]:m[1]]:
+                                        qtype = u'O que'
                                     else:
                                         qtype = u'Quantos'
                                 else:
                                     qtype = u'Quantos'
-                            elif isqual and not flag_art:
+                            elif isqual and not flag_art and tags[j][i][0] != u'DEM':
                                 qtype = u'Qual'
                             else:
                                 qtype = u'O que'
@@ -310,12 +339,13 @@ class QuestionGenerator:
                                 else:
                                     qtype = ap[j][i][0] + u' que'
                             else:
-                                if ap[j][i][0] == u'de' and tags[j][i][1] == u'N':
+                                if ap[j][i][0] == u'de' and tags[j][i][1] == u'N' \
+                                        or ap[j][i][0] == u'de_' and tags[j][i][1] == u'ART'\
+                                        or ap[j][i][0] == u'em_' and tags[j][i][1] == u'ART':
                                     qtype = ap[j][i][0] + u' que'
-                                elif tags[j][i][-1] == u'N':
-                                    qtype = u'Quando'
                                 else:
                                     qtype = ap[j][i][0] + u' que'
+                            qtype = qtype.replace(u'_', u'')
                         else:
                             qtype = u'O que'
 
@@ -323,34 +353,60 @@ class QuestionGenerator:
                         qtype = qtype.capitalize()
                         word = question[j][i][0]
                         prs = bool(re.search(r'DP[.]*', ''.join(self.__sst[j][0])))
-                        print "PRS = ", prs
+                        # print "PRS = ", prs
                         if qtags[j][i][0] != u'N' or qtags[j][i][0] == u'N' and prs:
                             question[j][i][0] = word.lower()
-
                     qp[j].append(qtype)
+                if i == n-1:
+                    word = question[j][i][0]
+                    question[j][i][0] = word.lower()
 
-                cnt = len(temp_vtags[j][i])
-                prev = temp_vtags[j][i][0]
-                value = temp_vp[j][i][0]
-                for ind in range(1, cnt):
-                    if prev == u'V' and temp_vtags[j][i][ind] == u'CL':
-                        temp_vtags[j][i][ind-1] = temp_vtags[j][i][ind]
-                        temp_vtags[j][i][ind] = prev
-                        temp_vp[j][i][ind-1] = temp_vp[j][i][ind]
-                        temp_vp[j][i][ind] = value
-                    else:
-                        prev = temp_vtags[j][i][ind]
-                        value = temp_vp[j][i][ind]
+                if i != n-1 and issubj:  # and tags[j][i][0] == u'PRS':
+                    # Verb Agreement Rules
+                    # print "sst= ", self.__sst[j][:]
+                    str1 = re.findall(r'B-\w+\.V[A-Z0-9]{6}', ' '.join(self.__sst[j][:]), re.UNICODE)[0]
+                    str1 = str1.split('-')[1].split('.')
+                    if str1[1][:4] in verbTense:
+                        verbo = str1[0]
+                        ln = 3
+                        if (str1[1][4] == '1' or str1[1][4] == '2') and str1[1][5] == 'S':
+                            ln = 3
+                        elif (str1[1][4] == '1' or str1[1][4] == '2') and str1[1][5] == 'P':
+                            ln = 6
+                        tempo = verbTense[str1[1][:4]]
+                        cmd_gconjugate = Popen(["gconjugue", verbo], stdout=PIPE)
+                        awk_gconjugate = Popen(["awk", "/^" + str(tempo) +
+                                                       "$/{x = NR + " + str(ln) + "}NR == x{print $2}"],
+                                               stdin=cmd_gconjugate.stdout, stdout=PIPE)
+                        cmd_gconjugate.stdout.close()
+                        output = awk_gconjugate.communicate()[0]
+                        # print "CMD.: ", output
+                        temp_vp[j][i][temp_vtags[j][i].index(u'V')] = str(output).decode('utf-8').strip('\n')
+                if n > 1:
+                    cnt = len(temp_vtags[j][i])
+                    prev = temp_vtags[j][i][0]
+                    value = temp_vp[j][i][0]
+                    for ind in range(1, cnt):
+                        if prev == u'V' and temp_vtags[j][i][ind] == u'CL':
+                            temp_vtags[j][i][ind-1] = temp_vtags[j][i][ind]
+                            temp_vtags[j][i][ind] = prev
+                            cl_temp = temp_vp[j][i][ind]
+                            temp_vp[j][i][ind] = cl_temp.replace(u'-', u'')
+                            temp_vp[j][i][ind-1] = temp_vp[j][i][ind]
+                            temp_vp[j][i][ind] = value
+                        else:
+                            prev = temp_vtags[j][i][ind]
+                            value = temp_vp[j][i][ind]
                 # print "Ordered:: ", temp_vp[j][i], " Unordered:: ", vp[j]
                 # print "Ordered_t:: ", temp_vtags[j][i], " Unordered_t:: ", vtags[j]
-
-                if i != n-1 or temp_vtags[j][i][0] == u'ADV':
+                # if n > 1:  # or temp_vtags[j][i][0] == u'ADV':
                     temp_qg = ' '.join(question[j][i])
                     temp_tag = ' '.join(qtags[j][i])
-                    temp_qg = temp_qg.replace(' '.join(vp[j]), ' '.join(temp_vp[j][i]))
-                    # print "temp_qg::", temp_qg, ", vp.: ", ' '.join(vp[j]), " temp_vp.: ", ' '.join(temp_vp[j][i])
+                    temp_qg = temp_qg.replace(' '.join(vp[j]).lower(), ' '.join(temp_vp[j][i]).lower())
+                    # print "temp_qg::", temp_qg, ", vp.: ", ' '.join(vp[j]), " temp_vp.: ", ' '.join(temp_vp[j][i]).lower()
                     temp_tag = temp_tag.replace(' '.join(vtags[j]), ' '.join(temp_vtags[j][i]))
                     question[j][i] = temp_qg.split(' ')
+                    # print "Question: ", question[j][i]
                     qtags[j][i] = temp_tag.split(' ')
 
                 if i != n-1:
@@ -366,10 +422,10 @@ class QuestionGenerator:
                         # print "CUR_Q.: ", question[j][i]
                         # print "CUR_Q.: ", qtags[j][i]
 
-                        print "In question.: ", question[j][i]
+                        # print "In question.: ", question[j][i]
                         vbindex = question[j][i].index(temp_vp[j][i][0].lower())
                         vfindex = question[j][i].index(temp_vp[j][i][-1].lower()) + 1
-                        print "vbindex = ", vbindex, " vfindex = ", vfindex
+                        # print "vbindex = ", vbindex, " vfindex = ", vfindex
 
                         qpindex = qtags[j][i].index(u'QP')
                         qptag = qtags[j][i][qpindex]
@@ -393,24 +449,14 @@ class QuestionGenerator:
 
                         qtags[j][i].insert(0, qptag)
                         question[j][i].insert(0, qpval)
-                """if i == n-1:
-                    word = question[j][i][0]
-                    if qtags[j][i][0] != u'N':
-                        question[j][i][0] = word.lower()
 
-                    vtag = qtags[j][i][vbindex:vfindex]
-                    qpverb = question[j][i][vbindex:vfindex]
-                    # print "vtag.: ", vtag, " qpverb.: ", qpverb
-                    del qtags[j][i][vbindex:vfindex]
-                    del question[j][i][vbindex:vfindex]
-                    vlen = len(vtag)
-                    for b in range(vlen):
-                        if vtag[b] == u'CL':
-                            qpverb[b] = u''.join(qpverb[b])
-                        qtags[j][i].insert(b, vtag[b])
-                        question[j][i].insert(b, qpverb[b])
+                    # remove ADV if it appears at the end of the sentence
+                    if qtags[j][i][-2] == u'ADV':
+                        del qtags[j][i][-2]
+                        del question[j][i][-2]
+                if i == n-1:
                     word = question[j][i][0]
-                    question[j][i][0] = word.capitalize()"""
+                    question[j][i][0] = word.capitalize()
 
             j += 1
 
@@ -418,6 +464,7 @@ class QuestionGenerator:
         # print qtags
         print "\n++++++++++++++++Generated Questions+++++++++++++++"
         print '\n\n'.join('\n'.join('[' + ', '.join(ss) + ']' for ss in s) for s in question)
+        # print '\n\n'.join('\n'.join('[' + ', '.join(qtt) + ']' for qtt in qt) for qt in qtags)
         # print question
 
     def contains(self, small, big):
@@ -480,7 +527,8 @@ class QuestionGenerator:
                     level += 1
                     if not flag_as or not flag_all:
                         flag_as = bool(re.search(pattern, string[i+1:]))
-                        flag_all = bool(re.search(r'\b[A-Z]+ \w+\b', string[i+1:].decode('utf8'), re.UNICODE))
+                        # r'\b[A-Z]+ \w+\b'
+                        flag_all = bool(re.search(r'\b[A-Z]+ [-]?\w+[-\w]*\b', string[i+1:].decode('utf8'), re.UNICODE))
                         if flag_as or flag_all:
                             b = i
                             savedlevel = level
@@ -506,7 +554,8 @@ class QuestionGenerator:
 
                         # Sentence with tags
                         # 1:- SENTENCES
-                        t_s = ','.join(re.findall(r'\b[A-Z]+ [-]?\w+[-\w]*\b', string[b:i+1].decode('utf8'), re.UNICODE))
+                        # print "UP.string = ", string[b:i+1]
+                        t_s = ','.join(re.findall(r'([A-Z]+ [-]?\w+[-\w]*)', string[b:i+1].decode('utf8'), re.UNICODE))
                         s += ' '.join(re.sub(r'([A-Z]+ )', '', t_s).split(',')) + ' '
 
                         # 2:- TAGS
@@ -517,7 +566,9 @@ class QuestionGenerator:
                     elif flag_all and level == savedlevel:
                         # Sentence with tags
                         # 1:- SENTENCES
-                        t_s = ','.join(re.findall(r'\b[A-Z]+ [-]?\w+[-\w]*\b', string[b:i+1].decode('utf8'), re.UNICODE))
+                        # print "DOWN.string = ", string[b:i+1]
+                        # r'\b[A-Z]+ [-]?\w+[-\w]*\b'
+                        t_s = ','.join(re.findall(r'([A-Z]+ [-]?\w+[-\w]*)', string[b:i+1].decode('utf8'), re.UNICODE))
                         s += ' '.join(re.sub(r'([A-Z]+ )', '', t_s).split(',')) + ' '
 
                         # 2:- TAGS
@@ -535,10 +586,12 @@ class QuestionGenerator:
             tags_sents.append(t.split(' '))
 
             yj = 0
+            vcnt = 0
             s = s.split(' ')
             t = t.split(' ')
+            # print "t = ", t, " s = ", s
             aplen = len(ap[index])
-            prev = ""
+            # prev = ""
             for x in ap[index]:
                 xi = len(x)
                 i = 0
@@ -550,10 +603,26 @@ class QuestionGenerator:
                             i += 1
                             if i == xi:
                                 break
+                        else:  # added this break else
+                            if i < xi:
+                                i += 1
+                                if i == xi:
+                                    i -= 1
+                            else:
+                                i -= 1
+                            continue
                     else:
-                        if t[y] == u'ADV' and t[y-1] != u'V' and t[y-1] != u'CL' or t[y] == u'V' or t[y] == u'CL':
-                            vp[index].append(s[y])
-                            vtags[index].append(t[y])
+                        # print "t[y] = ", t[y]
+                        if t[y] == u'ADV' and t[y-1] != u'V' and t[y-1] != u'CL' and t[y-1] != u'N' and t[y-1] != u'A' \
+                                and vcnt == 0 or t[y] == u'V' or t[y] == u'CL':
+
+                            if t[y] == u'ADV' and vcnt == 0 or t[y] == u'CL' and t[y-1] == u'V' or t[y] == u'V' \
+                                    and t[y-1] == u'CL' or vcnt == 0 and (t[y] == u'CL' or t[y] == u'V'):
+                                if t[y] == u'V':
+                                    vcnt += 1
+                                # print "True"
+                                vp[index].append(s[y])
+                                vtags[index].append(t[y])
                         yj += 1
             index += 1
 
