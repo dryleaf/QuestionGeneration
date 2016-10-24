@@ -1,10 +1,7 @@
-Ele viajou de barco e de avião.
-Aqui o mar acaba e a terra principia.
-Os meus amigos e eu gostamos de dançar.
-A ama ficara imóvel no silêncio e na treva.
-O divino Ulisses retirou lenta e sombriamente a cabeça da rosada carícia dos dedos divinos.
-Não tenho papel nem caneta.
-Ele abriu a porta e entrou.
-Não tenho prata nem ouro, mas trago Jesus no coração.
-O Pedro gosta de comer e beber.
-A Paula sabe cantar e dançar.
+QUESTION GENERATOR [PORTUGUESE LANGUAGE]
+
+[Examples]
+A República de Moçambique localiza-se em África. | The Republic of Mozambique is located in Africa.
+A capital da Rússia é Moscovo. | The capital of Russia is Moscow.
+Eu vou à universidade. | I go to the university.
+A conferência da IPSJ foi realizada em Tokyo. | The IPSJ conference took place in Tokyo.

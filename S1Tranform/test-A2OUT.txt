@@ -1,0 +1,188 @@
+O que é menos barato?|Este computador é menos barato.
+O que extraíram dele?|Extraíram isso dele.
+De quem extraíram isso?|Extraíram isso dele.
+O que hoje comprou?|Hoje comprou um livro.
+Quem hoje não comprou um livro?|Hoje o Manuel não comprou um livro.
+O que hoje o Manuel não comprou?|Hoje o Manuel não comprou um livro.
+Aonde ia?|Ia ao sítio onde ia.
+O que jogar atrofia os músculos?|Jogar computador atrofia os músculos.
+O que jogar computador atrofia?|Jogar computador atrofia os músculos.
+O que marchou contra a invasão do Iraque?|Londres marchou contra a invasão do Iraque.
+Contra que marchou Londres?|Londres marchou contra a invasão do Iraque.
+Quem mascarou?|Mascarou as crianças de palhaço.
+Onde morava?|Morava num sítio onde nunca chovia.
+Onde nunca chovia?|Nunca chovia no sítio onde morava.
+Por quem não era aceitável que a situação se prolongasse?|Não era aceitável por eles que a situação se prolongasse.
+O que não era aceitável por eles?|Não era aceitável por eles que a situação se prolongasse.
+O que não é genuíno?|Não é genuíno que se faça assim.
+Quem jurava não ser isso aceitável?|O João jurava não ser isso aceitável.
+O que jurava o João não ser aceitável?|O João jurava não ser isso aceitável.
+Quem queimou o papel?|O João queimou o papel.
+O que queimou o João?|O João queimou o papel.
+Quem vai diariamente a uma manifestação?|O João vai diariamente a uma manifestação.
+A que vai o João?|O João vai diariamente a uma manifestação.
+Quem comprou hoje um livro?|O Manuel comprou hoje um livro.
+O que comprou o Manuel?|O Manuel comprou hoje um livro.
+Quem desapareceu no jardim?|O Manuel desapareceu no jardim.
+Em que desapareceu o Manuel?|O Manuel desapareceu no jardim.
+Quem está na casa que é da Maria?|O Manuel está na casa que é da Maria.
+Em quem está o Manuel?|O Manuel está na casa que é da Maria.
+Quem foi à loja com a Maria?|O Manuel foi à loja com a Maria.
+A que foi o Manuel com a Maria?|O Manuel foi à loja com a Maria.
+Com quem foi o Manuel à loja?|O Manuel foi à loja com a Maria.
+Quem hoje comprou um livro com a Maria?|O Manuel hoje comprou um livro com a Maria.
+O que hoje comprou o Manuel?|O Manuel hoje comprou um livro com a Maria.
+Quem não comprou um livro?|O Manuel não comprou um livro hoje.
+O que não comprou o Manuel?|O Manuel não comprou um livro hoje.
+Quem é um grande consumidor de livros?|O Manuel é um grande consumidor de livros.
+O que é o Manuel?|O Manuel é um grande consumidor de livros.
+Quem remeteu para os militantes?|O Paulo remeteu para os militantes.
+Para quem remeteu o Paulo?|O Paulo remeteu para os militantes.
+Quem se abotoa com o dinheiro?|O Pedro abotoa-se com o dinheiro.
+Com que se abotoa o Pedro?|O Pedro abotoa-se com o dinheiro.
+Quem acertou no alvo?|O Pedro acertou no alvo.
+Em que acertou o Pedro?|O Pedro acertou no alvo.
+Quem se afasta do carro?|O Pedro afasta-se do carro.
+De que se afasta o Pedro?|O Pedro afasta-se do carro.
+Quem andou na faculdade?|O Pedro andou na faculdade.
+Em que andou o Pedro?|O Pedro andou na faculdade.
+Quem se apaixonou pela Maria?|O Pedro apaixonou-se pela Maria.
+Por quem se apaixonou o Pedro?|O Pedro apaixonou-se pela Maria.
+Quem atou a corda ao pescoço?|O Pedro atou a corda ao pescoço.
+O que atou o Pedro?|O Pedro atou a corda ao pescoço.
+Quem bateu com o carro?|O Pedro bateu com o carro.
+Com que bateu o Pedro?|O Pedro bateu com o carro.
+Quem batia contra a parede?|O Pedro batia contra a parede.
+Contra que batia o Pedro?|O Pedro batia contra a parede.
+Quem se borrifa para tudo?|O Pedro borrifa-se para tudo.
+Para que se borrifa o Pedro?|O Pedro borrifa-se para tudo.
+Quem brinca com o cão?|O Pedro brinca com o cão.
+Com que brinca o Pedro?|O Pedro brinca com o cão.
+Quem clamou contra as nacionalizações?|O Pedro clamou contra as nacionalizações.
+Contra que clamou o Pedro?|O Pedro clamou contra as nacionalizações.
+Quem se classificou na primeira posição?|O Pedro classificou-se na primeira posição.
+Onde se classificou o Pedro?|O Pedro classificou-se na primeira posição.
+Quem comunica com os companheiros?|O Pedro comunica com os companheiros.
+Com quem comunica o Pedro?|O Pedro comunica com os companheiros.
+Quem comunicou por telefone?|O Pedro comunicou por telefone.
+Por que comunicou o Pedro?|O Pedro comunicou por telefone.
+Quem comutou ouro por drogas?|O Pedro comutou ouro por drogas.
+O que comutou o Pedro por drogas?|O Pedro comutou ouro por drogas.
+Por que comutou o Pedro ouro?|O Pedro comutou ouro por drogas.
+Quem copiou o teste pelo Manuel?|O Pedro copiou o teste pelo Manuel.
+O que copiou o Pedro?|O Pedro copiou o teste pelo Manuel.
+Quem se debruça no parapeito da janela?|O Pedro debruça-se no parapeito da janela.
+Em que se debruça o Pedro?|O Pedro debruça-se no parapeito da janela.
+Quem se deitou?|O Pedro deitou-se.
+Quem depôs contra a Maria?|O Pedro depôs contra a Maria.
+Contra quem depôs o Pedro?|O Pedro depôs contra a Maria.
+Quem desapareceu?|O Pedro desapareceu.
+Quem se destaca entre os alunos?|O Pedro destaca-se entre os alunos.
+Entre quem se destaca o Pedro?|O Pedro destaca-se entre os alunos.
+Quem divaga sobre a morte?|O Pedro divaga sobre a morte.
+Sobre que divaga o Pedro?|O Pedro divaga sobre a morte.
+Quem divagou por territórios desconhecidos?|O Pedro divagou por territórios desconhecidos.
+Onde divagou o Pedro?|O Pedro divagou por territórios desconhecidos.
+Quem divide o bolo em pedaços?|O Pedro divide o bolo em pedaços.
+O que divide o Pedro?|O Pedro divide o bolo em pedaços.
+Quem dividiu o bolo pela família?|O Pedro dividiu o bolo pela família.
+O que dividiu o Pedro pela família?|O Pedro dividiu o bolo pela família.
+Por quem dividiu o Pedro o bolo?|O Pedro dividiu o bolo pela família.
+Quem se embrulhou com o João?|O Pedro embrulhou-se com o João.
+Com quem se embrulhou o Pedro?|O Pedro embrulhou-se com o João.
+Quem escolhe entre dois pratos?|O Pedro escolhe entre dois pratos.
+Entre que pratos escolhe o Pedro?|O Pedro escolhe entre dois pratos.
+Quem espumou pela boca?|O Pedro espumou pela boca.
+Por que espumou o Pedro?|O Pedro espumou pela boca.
+Quem exerce pressão sobre a mesa?|O Pedro exerce pressão sobre a mesa.
+O que exerce o Pedro?|O Pedro exerce pressão sobre a mesa.
+Quem figura entre as estrelas?|O Pedro figura entre as estrelas.
+Onde figura o Pedro?|O Pedro figura entre as estrelas.
+Quem figurou no filme?|O Pedro figurou no filme.
+Em que figurou o Pedro?|O Pedro figurou no filme.
+Quem filosofou sobre o universo?|O Pedro filosofou sobre o universo.
+Sobre que filosofou o Pedro?|O Pedro filosofou sobre o universo.
+Quem fixa o quadro à parede?|O Pedro fixa o quadro à parede.
+O que fixa o Pedro?|O Pedro fixa o quadro à parede.
+Quem fixou o quadro na parede?|O Pedro fixou o quadro na parede.
+O que fixou o Pedro?|O Pedro fixou o quadro na parede.
+Quem desapareceu?|O Pedro leonês desapareceu.
+Quem matou o presidente?|O Pedro matou o presidente.
+Quem matou o Pedro?|O Pedro matou o presidente.
+Quem medita na importância da questão?|O Pedro medita na importância da questão.
+Em que medita o Pedro?|O Pedro medita na importância da questão.
+Quem meditou sobre a questão?|O Pedro meditou sobre a questão.
+Sobre que meditou o Pedro?|O Pedro meditou sobre a questão.
+Quem mentiu à Maria?|O Pedro mentiu à Maria.
+A quem mentiu o Pedro?|O Pedro mentiu à Maria.
+Quem se orienta pelas estrelas?|O Pedro orienta-se pelas estrelas.
+Onde se orienta o Pedro?|O Pedro orienta-se pelas estrelas.
+Quem pagou o livro com moedas?|O Pedro pagou o livro com moedas.
+O que pagou o Pedro?|O Pedro pagou o livro com moedas.
+Quem participa da festa?|O Pedro participa da festa.
+De que participa o Pedro?|O Pedro participa da festa.
+Quem partiu o vaso?|O Pedro partiu o vaso.
+O que partiu o Pedro?|O Pedro partiu o vaso.
+Quem pinta a parede de branco?|O Pedro pinta a parede de branco.
+O que pinta o Pedro?|O Pedro pinta a parede de branco.
+Quem pintou a parede em tons diferentes?|O Pedro pintou a parede em tons diferentes.
+O que pintou o Pedro?|O Pedro pintou a parede em tons diferentes.
+Quem polvilhou o bolo de açúcar?|O Pedro polvilhou o bolo de açúcar.
+O que polvilhou o Pedro?|O Pedro polvilhou o bolo de açúcar.
+Quem posou para a fotografia?|O Pedro posou para a fotografia.
+Para que posou o Pedro?|O Pedro posou para a fotografia.
+Quem se queimou?|O Pedro queimou-se.
+Quem reagiu ao cancelamento da festa?|O Pedro reagiu ao cancelamento da festa.
+A que reagiu o Pedro?|O Pedro reagiu ao cancelamento da festa.
+Quem se recandidatou para a presidência?|O Pedro recandidatou-se para a presidência.
+Para que se recandidatou o Pedro?|O Pedro recandidatou-se para a presidência.
+Quem resvalou por uma das ribanceiras?|O Pedro resvalou por uma das ribanceiras.
+Onde resvalou o Pedro?|O Pedro resvalou por uma das ribanceiras.
+Quem subdivide o dinheiro com o Manuel?|O Pedro subdivide o dinheiro com o Manuel.
+O que subdivide o Pedro?|O Pedro subdivide o dinheiro com o Manuel.
+Quem subdividiu o dinheiro pela família?|O Pedro subdividiu o dinheiro pela família.
+O que subdividiu o Pedro?|O Pedro subdividiu o dinheiro pela família.
+Quem suspirava pela Maria?|O Pedro suspirava pela Maria.
+Por quem suspirava o Pedro?|O Pedro suspirava pela Maria.
+Quem treme com frio?|O Pedro treme com frio.
+Com que treme o Pedro?|O Pedro treme com frio.
+O que se seguiu à explosão?|O atentado seguiu-se à explosão.
+A que se seguiu o atentado?|O atentado seguiu-se à explosão.
+O que ancorou na baía?|O barco ancorou na baía.
+Onde ancorou o barco?|O barco ancorou na baía.
+Quem se destaca na liderança?|O candidato destaca-se na liderança.
+Em que se destaca o candidato?|O candidato destaca-se na liderança.
+O que se espetou contra a parede?|O carro espetou-se contra a parede.
+Contra que se espetou o carro?|O carro espetou-se contra a parede.
+O que primou pela diversidade?|O cartaz primou pela diversidade.
+Por que primou o cartaz?|O cartaz primou pela diversidade.
+Quem encomendou um computador?|O cliente encomendou um computador.
+O que encomendou o cliente?|O cliente encomendou um computador.
+Quem foi à loja?|O cliente foi à loja.
+A que foi o cliente?|O cliente foi à loja.
+O que se bateu pela subida de divisão?|O clube bateu-se pela subida de divisão.
+Por que se bateu o clube?|O clube bateu-se pela subida de divisão.
+O que oxidou?|O ferro oxidou.
+Quem dorme?|O filho adoptivo dorme.
+Quem remeteu ao governo regional?|O funcionário remeteu ao governo regional.
+A que remeteu o funcionário?|O funcionário remeteu ao governo regional.
+O que alega que não foram enviadas tropas?|O governo alega que não foram enviadas tropas.
+O que alega o governo?|O governo alega que não foram enviadas tropas.
+O que alegadamente é competente?|O governo alegadamente é competente.
+O que continua na mesma?|O governo continua na mesma.
+Em que continua o governo?|O governo continua na mesma.
+O que muito carinhosamente o legalizou?|O governo muito carinhosamente o legalizou.
+O que não aprova que a situação se prolongue?|O governo não aprova que a situação se prolongue.
+O que não aprova o governo?|O governo não aprova que a situação se prolongue.
+O que esses publicar números é esclarecedor de muita coisa?|O governo publicar esses números é esclarecedor de muita coisa.
+O que publicar o governo é esclarecedor de muita coisa?|O governo publicar esses números é esclarecedor de muita coisa.
+De que publicar o governo esses números é esclarecedor?|O governo publicar esses números é esclarecedor de muita coisa.
+O que recua na alteração do orçamento?|O governo recua na alteração do orçamento.
+Em que recua o governo?|O governo recua na alteração do orçamento.
+Quem se bate com as críticas?|O ministro bate-se com as críticas.
+Com que se bate o ministro?|O ministro bate-se com as críticas.
+O que queimou?|O papel queimou.
+O que se pronunciou contra o relatório?|O partido pronunciou-se contra o relatório.
+Contra que se pronunciou o partido?|O partido pronunciou-se contra o relatório.
+O que se organiza em regiões?|O país organiza-se em regiões.
+Em que se organiza o país?|O país organiza-se em regiões.

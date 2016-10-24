@@ -12,6 +12,7 @@ import itertools
 import sys
 import nltk
 import tempfile
+from nltk.tree import ParentedTree
 # adds the parent directory to sys.path
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 from S1Tranform import StanfordParserPT
@@ -109,7 +110,7 @@ class SentenceSimplifier:
         """Method used to mark possible answer phrases"""
 
         self.markUnmovablePhrases()
-        self.propagateUnmvConstraint()
+        self.propagateUnmvConstraint() #NOW
         self.__answerFlag = True
 
         tregex = ("S < (NP|CP=ans $+ /,/ !$++ NP|CP)", "NP|PP=ans", "CP=ans !>> CP <, (C <: que) < (S < UNMOVABLE-NP|UNMOVABLE-VP|V|V')")
@@ -127,7 +128,7 @@ class SentenceSimplifier:
         self.__treeBanks.write(_input)
         self.__treeBanks.close()
 
-        self.runTSurgeonScript(tregex, tsurgeon)
+        self.runTSurgeonScript(tregex, tsurgeon) #NOW
 
         n = len(self.__answerTreeBanks)
         _tree = []
@@ -140,7 +141,7 @@ class SentenceSimplifier:
             self.__answerTreeBanks[i] = trees
             self.__numOfAnsPhrases.append([])
             self.__numOfAnsPhrases[i] = next(cnt)
-            print i, "AP= ", self.__numOfAnsPhrases[i], " .:", self.__answerTreeBanks[i]
+            # print i, "AP= ", self.__numOfAnsPhrases[i], " .:", self.__answerTreeBanks[i]
             _tree.append(nltk.Tree.fromstring(trees.decode(self.__encoding)))
 
         return _tree
@@ -149,14 +150,15 @@ class SentenceSimplifier:
         """Function that executes the TSurgeon expression and returns a result."""
 
         _input = ""
-        # _tree = []
+        #_tree = []
         self.__markedTreeBanks = []
         _tsurgeon = tsurgeon
 
         for _tregex in tregex:
             # self.__treeListOpr = []
             # temp = []
-            # print "tr:: ", tr
+            # print "tr:: ", _tregex
+            # print "ts:: ", _tsurgeon
             _CMD_TREGEX = ['java', '-mx100m', '-cp',
                                  self.__stanfordtregex_jar,
                           'edu.stanford.nlp.trees.tregex.tsurgeon.Tsurgeon',
@@ -186,9 +188,10 @@ class SentenceSimplifier:
 
             # for scriptTree in extractedSents.strip().split("\n"):
             #    scriptTree.encode(self.__encoding)
+            #    print "scriptTree:: ", scriptTree
             #    temp.append(nltk.Tree.fromstring(scriptTree))
-            #    self.__treeListOpr.append(ParentedTree.fromstring(scriptTree))
-            # _tree = temp
+                # self.__treeListOpr.append(ParentedTree.fromstring(scriptTree))
+            #_tree = temp
 
         self.__markedTreeBanks.append(_input.strip().split("\n"))
         if self.__unmvFlag:
@@ -206,5 +209,5 @@ if __name__ == '__main__':
     treeBanks = parser.getTreeBanks()
     sent = SentenceSimplifier(encoding="utf-8")
     tree = sent.setTreeBanks(treeBanks)
-    #for t in tree:
-    #    t.draw()
+    for t in tree:
+        t.draw()

@@ -49,7 +49,8 @@ class StanfordParserPT:
 
         if self.__sentence == "":
             fsents = open(self.fileName)
-            sentences = ''.join(''.join(k) for k in fsents.readlines())
+            # sentences = ''.join(''.join(k) for k in fsents.readlines())
+            sentences = ''.join(''.join(k) if k.endswith('.\n') else ''.join(k.replace('\n', '.\n')) for k in fsents.readlines())
             fsents.close()
         else:
             sentences = self.__sentence
@@ -58,12 +59,13 @@ class StanfordParserPT:
 
         pTok = Popen(["Tokenizer/run-Tokenizer.sh"], stdin=PIPE, stdout=PIPE)
         tokSents, stderr = pTok.communicate(sentences)
+        # print "\ntokSents :: \n", tokSents
 
         sentWords.append(tokSents.replace("*/", "").replace("\*", "").replace("\n\n", "\n").strip())
-        # print "i :: \n", sentWords
+        # print "\nsentWords :: \n", sentWords
 
-        # return self.batch_parse([sentWords])
-        self.batch_parse([sentWords])
+        #self.batch_parse([sentWords])
+        return self.batch_parse([sentWords])
 
     def batch_parse(self, sentences):
 
@@ -129,7 +131,7 @@ class StanfordParserPT:
             print >> sys.stderr, "File could not be opened: ", message
         finally:
             treeFile.close()
-        # return parse_trees
+        return parse_trees
 
     def getTreeBanks(self):
         """Returns the tree banks"""
@@ -143,6 +145,6 @@ if __name__ == '__main__':
 
     parser = StanfordParserPT(encoding="utf-8")
     tree = parser.tokenize()
-    # for t in tree:
-    #    print t, '\n'
-    #    t.draw()
+    for t in tree:
+        print t, '\n'
+        t.draw()

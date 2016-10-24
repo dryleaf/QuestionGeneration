@@ -1,0 +1,2346 @@
+O que é Moscovo?|A capital da Rússia é Moscovo.
+Qual é a capital da Rússia?|A capital da Rússia é Moscovo.
+O que muito humildemente o salientou?|A Clara muito humildemente o salientou.
+O que primou entre as grandes potências?|A Holanda primou entre as grandes potências.
+Entre que primou a Holanda?|A Holanda primou entre as grandes potências.
+Quem se desforrou na criança?|A Maria desforrou-se na criança.
+Em quem se desforrou a Maria?|A Maria desforrou-se na criança.
+Quem se estende sobre a relva?|A Maria estende-se sobre a relva.
+Sobre que se estende a Maria?|A Maria estende-se sobre a relva.
+O que é amarela?|A camisola é amarela.
+O que se seguiu de um maremoto?|A catástrofe seguiu-se de um maremoto.
+De que se seguiu a catástrofe?|A catástrofe seguiu-se de um maremoto.
+O que oxidou o ferro?|A chuva oxidou o ferro.
+O que oxidou a chuva?|A chuva oxidou o ferro.
+O que é inevitável?|A chuva é inevitável.
+Quem obedece apenas à mãe?|A criança obedece apenas à mãe.
+A quem obedece a criança?|A criança obedece apenas à mãe.
+Quem obedeceu à mãe?|A criança obedeceu à mãe.
+A quem obedeceu a criança?|A criança obedeceu à mãe.
+O que advém desse?|A doença advém desse facto.
+O que faliu?|A empresa faliu.
+O que remeteu contra os anúncios?|A empresa remeteu contra os anúncios.
+Contra que remeteu a empresa?|A empresa remeteu contra os anúncios.
+O que acabou por apenas chegar?|A encomenda acabou por apenas chegar.
+Por que acabou a encomenda?|A encomenda acabou por apenas chegar.
+O que está no armazém?|A encomenda está no armazém.
+Onde está a encomenda?|A encomenda está no armazém.
+O que se preparou para o jogo?|A equipa preparou-se para o jogo.
+Para que se preparou a equipa?|A equipa preparou-se para o jogo.
+O que se espetou na parede?|A faca espetou-se na parede.
+Em que se espetou a faca?|A faca espetou-se na parede.
+O que especulou essa possibilidade?|A imprensa especulou essa possibilidade.
+O que especulou a imprensa?|A imprensa especulou essa possibilidade.
+O que é?|A inauguração da loja é hoje.
+O que prevaleceu sobre o interesse?|A justiça prevaleceu sobre o interesse.
+Sobre que prevaleceu a justiça?|A justiça prevaleceu sobre o interesse.
+O que fica por?|A loja fica por ali.
+Por que fica a loja?|A loja fica por ali.
+O que é para?|A loja é para ali.
+Para que é a loja?|A loja é para ali.
+O que sobressai ao maxilar superior?|A mandíbula sobressai ao maxilar superior.
+A que sobressai a mandíbula?|A mandíbula sobressai ao maxilar superior.
+O que sobressai da sua obra?|A paisagem sobressai da sua obra.
+De que sobressai a paisagem?|A paisagem sobressai da sua obra.
+O que sobressai entre as outras artes?|A pintura sobressai entre as outras artes.
+Entre que sobressai a pintura?|A pintura sobressai entre as outras artes.
+Quem se virou contra os manifestantes?|A polícia virou-se contra os manifestantes.
+Contra quem se virou a polícia?|A polícia virou-se contra os manifestantes.
+O que rompeu em triunfo?|A população rompeu em triunfo.
+Em que rompeu a população?|A população rompeu em triunfo.
+O que resvalou na ladeira?|A tábua resvalou na ladeira.
+Em que resvalou a tábua?|A tábua resvalou na ladeira.
+O que apoiaram?|Apoiaram a redução de impostos para níveis justos pelo governo.
+Quem gosta apenas de vinho branco?|Aquele cliente gosta apenas de vinho branco.
+De que gosta aquele cliente?|Aquele cliente gosta apenas de vinho branco.
+Quem se mascararam de palhaço?|As crianças mascararam-se de palhaço.
+De que se mascararam as crianças?|As crianças mascararam-se de palhaço.
+Quem colocavam muito lixo?|As pessoas residentes nessa rua colocavam muito lixo lá.
+O que colocavam as pessoas residentes nessa rua?|As pessoas residentes nessa rua colocavam muito lixo lá.
+De quem se atrasarem é habitual?|Atrasarem-se é habitual deles.
+O que chegaram?|Chegaram alguns computadores.
+O que chegaram?|Chegaram as outras cartas.
+Quem chegaram?|Chegaram certas outras pessoas.
+O que chegaram?|Chegaram certos três carros.
+Quem chegaram?|Chegaram duas outras pessoas.
+Quem chegaram?|Chegaram estes quatro Pedros.
+O que chegaram?|Chegaram minhas outras cartas.
+O que chegaram?|Chegaram os primeiros carros.
+Quem chegaram?|Chegaram outras primeiras pessoas.
+Quem chegaram?|Chegaram quatro Pedros.
+Quem chegaram?|Chegaram tais pessoas.
+O que chegaram?|Chegaram todos estes quatro computadores.
+Quantos carros chegaram?|Chegaram três carros.
+O que chegaram?|Chegaram uns computadores.
+O que chegou?|Chegou algum computador.
+O que chegou?|Chegou certo carro.
+Com que chegou?|Chegou com quem chegou.
+O que chegou?|Chegou este computador.
+Quem chegou?|Chegou o indivíduo com que chegou.
+O que chegou?|Chegou quem chegou.
+O que chegou?|Chegou um computador.
+De que choveu?|Choveu da forma como choveu.
+Em que choveu?|Choveu na altura em que choveu.
+Onde choveu?|Choveu no sítio onde choveu.
+O que claúdia comprou?|Claúdia comprou um livro de filosofia.
+Quantos computadores comprei?|Comprei cem computadores.
+Quantos e comprei?|Comprei cento e vinte e um computadores.
+O que comprei?|Comprei cerca de vinte e dois computadores.
+Quantos mil comprei?|Comprei dois mil e duzentos computadores.
+Quantas impressoras comprei?|Comprei duzentas impressoras.
+Quantos e comprei?|Comprei duzentos e vinte e dois mil e dois computadores.
+Quantos e comprei?|Comprei mil e duzentos e dois computadores.
+O que comprei?|Comprei o computador melhor.
+O que comprei?|Comprei um computador muito diferente deste.
+Quantos computadores comprei?|Comprei vinte computadores.
+O que comprou?|Comprou hoje um livro.
+O que comprou o Manuel?|Comprou um livro o Manuel hoje.
+Quem comprou um livro?|Comprou um livro o Manuel hoje.
+Com quem contactaram?|Contactaram com ele.
+Quem desapareceram?|Desapareceram Pedros leoneses.
+O que desapareceram?|Desapareceram aqueles meus dois carros.
+O que desapareceram?|Desapareceram carros novos meus.
+Quantos carros desapareceram?|Desapareceram dois carros meus novos.
+O que desapareceram?|Desapareceram meus dois novos carros.
+O que desapareceram?|Desapareceram novos carros meus.
+O que desapareceram?|Desapareceram os dois carros.
+O que desapareceram?|Desapareceram vinhos novos.
+O que desapareceu?|Desapareceu aquele carro meu.
+O que desapareceu?|Desapareceu certo carro meu.
+O que desapareceu?|Desapareceu meu carro.
+O que desapareceu?|Desapareceu o meu terceiro carro.
+O que desapareceu?|Desapareceu um meu.
+O que desapareceu?|Desapareceu vinho novo.
+Quem estranhou o alistamento do Pedro no exército pelo pai?|Ela estranhou o alistamento do Pedro no exército pelo pai.
+O que estranhou ela?|Ela estranhou o alistamento do Pedro no exército pelo pai.
+Quem se absorve na leitura?|Ele absorve-se na leitura.
+Em que se absorve ele?|Ele absorve-se na leitura.
+Quem se debruçou ao balcão?|Ele debruçou-se ao balcão.
+A que se debruçou ele?|Ele debruçou-se ao balcão.
+Quem mora muito?|Ele mora muito perto.
+Quem presidiu as reuniões?|Ele presidiu as reuniões.
+O que presidiu ele?|Ele presidiu as reuniões.
+Quem salientou estarem seguros?|Ele salientou estarem seguros.
+Quem se classificaram entre os melhores?|Eles classificaram-se entre os melhores.
+Entre que se classificaram eles?|Eles classificaram-se entre os melhores.
+Quem se despistaram contra o muro?|Eles despistaram-se contra o muro.
+Contra que se despistaram eles?|Eles despistaram-se contra o muro.
+Quem viram o isolamento da Maria do mundo pelo João?|Eles viram o isolamento da Maria do mundo pelo João.
+O que viram eles?|Eles viram o isolamento da Maria do mundo pelo João.
+O que é difícil de reparar?|Esse problema é difícil de reparar.
+De que é esse problema difícil?|Esse problema é difícil de reparar.
+O que é um livro muito provocatório?|Esse é um livro muito provocatório.
+O que é esse?|Esse é um livro muito provocatório.
+Onde estava por onde estava?|Estava no sítio por onde estava.
+Por que estava no sítio?|Estava no sítio por onde estava.
+Quem está contente com a compra?|Este cliente está contente com a compra.
+Com que está este cliente contente?|Este cliente está contente com a compra.
+O que é menos barato?|Este computador é menos barato.
+O que extraíram dele?|Extraíram isso dele.
+De quem extraíram isso?|Extraíram isso dele.
+O que hoje comprou?|Hoje comprou um livro.
+Quem hoje não comprou um livro?|Hoje o Manuel não comprou um livro.
+O que hoje o Manuel não comprou?|Hoje o Manuel não comprou um livro.
+Aonde ia?|Ia ao sítio onde ia.
+O que jogar atrofia os músculos?|Jogar computador atrofia os músculos.
+O que jogar computador atrofia?|Jogar computador atrofia os músculos.
+O que marchou contra a invasão do Iraque?|Londres marchou contra a invasão do Iraque.
+Contra que marchou Londres?|Londres marchou contra a invasão do Iraque.
+Quem mascarou?|Mascarou as crianças de palhaço.
+Onde morava?|Morava num sítio onde nunca chovia.
+Onde nunca chovia?|Nunca chovia no sítio onde morava.
+Por quem não era aceitável que a situação se prolongasse?|Não era aceitável por eles que a situação se prolongasse.
+O que não era aceitável por eles?|Não era aceitável por eles que a situação se prolongasse.
+O que não é genuíno?|Não é genuíno que se faça assim.
+Quem jurava não ser isso aceitável?|O João jurava não ser isso aceitável.
+O que jurava o João não ser aceitável?|O João jurava não ser isso aceitável.
+Quem queimou o papel?|O João queimou o papel.
+O que queimou o João?|O João queimou o papel.
+Quem vai diariamente a uma manifestação?|O João vai diariamente a uma manifestação.
+A que vai o João?|O João vai diariamente a uma manifestação.
+Quem comprou hoje um livro?|O Manuel comprou hoje um livro.
+O que comprou o Manuel?|O Manuel comprou hoje um livro.
+Quem desapareceu no jardim?|O Manuel desapareceu no jardim.
+Em que desapareceu o Manuel?|O Manuel desapareceu no jardim.
+Quem está na casa que é da Maria?|O Manuel está na casa que é da Maria.
+Em quem está o Manuel?|O Manuel está na casa que é da Maria.
+Quem foi à loja com a Maria?|O Manuel foi à loja com a Maria.
+A que foi o Manuel com a Maria?|O Manuel foi à loja com a Maria.
+Com quem foi o Manuel à loja?|O Manuel foi à loja com a Maria.
+Quem hoje comprou um livro com a Maria?|O Manuel hoje comprou um livro com a Maria.
+O que hoje comprou o Manuel?|O Manuel hoje comprou um livro com a Maria.
+Quem não comprou um livro?|O Manuel não comprou um livro hoje.
+O que não comprou o Manuel?|O Manuel não comprou um livro hoje.
+Quem é um grande consumidor de livros?|O Manuel é um grande consumidor de livros.
+O que é o Manuel?|O Manuel é um grande consumidor de livros.
+Quem remeteu para os militantes?|O Paulo remeteu para os militantes.
+Para quem remeteu o Paulo?|O Paulo remeteu para os militantes.
+Quem se abotoa com o dinheiro?|O Pedro abotoa-se com o dinheiro.
+Com que se abotoa o Pedro?|O Pedro abotoa-se com o dinheiro.
+Quem acertou no alvo?|O Pedro acertou no alvo.
+Em que acertou o Pedro?|O Pedro acertou no alvo.
+Quem se afasta do carro?|O Pedro afasta-se do carro.
+De que se afasta o Pedro?|O Pedro afasta-se do carro.
+Quem andou na faculdade?|O Pedro andou na faculdade.
+Em que andou o Pedro?|O Pedro andou na faculdade.
+Quem se apaixonou pela Maria?|O Pedro apaixonou-se pela Maria.
+Por quem se apaixonou o Pedro?|O Pedro apaixonou-se pela Maria.
+Quem atou a corda ao pescoço?|O Pedro atou a corda ao pescoço.
+O que atou o Pedro?|O Pedro atou a corda ao pescoço.
+Quem bateu com o carro?|O Pedro bateu com o carro.
+Com que bateu o Pedro?|O Pedro bateu com o carro.
+Quem batia contra a parede?|O Pedro batia contra a parede.
+Contra que batia o Pedro?|O Pedro batia contra a parede.
+Quem se borrifa para tudo?|O Pedro borrifa-se para tudo.
+Para que se borrifa o Pedro?|O Pedro borrifa-se para tudo.
+Quem brinca com o cão?|O Pedro brinca com o cão.
+Com que brinca o Pedro?|O Pedro brinca com o cão.
+Quem clamou contra as nacionalizações?|O Pedro clamou contra as nacionalizações.
+Contra que clamou o Pedro?|O Pedro clamou contra as nacionalizações.
+Quem se classificou na primeira posição?|O Pedro classificou-se na primeira posição.
+Onde se classificou o Pedro?|O Pedro classificou-se na primeira posição.
+Quem comunica com os companheiros?|O Pedro comunica com os companheiros.
+Com quem comunica o Pedro?|O Pedro comunica com os companheiros.
+Quem comunicou por telefone?|O Pedro comunicou por telefone.
+Por que comunicou o Pedro?|O Pedro comunicou por telefone.
+Quem comutou ouro por drogas?|O Pedro comutou ouro por drogas.
+O que comutou o Pedro por drogas?|O Pedro comutou ouro por drogas.
+Por que comutou o Pedro ouro?|O Pedro comutou ouro por drogas.
+Quem copiou o teste pelo Manuel?|O Pedro copiou o teste pelo Manuel.
+O que copiou o Pedro?|O Pedro copiou o teste pelo Manuel.
+Quem se debruça no parapeito da janela?|O Pedro debruça-se no parapeito da janela.
+Em que se debruça o Pedro?|O Pedro debruça-se no parapeito da janela.
+Quem se deitou?|O Pedro deitou-se.
+Quem depôs contra a Maria?|O Pedro depôs contra a Maria.
+Contra quem depôs o Pedro?|O Pedro depôs contra a Maria.
+Quem desapareceu?|O Pedro desapareceu.
+Quem se destaca entre os alunos?|O Pedro destaca-se entre os alunos.
+Entre quem se destaca o Pedro?|O Pedro destaca-se entre os alunos.
+Quem divaga sobre a morte?|O Pedro divaga sobre a morte.
+Sobre que divaga o Pedro?|O Pedro divaga sobre a morte.
+Quem divagou por territórios desconhecidos?|O Pedro divagou por territórios desconhecidos.
+Onde divagou o Pedro?|O Pedro divagou por territórios desconhecidos.
+Quem divide o bolo em pedaços?|O Pedro divide o bolo em pedaços.
+O que divide o Pedro?|O Pedro divide o bolo em pedaços.
+Quem dividiu o bolo pela família?|O Pedro dividiu o bolo pela família.
+O que dividiu o Pedro pela família?|O Pedro dividiu o bolo pela família.
+Por quem dividiu o Pedro o bolo?|O Pedro dividiu o bolo pela família.
+Quem se embrulhou com o João?|O Pedro embrulhou-se com o João.
+Com quem se embrulhou o Pedro?|O Pedro embrulhou-se com o João.
+Quem escolhe entre dois pratos?|O Pedro escolhe entre dois pratos.
+Entre que pratos escolhe o Pedro?|O Pedro escolhe entre dois pratos.
+Quem espumou pela boca?|O Pedro espumou pela boca.
+Por que espumou o Pedro?|O Pedro espumou pela boca.
+Quem exerce pressão sobre a mesa?|O Pedro exerce pressão sobre a mesa.
+O que exerce o Pedro?|O Pedro exerce pressão sobre a mesa.
+Quem figura entre as estrelas?|O Pedro figura entre as estrelas.
+Onde figura o Pedro?|O Pedro figura entre as estrelas.
+Quem figurou no filme?|O Pedro figurou no filme.
+Em que figurou o Pedro?|O Pedro figurou no filme.
+Quem filosofou sobre o universo?|O Pedro filosofou sobre o universo.
+Sobre que filosofou o Pedro?|O Pedro filosofou sobre o universo.
+Quem fixa o quadro à parede?|O Pedro fixa o quadro à parede.
+O que fixa o Pedro?|O Pedro fixa o quadro à parede.
+Quem fixou o quadro na parede?|O Pedro fixou o quadro na parede.
+O que fixou o Pedro?|O Pedro fixou o quadro na parede.
+Quem desapareceu?|O Pedro leonês desapareceu.
+Quem matou o presidente?|O Pedro matou o presidente.
+Quem matou o Pedro?|O Pedro matou o presidente.
+Quem medita na importância da questão?|O Pedro medita na importância da questão.
+Em que medita o Pedro?|O Pedro medita na importância da questão.
+Quem meditou sobre a questão?|O Pedro meditou sobre a questão.
+Sobre que meditou o Pedro?|O Pedro meditou sobre a questão.
+Quem mentiu à Maria?|O Pedro mentiu à Maria.
+A quem mentiu o Pedro?|O Pedro mentiu à Maria.
+Quem se orienta pelas estrelas?|O Pedro orienta-se pelas estrelas.
+Onde se orienta o Pedro?|O Pedro orienta-se pelas estrelas.
+Quem pagou o livro com moedas?|O Pedro pagou o livro com moedas.
+O que pagou o Pedro?|O Pedro pagou o livro com moedas.
+Quem participa da festa?|O Pedro participa da festa.
+De que participa o Pedro?|O Pedro participa da festa.
+Quem partiu o vaso?|O Pedro partiu o vaso.
+O que partiu o Pedro?|O Pedro partiu o vaso.
+Quem pinta a parede de branco?|O Pedro pinta a parede de branco.
+O que pinta o Pedro?|O Pedro pinta a parede de branco.
+Quem pintou a parede em tons diferentes?|O Pedro pintou a parede em tons diferentes.
+O que pintou o Pedro?|O Pedro pintou a parede em tons diferentes.
+Quem polvilhou o bolo de açúcar?|O Pedro polvilhou o bolo de açúcar.
+O que polvilhou o Pedro?|O Pedro polvilhou o bolo de açúcar.
+Quem posou para a fotografia?|O Pedro posou para a fotografia.
+Para que posou o Pedro?|O Pedro posou para a fotografia.
+Quem se queimou?|O Pedro queimou-se.
+Quem reagiu ao cancelamento da festa?|O Pedro reagiu ao cancelamento da festa.
+A que reagiu o Pedro?|O Pedro reagiu ao cancelamento da festa.
+Quem se recandidatou para a presidência?|O Pedro recandidatou-se para a presidência.
+Para que se recandidatou o Pedro?|O Pedro recandidatou-se para a presidência.
+Quem resvalou por uma das ribanceiras?|O Pedro resvalou por uma das ribanceiras.
+Onde resvalou o Pedro?|O Pedro resvalou por uma das ribanceiras.
+Quem subdivide o dinheiro com o Manuel?|O Pedro subdivide o dinheiro com o Manuel.
+O que subdivide o Pedro?|O Pedro subdivide o dinheiro com o Manuel.
+Quem subdividiu o dinheiro pela família?|O Pedro subdividiu o dinheiro pela família.
+O que subdividiu o Pedro?|O Pedro subdividiu o dinheiro pela família.
+Quem suspirava pela Maria?|O Pedro suspirava pela Maria.
+Por quem suspirava o Pedro?|O Pedro suspirava pela Maria.
+Quem treme com frio?|O Pedro treme com frio.
+Com que treme o Pedro?|O Pedro treme com frio.
+O que se seguiu à explosão?|O atentado seguiu-se à explosão.
+A que se seguiu o atentado?|O atentado seguiu-se à explosão.
+O que ancorou na baía?|O barco ancorou na baía.
+Onde ancorou o barco?|O barco ancorou na baía.
+Quem se destaca na liderança?|O candidato destaca-se na liderança.
+Em que se destaca o candidato?|O candidato destaca-se na liderança.
+O que se espetou contra a parede?|O carro espetou-se contra a parede.
+Contra que se espetou o carro?|O carro espetou-se contra a parede.
+O que primou pela diversidade?|O cartaz primou pela diversidade.
+Por que primou o cartaz?|O cartaz primou pela diversidade.
+Quem encomendou um computador?|O cliente encomendou um computador.
+O que encomendou o cliente?|O cliente encomendou um computador.
+Quem foi à loja?|O cliente foi à loja.
+A que foi o cliente?|O cliente foi à loja.
+O que se bateu pela subida de divisão?|O clube bateu-se pela subida de divisão.
+Por que se bateu o clube?|O clube bateu-se pela subida de divisão.
+O que oxidou?|O ferro oxidou.
+Quem dorme?|O filho adoptivo dorme.
+Quem remeteu ao governo regional?|O funcionário remeteu ao governo regional.
+A que remeteu o funcionário?|O funcionário remeteu ao governo regional.
+O que alega que não foram enviadas tropas?|O governo alega que não foram enviadas tropas.
+O que alega o governo?|O governo alega que não foram enviadas tropas.
+O que alegadamente é competente?|O governo alegadamente é competente.
+O que continua na mesma?|O governo continua na mesma.
+Em que continua o governo?|O governo continua na mesma.
+O que muito carinhosamente o legalizou?|O governo muito carinhosamente o legalizou.
+O que não aprova que a situação se prolongue?|O governo não aprova que a situação se prolongue.
+O que não aprova o governo?|O governo não aprova que a situação se prolongue.
+O que esses publicar números é esclarecedor de muita coisa?|O governo publicar esses números é esclarecedor de muita coisa.
+O que publicar o governo é esclarecedor de muita coisa?|O governo publicar esses números é esclarecedor de muita coisa.
+De que publicar o governo esses números é esclarecedor?|O governo publicar esses números é esclarecedor de muita coisa.
+O que recua na alteração do orçamento?|O governo recua na alteração do orçamento.
+Em que recua o governo?|O governo recua na alteração do orçamento.
+Quem se bate com as críticas?|O ministro bate-se com as críticas.
+Com que se bate o ministro?|O ministro bate-se com as críticas.
+O que queimou?|O papel queimou.
+O que se pronunciou contra o relatório?|O partido pronunciou-se contra o relatório.
+Contra que se pronunciou o partido?|O partido pronunciou-se contra o relatório.
+O que se organiza em regiões?|O país organiza-se em regiões.
+Em que se organiza o país?|O país organiza-se em regiões.
+O que recuou ao preço de Abril?|O petróleo recuou ao preço de Abril.
+Quando recuou o petróleo?|O petróleo recuou ao preço de Abril.
+Quem se pronunciou sobre a decisão?|O presidente pronunciou-se sobre a decisão.
+Sobre que se pronunciou o presidente?|O presidente pronunciou-se sobre a decisão.
+O que clamou por mais apresentações?|O público clamou por mais apresentações.
+Por que clamou o público?|O público clamou por mais apresentações.
+O que se desforrou do concerto adiado?|O público desforrou-se do concerto adiado.
+De que se desforrou o público?|O público desforrou-se do concerto adiado.
+Quem se classificou para o torneio?|O rapaz classificou-se para o torneio.
+Para que se classificou o rapaz?|O rapaz classificou-se para o torneio.
+Quem intercedia pelo povo?|O rei intercedia pelo povo.
+Por que intercedia o rei?|O rei intercedia pelo povo.
+Quem especulou sobre as possíveis razões?|O reitor especulou sobre as possíveis razões.
+Sobre que especulou o reitor?|O reitor especulou sobre as possíveis razões.
+Quem resvalou para um esgoto?|O soldadinho resvalou para um esgoto.
+Para que resvalou o soldadinho?|O soldadinho resvalou para um esgoto.
+O que se partiu?|O vaso partiu-se.
+O que desapareceram?|Os Pedros desapareceram.
+Quem se gloriam da própria cegueira?|Os homens gloriam-se da própria cegueira.
+De que se gloriam os homens?|Os homens gloriam-se da própria cegueira.
+O que advieram à Maria?|Os lucros advieram à Maria.
+A quem advieram os lucros?|Os lucros advieram à Maria.
+O que preparou?|Preparou a equipa para o jogo.
+O que publicarem salienta -o?|Publicarem isso salienta-o.
+O que referiram?|Referiram que foi solicitado que isso acontecesse.
+O que reparar é difícil?|Reparar esse problema é difícil.
+O que ruiu?|Ruiu um prédio na cidade.
+O que salientou?|Salientou que estavam seguros.
+O que lhe sussurraram?|Sussurraram-lhe que era genuíno.
+Quem desapareceram?|Uns Pedros desapareceram.
+Quem vejo?|Vejo Portos brancos.
+Quem vejo?|Vejo Portugais brancos.
+O que vejo?|Vejo a areia.
+O que vejo?|Vejo algum Porto.
+O que vejo?|Vejo alguma areia branca.
+O que vejo?|Vejo algumas areias brancas.
+O que vejo?|Vejo alguns vinhos.
+O que vejo?|Vejo areia branca.
+O que vejo?|Vejo areias brancas.
+O que vejo?|Vejo as areias.
+O que vejo?|Vejo bastante vinho branco.
+O que vejo?|Vejo bastantes carros.
+O que vejo?|Vejo carros brancos.
+O que vejo?|Vejo o carro branco.
+O que vejo?|Vejo os Portos.
+O que vejo?|Vejo um Portugal branco.
+O que vejo?|Vejo uma areia branca.
+O que vejo?|Vejo umas areias brancas.
+O que vejo?|Vejo uns vinhos.
+O que vejo?|Vejo vinho branco.
+O que vejo?|Vejo vinhos brancos.
+O que ver resulta?|Ver televisão resulta.
+O que viram?|Viram a polémica entre a equipa sobre a jogada.
+O que viram?|Viram o ressentimento do rapaz com o pai.
+Em que votaram?|Votaram na redistribuição do dinheiro pelo povo.
+Quem desapareceu?|Algum Pedro leonês desapareceu.
+Quem desapareceram?|Alguns Pedros desapareceram.
+Quem impediu o bolo?|Impediu as crianças de comer o bolo.
+O que impediu as crianças de comer?|Impediu as crianças de comer o bolo.
+O que impediu?|Impediu que as crianças comessem o bolo.
+O que é provável?|Isso é provável.
+Quem empata as outras pessoas no trabalho?|O João empata as outras pessoas no trabalho.
+Quem empata o João no trabalho?|O João empata as outras pessoas no trabalho.
+Em que empata o João as outras pessoas?|O João empata as outras pessoas no trabalho.
+Quem comprou uma camisola amarela?|O Manuel comprou uma camisola amarela.
+O que comprou o Manuel?|O Manuel comprou uma camisola amarela.
+Quem está muito muito contente com isso?|O Manuel está muito muito contente com isso.
+Quem havia visto computadores naquela loja?|O Manuel havia visto computadores naquela loja.
+O que havia o Manuel visto naquela loja?|O Manuel havia visto computadores naquela loja.
+Em que loja havia o Manuel visto computadores?|O Manuel havia visto computadores naquela loja.
+Quem mora mais perto de_ o que a Maria?|O Manuel mora mais perto do que a Maria.
+Quem tem visto computadores naquela loja?|O Manuel tem visto computadores naquela loja.
+O que tem o Manuel visto naquela loja?|O Manuel tem visto computadores naquela loja.
+Em que loja tem o Manuel visto computadores?|O Manuel tem visto computadores naquela loja.
+Quem é muito simpático?|O Manuel é muito simpático.
+Quem acabou de sair?|O cliente contentíssimo com a compra acabou de sair.
+De que acabou o cliente contentíssimo com a compra?|O cliente contentíssimo com a compra acabou de sair.
+Quem encomendou um computador barato?|O cliente encomendou um computador barato.
+O que encomendou o cliente?|O cliente encomendou um computador barato.
+Quem estava contentíssimo com a compra?|O cliente estava contentíssimo com a compra.
+Com que estava o cliente contentíssimo?|O cliente estava contentíssimo com a compra.
+Quem tinham sido simpáticos?|Os funcionários tinham sido simpáticos.
+A que sobreviveu?|Sobreviveu à guerra.
+Quem desapareceu?|Um Pedro leonês desapareceu.
+O que é controverso?|É controverso que o governo seja competente.
+O que é inevitável?|É inevitável que chova.
+Quem nem queria acreditar?|A Ana nem queria acreditar.
+O que reagiu negativamente à manutenção das taxas de juro do Bundesbank?|A Bolsa de Frankfurt reagiu negativamente à manutenção das taxas de juro do Bundesbank.
+Aonde reagiu a Bolsa de Frankfurt?|A Bolsa de Frankfurt reagiu negativamente à manutenção das taxas de juro do Bundesbank.
+O que está a estudar a criação de parques eólicos no concelho?|A Câmara de Cascais está a estudar a criação de parques eólicos no concelho.
+A que está a Câmara de Cascais?|A Câmara de Cascais está a estudar a criação de parques eólicos no concelho.
+O que será a grande privatização?|A EDP será a grande privatização.
+O que será a EDP?|A EDP será a grande privatização.
+O que vai ser uma ilha?|A Expo vai ser uma ilha.
+O que vai a Expo ser?|A Expo vai ser uma ilha.
+O que até se engasgou com a torrada?|A Guida até se engasgou com a torrada.
+Com que até se engasgou a Guida?|A Guida até se engasgou com a torrada.
+O que pode não ser ainda uma hipótese chamativa de negócio para a maioria dos sectores?|A Internet pode não ser ainda uma hipótese chamativa de negócio para a maioria dos sectores.
+O que pode a Internet não ser?|A Internet pode não ser ainda uma hipótese chamativa de negócio para a maioria dos sectores.
+O que é uma mulher corajosa?|A Isabel Stilwell é uma mulher corajosa.
+Quem é a Isabel Stilwell?|A Isabel Stilwell é uma mulher corajosa.
+O que não se apurou para os quartos-de-final do Europeu?|A Itália não se apurou para os quartos-de-final do Europeu.
+Para que não se apurou a Itália?|A Itália não se apurou para os quartos-de-final do Europeu.
+O que voltou a sorrir?|A Nazaré voltou a sorrir.
+A que voltou a Nazaré?|A Nazaré voltou a sorrir.
+O que é uma inspiração?|A Nazaré é uma inspiração.
+O que é a Nazaré?|A Nazaré é uma inspiração.
+O que adormecera?|A Sarinha adormecera finalmente.
+O que nega tudo?|A administração nega tudo.
+O que nega a administração?|A administração nega tudo.
+O que já está em marcha no PSD?|A alteração dos estatutos já está em marcha no PSD.
+Onde já está a alteração dos estatutos?|A alteração dos estatutos já está em marcha no PSD.
+O que cresce?|A ameaça cresce exponencialmente.
+O que muda radicalmente entre os diferentes sectores da sociedade?|A avaliação muda radicalmente entre os diferentes sectores da sociedade.
+Entre que muda a avaliação?|A avaliação muda radicalmente entre os diferentes sectores da sociedade.
+O que não mudou de dorso?|A camisola amarela não mudou de dorso.
+De que não mudou a camisola amarela?|A camisola amarela não mudou de dorso.
+O que vai revolucionar Lisboa?|A cimeira da OSCE vai revolucionar Lisboa.
+O que vai a cimeira da OSCE revolucionar?|A cimeira da OSCE vai revolucionar Lisboa.
+O que apreciará também cerca de quatro mil processos herdados do Governo anterior?|A comissão apreciará também cerca de quatro mil processos herdados do Governo anterior.
+O que apreciará a comissão?|A comissão apreciará também cerca de quatro mil processos herdados do Governo anterior.
+O que acabou?|A conversa acabou aqui.
+O que não é delas?|A culpa não é delas.
+De quem não é a culpa?|A culpa não é delas.
+O que não tem regras rígidas?|A educação não tem regras rígidas.
+O que não tem a educação?|A educação não tem regras rígidas.
+O que será cotada na Bolsa de Valores do Luxemburgo?|A emissão será cotada na Bolsa de Valores do Luxemburgo.
+Onde será a emissão cotada do Luxemburgo?|A emissão será cotada na Bolsa de Valores do Luxemburgo.
+De que será a emissão cotada na Bolsa de Valores?|A emissão será cotada na Bolsa de Valores do Luxemburgo.
+O que é o segundo agente socializador das crianças?|A escola é o segundo agente socializador das crianças.
+Quem é a escola?|A escola é o segundo agente socializador das crianças.
+O que vai para a floricultura?|A esperança vai para a floricultura.
+Para que vai a esperança?|A esperança vai para a floricultura.
+O que foi ontem publicada?|A ficha técnica foi ontem publicada.
+O que também foi aflorada no debate?|A gestão da Casa do Douro também foi aflorada no debate.
+Em que também foi a gestão da Casa do Douro aflorada?|A gestão da Casa do Douro também foi aflorada no debate.
+O que surgiu no cabeleireiro?|A ideia deste espectáculo surgiu no cabeleireiro.
+Em que surgiu a ideia deste espectáculo?|A ideia deste espectáculo surgiu no cabeleireiro.
+Quem respondeu com um aceno de cabeça?|A irmã respondeu com um aceno de cabeça.
+Com que respondeu a irmã?|A irmã respondeu com um aceno de cabeça.
+Quem já deve estar à minha espera?|A minha avó já deve estar à minha espera.
+A que já deve a minha avó estar?|A minha avó já deve estar à minha espera.
+O que é enriquecida pelo factor religioso?|A minha vida de cientista é enriquecida pelo factor religioso.
+Por que é a minha vida de cientista enriquecida?|A minha vida de cientista é enriquecida pelo factor religioso.
+O que é feita não só pelo catecismo da igreja católica mas também pelos teólogos moralistas que são especialistas nestas áreas?|A moral católica é feita não só pelo catecismo da igreja católica mas também pelos teólogos moralistas que são especialistas nestas áreas.
+Não quem é a moral católica feita?|A moral católica é feita não só pelo catecismo da igreja católica mas também pelos teólogos moralistas que são especialistas nestas áreas.
+Quem disse que eu teria de ter cuidados de higiene redobrados?|A mãe disse que eu teria de ter cuidados de higiene redobrados.
+O que disse a mãe?|A mãe disse que eu teria de ter cuidados de higiene redobrados.
+O que continua a dominar a agenda musical destes dias?|A música clássica continua a dominar a agenda musical destes dias.
+A que continua a música clássica?|A música clássica continua a dominar a agenda musical destes dias.
+O que foi revelada por Fernando Gomes num debate realizado em Alijó?|A notícia foi revelada por Fernando Gomes num debate realizado em Alijó.
+Por quem foi a notícia revelada num debate realizado em Alijó?|A notícia foi revelada por Fernando Gomes num debate realizado em Alijó.
+Em que foi a notícia revelada por Fernando Gomes?|A notícia foi revelada por Fernando Gomes num debate realizado em Alijó.
+O que já tem nome?|A nova ponte já tem nome.
+O que já tem a nova ponte?|A nova ponte já tem nome.
+Quem morreu um jornalista turco?|A pessoa que morreu com um ataque cardíaco no local da explosão era um jornalista turco.
+Quem era a pessoa que morreu com um ataque cardíaco no local da explosão?|A pessoa que morreu com um ataque cardíaco no local da explosão era um jornalista turco.
+O que ficou nos 1797 escudos?|A posição compradora ficou nos 1797 escudos.
+Em que escudos ficou a posição compradora?|A posição compradora ficou nos 1797 escudos.
+O que vai nascer em Mortágua?|A primeira escola de treino de cães-guias do País vai nascer em Mortágua.
+Onde vai a primeira escola de treino de cães-guias do País nascer?|A primeira escola de treino de cães-guias do País vai nascer em Mortágua.
+O que será o Totoloto?|A próxima tentativa será o Totoloto.
+O que será a próxima tentativa?|A próxima tentativa será o Totoloto.
+O que é importante?|A química é importante.
+O que é estável?|A situação do doente é estável.
+O que não está tranquila?|A sua consciência não está tranquila.
+O que morreu ontem com a nova nos braços?|A velha lua morreu ontem com a nova nos braços.
+Com que morreu a velha lua?|A velha lua morreu ontem com a nova nos braços.
+O que faz o resto?|A vigilância permanente do Rex faz o resto.
+O que faz a vigilância permanente do Rex?|A vigilância permanente do Rex faz o resto.
+Quem não pagava ao fisco?|Administrador judicial não pagava ao fisco.
+A que não pagava Administrador judicial?|Administrador judicial não pagava ao fisco.
+Quem fazem dois mortos?|Acidentes fazem dois mortos.
+Quantos mortos fazem Acidentes?|Acidentes fazem dois mortos.
+Quem vai assinar por três anos?|Adilson vai assinar por três anos.
+Por que anos vai Adilson assinar?|Adilson vai assinar por três anos.
+O que agora possui?|Agora possui também os impostos.
+Quem já reagiu?|Alberto João Jardim já reagiu.
+Quem dizem que este primeiro ano foi apenas uma continuidade do governo de Fernando Henrique Cardoso em termos económicos?|Alguns analistas dizem que este primeiro ano foi apenas uma continuidade do governo de Fernando Henrique Cardoso em termos económicos.
+O que dizem alguns analistas?|Alguns analistas dizem que este primeiro ano foi apenas uma continuidade do governo de Fernando Henrique Cardoso em termos económicos.
+O que estão presos por isso?|Alguns estão presos por isso.
+Por que estão alguns presos?|Alguns estão presos por isso.
+Quantos estão na calha das próximas privatizações?|Ambas estão na calha das próximas privatizações.
+Em que estão ambas?|Ambas estão na calha das próximas privatizações.
+Quem provoca processo em França?|Amianto provoca processo em França.
+O que provoca Amianto?|Amianto provoca processo em França.
+Quem apostam na primeira hipótese?|Analistas políticos apostam na primeira hipótese.
+Em que apostam Analistas políticos?|Analistas políticos apostam na primeira hipótese.
+O que não é ano sem Woody Allen?|Ano não é ano sem Woody Allen.
+O que não é Ano?|Ano não é ano sem Woody Allen.
+Quem retribuiu?|António Guterres retribuiu.
+Quem fez ontem o diagnóstico à crise do FC Porto?|António Oliveira fez ontem o diagnóstico à crise do FC Porto.
+O que fez António Oliveira?|António Oliveira fez ontem o diagnóstico à crise do FC Porto.
+Quem é o segundo administrador executivo que sobrevive à entrada de Torres Campos?|António Pinto é o segundo administrador executivo que sobrevive à entrada de Torres Campos.
+Quem é António Pinto?|António Pinto é o segundo administrador executivo que sobrevive à entrada de Torres Campos.
+O que poderão impedir algumas perdas?|Apenas os resultados dos bancos poderão impedir algumas perdas.
+O que poderão apenas os resultados dos bancos impedir?|Apenas os resultados dos bancos poderão impedir algumas perdas.
+Quem coloca hipótese de mediação internacional?|Arafat coloca hipótese de mediação internacional.
+O que coloca Arafat?|Arafat coloca hipótese de mediação internacional.
+O que arrancou?|Arrancou ontem a operação Euro-96.
+O que se arrepiou?|Arrepiou-se o reino.
+O que gera polémica?|Artigo de embaixador do Brasil em Portugal gera polémica.
+O que gera Artigo de embaixador do Brasil em Portugal?|Artigo de embaixador do Brasil em Portugal gera polémica.
+Quem se despediu do Euro-96?|Artur Jorge despediu-se do Euro-96.
+De que se despediu Artur Jorge?|Artur Jorge despediu-se do Euro-96.
+O que também estão condicionadas pelos actos eleitorais?|As Festas também estão condicionadas pelos actos eleitorais.
+Por que também estão as Festas condicionadas?|As Festas também estão condicionadas pelos actos eleitorais.
+O que começam sempre mais tarde de_ o que as vossas?|As aulas na universidade começam sempre mais tarde do que as vossas.
+Quem desconhecem ainda o local de proveniência do morteiro?|As autoridades desconhecem ainda o local de proveniência do morteiro.
+O que desconhecem as autoridades?|As autoridades desconhecem ainda o local de proveniência do morteiro.
+O que são talvez os seus mais poderosos símbolos?|As cidades são talvez os seus mais poderosos símbolos.
+O que são as cidades?|As cidades são talvez os seus mais poderosos símbolos.
+O que não vão lá muito?|As coisas não vão lá muito bem.
+O que tiveram um impacte muito limitado?|As declarações oficiais da reunião do Grupo dos Sete tiveram um impacte muito limitado.
+O que tiveram as declarações oficiais da reunião do Grupo dos Sete?|As declarações oficiais da reunião do Grupo dos Sete tiveram um impacte muito limitado.
+O que são feitas nas escolas em que os alunos realizaram as provas da primeira época?|As inscrições são feitas nas escolas em que os alunos realizaram as provas da primeira época.
+Em quem são as inscrições feitas?|As inscrições são feitas nas escolas em que os alunos realizaram as provas da primeira época.
+O que são a parte chata?|As letras são a parte chata.
+O que são as letras?|As letras são a parte chata.
+O que são globais?|As necessidades são globais.
+O que estão numa página da World Wide Web de acesso restrito?|As notícias estão numa página da World Wide Web de acesso restrito.
+Em que estão as notícias?|As notícias estão numa página da World Wide Web de acesso restrito.
+O que fecharam em baixa?|As obrigações do estado fecharam em baixa.
+Em que fecharam as obrigações do estado?|As obrigações do estado fecharam em baixa.
+O que são ainda coincidentes quanto ao apoio que a partir de quinta-feira vão dispensar à equipa de futebol?|As opiniões dos sócios são ainda coincidentes quanto ao apoio que a partir de quinta-feira vão dispensar à equipa de futebol.
+Onde são as opiniões dos sócios ainda coincidentes?|As opiniões dos sócios são ainda coincidentes quanto ao apoio que a partir de quinta-feira vão dispensar à equipa de futebol.
+O que pertencem a colecções privadas?|As outras sete pertencem a colecções privadas.
+Onde pertencem as outras sete?|As outras sete pertencem a colecções privadas.
+Quem puderam ser evacuadas?|As pessoas idosas puderam ser evacuadas.
+O que eram muito claras?|As relações de autoridade na aula eram muito claras.
+O que desapareceram quase todas?|As repúblicas desapareceram quase todas.
+O que não fugiam à normalidade?|As vítimas não fugiam à normalidade.
+A que não fugiam as vítimas?|As vítimas não fugiam à normalidade.
+O que devolve espaço de lazer ao bairro?|Associação devolve espaço de lazer ao bairro.
+O que devolve Associação ao bairro?|Associação devolve espaço de lazer ao bairro.
+Aonde devolve Associação espaço de lazer?|Associação devolve espaço de lazer ao bairro.
+Quem exigem despoluição?|Autarcas exigem despoluição.
+O que exigem Autarcas?|Autarcas exigem despoluição.
+O que emite obrigações a vinte anos?|BEI emite obrigações a vinte anos.
+O que emite BEI?|BEI emite obrigações a vinte anos.
+O que reduz taxa de intervenção?|Banco de França reduz taxa de intervenção.
+O que reduz Banco de França?|Banco de França reduz taxa de intervenção.
+Quem recupera credibilidade?|Baía recupera credibilidade.
+O que recupera Baía?|Baía recupera credibilidade.
+O que chegou a casa?|Belenenses chegou a casa.
+O que chegou Belenenses?|Belenenses chegou a casa.
+O que recruta no Brasil?|Benfica recruta no Brasil.
+Onde recruta Benfica?|Benfica recruta no Brasil.
+Quem tinha vendido 5 contos de heroína à vítima?|Bento tinha vendido 5 contos de heroína à vítima.
+Quantos contos tinha Bento vendido à vítima?|Bento tinha vendido 5 contos de heroína à vítima.
+A que tinha Bento vendido 5 contos de heroína?|Bento tinha vendido 5 contos de heroína à vítima.
+Quem se concentra em Lisboa?|Betão concentra-se em Lisboa.
+Onde se concentra Betão?|Betão concentra-se em Lisboa.
+O que venceu em Leça?|Boavista venceu em Leça.
+Onde venceu Boavista?|Boavista venceu em Leça.
+Quem celebram bodas de diamante?|Bombeiros celebram bodas de diamante.
+O que celebram Bombeiros?|Bombeiros celebram bodas de diamante.
+O que está a negociar a venda da fruta e da flor?|CGD está a negociar a venda da fruta e da flor.
+A que está CGD?|CGD está a negociar a venda da fruta e da flor.
+O que vai reabrir delegação em Beirute?|CNN vai reabrir delegação em Beirute.
+O que vai CNN reabrir?|CNN vai reabrir delegação em Beirute.
+O que aplaude demissão do líder dos sérvios da Bósnia?|Comunidade International aplaude demissão do líder dos sérvios da Bósnia.
+O que aplaude Comunidade International?|Comunidade International aplaude demissão do líder dos sérvios da Bósnia.
+O que mantêm frescura e atualidade?|Conversas de Agostinho da Silva mantêm frescura e atualidade.
+O que cascam no vento?|Cascais aposta no vento.
+Em que aposta Cascais?|Cascais aposta no vento.
+Quando casámos de Julho de 1918?|Casámos a 8 de Julho de 1918.
+De que casámos a 8?|Casámos a 8 de Julho de 1918.
+Quem inicia nova fase?|Cena Lusófona inicia nova fase.
+O que inicia Cena Lusófona?|Cena Lusófona inicia nova fase.
+O que lança Raíz Valorização?|Central Fundos lança Raíz Valorização.
+Quem lança Central Fundos?|Central Fundos lança Raíz Valorização.
+Quem morreram ontem em acidentes de viação nas estradas portuguesas?|Cinco pessoas morreram ontem em acidentes de viação nas estradas portuguesas.
+Em que morreram cinco pessoas?|Cinco pessoas morreram ontem em acidentes de viação nas estradas portuguesas.
+O que mata bebé?|Circuncisão feita em casa mata bebé.
+Quem mata Circuncisão feita em casa?|Circuncisão feita em casa mata bebé.
+Qual vai ser recuperado?|Claustro de Semide vai ser recuperado.
+Quem não podia estar mais confiante?|Clinton não podia estar mais confiante.
+O que começaram?|Começaram as reuniões preparatórias para a feitura dos programas eleitorais.
+Quem dá a mão ao turismo?|Comércio dá a mão ao turismo.
+O que dá Comércio?|Comércio dá a mão ao turismo.
+Quem elimina espiões do Norte?|Coreia do Sul elimina espiões do Norte.
+O que elimina Coreia do Sul?|Coreia do Sul elimina espiões do Norte.
+Quem discute alargamento da UE em Dublin?|Cravinho discute alargamento da UE em Dublin.
+O que discute Cravinho?|Cravinho discute alargamento da UE em Dublin.
+O que quer construir 23 casas para a comunidade do acampamento?|Câmara de Gaia quer construir 23 casas para a comunidade do acampamento.
+O que quer Câmara de Gaia construir para a comunidade do acampamento?|Câmara de Gaia quer construir 23 casas para a comunidade do acampamento.
+Para que quer Câmara de Gaia construir 23 casas?|Câmara de Gaia quer construir 23 casas para a comunidade do acampamento.
+O que reforça fiscalização ao estacionamento ilegal na cidade?|Câmara do Porto reforça fiscalização ao estacionamento ilegal na cidade.
+O que reforça Câmara do Porto?|Câmara do Porto reforça fiscalização ao estacionamento ilegal na cidade.
+O que suspende obras de gasolineira?|Câmara suspende obras de gasolineira.
+O que suspende Câmara?|Câmara suspende obras de gasolineira.
+Quem vai aos Jogos Olímpicos?|David Maia vai aos Jogos Olímpicos.
+A que vai David Maia?|David Maia vai aos Jogos Olímpicos.
+Quem foi a opinião do treinador portista Joseph Mlynarczik?|Decisiva foi a opinião do treinador portista Joseph Mlynarczik.
+O que foi decisiva?|Decisiva foi a opinião do treinador portista Joseph Mlynarczik.
+O que criou algum pânico?|Decisão criou algum pânico.
+O que criou Decisão?|Decisão criou algum pânico.
+O que lhe dei?|Dei-lhe um cachorro.
+Quem continuam no Bailundo?|Deputados da UNITA continuam no Bailundo.
+Onde continuam Deputados da UNITA?|Deputados da UNITA continuam no Bailundo.
+O que despiu dois mortos?|Despiste causa dois mortos.
+Quantos mortos causa Despiste?|Despiste causa dois mortos.
+Em que prateleira deve estar?|Deve estar nessa prateleira.
+O que deve haver neste folheto do deserto do Sara?|Deve haver qualquer coisa sobre eles neste folheto do deserto do Sara.
+Em que deve haver qualquer coisa sobre eles?|Deve haver qualquer coisa sobre eles neste folheto do deserto do Sara.
+A que deverá ser apresentado?|Deverá ser apresentado aos tribunais no Outono.
+O que justifica falhanços?|Directora do Gabinete das Festas de Lisboa justifica falhanços.
+O que justifica Directora do Gabinete das Festas de Lisboa?|Directora do Gabinete das Festas de Lisboa justifica falhanços.
+O que disse em voz alta?|Disse estas últimas palavras em voz alta.
+Em quem disse estas últimas palavras?|Disse estas últimas palavras em voz alta.
+O que dou por duas razões?|Dou nota negativa por duas razões.
+Por que razões dou nota negativa?|Dou nota negativa por duas razões.
+O que causa homicídio em Barcelos?|Droga causa homicídio em Barcelos.
+O que causa Droga?|Droga causa homicídio em Barcelos.
+Quem não resiste a uma boa serenata?|Ela não resiste a uma boa serenata.
+A que não resiste ela?|Ela não resiste a uma boa serenata.
+Quem sempre gostou de ti?|Ela sempre gostou de ti.
+De quem sempre gostou ela?|Ela sempre gostou de ti.
+Quem é muito sociável?|Ela é muito sociável.
+Quem se calou por instantes?|Ele calou-se por instantes.
+Por que se calou ele?|Ele calou-se por instantes.
+Quem era a gaveta secreta dos juízes dos tribunais franquistas?|Ele era a gaveta secreta dos juízes dos tribunais franquistas.
+O que era ele?|Ele era a gaveta secreta dos juízes dos tribunais franquistas.
+Quem é um profissional?|Ele é um profissional.
+O que é ele?|Ele é um profissional.
+Quem compromete prazos?|Electrificação compromete prazos.
+O que compromete Electrificação?|Electrificação compromete prazos.
+O que era?|Era a última aula do dia.
+Quem era?|Era um padre muito bom.
+O que pode ser relançada?|Escola Agrícola da Paiã pode ser relançada.
+O que foi pedida em Outubro de 1996?|Essa informação foi pedida em Outubro de 1996.
+Quando foi essa informação pedida?|Essa informação foi pedida em Outubro de 1996.
+O que pode ser feita com uma declaração da embaixada respectiva ou um atestado de residência?|Essa prova pode ser feita com uma declaração da embaixada respectiva ou um atestado de residência.
+Com que pode essa prova ser feita?|Essa prova pode ser feita com uma declaração da embaixada respectiva ou um atestado de residência.
+O que tem de ser uma prioridade?|Essa tem de ser uma prioridade.
+De que tem essa?|Essa tem de ser uma prioridade.
+O que é a realidade?|Essa é a realidade.
+O que é essa?|Essa é a realidade.
+O que é só vosso?|Esse assunto é só vosso.
+O que é originária da América do Sul?|Esta arara é originária da América do Sul.
+Deonde é esta arara originária?|Esta arara é originária da América do Sul.
+O que foi duplamente uma semana sem leis?|Esta semana foi duplamente uma semana sem leis.
+O que foi esta semana?|Esta semana foi duplamente uma semana sem leis.
+O que chegou a um ponto em que o actor acabou por dizer que já não queria fazer o filme?|Esta situação chegou a um ponto em que o actor acabou por dizer que já não queria fazer o filme.
+A quem chegou esta situação?|Esta situação chegou a um ponto em que o actor acabou por dizer que já não queria fazer o filme.
+O que entrou assim em rota de colisão com Bouteflika?|Este entrou assim em rota de colisão com Bouteflika.
+Em quem entrou este?|Este entrou assim em rota de colisão com Bouteflika.
+O que é o meu irmão Pedro?|Este é o meu irmão Pedro.
+Quem é este?|Este é o meu irmão Pedro.
+Por quem estou muito contente?|Estou muito contente por ti.
+O que está?|Está aqui o endereço.
+Quem até já foi à missa?|Eu até já fui à missa.
+A que até já fui eu?|Eu até já fui à missa.
+Quem gosta mesmo da Nazaré?|Eu gosto mesmo da Nazaré.
+Deonde gosto eu?|Eu gosto mesmo da Nazaré.
+Quem hoje quer chegar a horas?|Eu hoje quero chegar a horas.
+O que hoje quero eu chegar?|Eu hoje quero chegar a horas.
+Quem percebe?|Eu percebo perfeitamente.
+Quem é teu amigo?|Eu sou teu amigo.
+Quem sou eu?|Eu sou teu amigo.
+Quem vai tentar desenvolver outro sistema de defesa qualquer?|Eu vou tentar desenvolver outro sistema de defesa qualquer.
+O que vou eu tentar desenvolver?|Eu vou tentar desenvolver outro sistema de defesa qualquer.
+Quem morre em Setúbal?|Ex-Stasi morre em Setúbal.
+Onde morre Ex-Stasi?|Ex-Stasi morre em Setúbal.
+O que existe nesse local?|Existe uma potencial vala comum nesse local.
+Onde existe uma potencial vala comum?|Existe uma potencial vala comum nesse local.
+O que existem no mundo das tecnologias de informação?|Existem inúmeras situações análogas no mundo das tecnologias de informação.
+Onde existem inúmeras situações análogas?|Existem inúmeras situações análogas no mundo das tecnologias de informação.
+O que existem?|Existem pelo menos quatro grupos de White Cloud em funções polares.
+Quem faz quatro feridos?|Explosão faz quatro feridos.
+Quantos faz Explosão?|Explosão faz quatro feridos.
+O que atinge animais nas fronteiras da Europa?|Febre aftosa atinge animais nas fronteiras da Europa.
+O que atinge Febre aftosa?|Febre aftosa atinge animais nas fronteiras da Europa.
+Quem domina no xadrez?|Fernandes domina no xadrez.
+Em que domina Fernandes?|Fernandes domina no xadrez.
+O que faz?|Faz o que quiseres.
+O que condiciona mercados?|Feriado nos Estados Unidos condiciona mercados.
+O que condiciona Feriado nos Estados Unidos?|Feriado nos Estados Unidos condiciona mercados.
+Em que ficaram 1561 contratos?|Ficaram em aberto 1561 contratos.
+Quantos contratos ficaram em aberto?|Ficaram em aberto 1561 contratos.
+Quem apareceu em hóstia durante a celebração da missa?|Figura de Cristo apareceu em hóstia durante a celebração da missa.
+Em que apareceu Figura de Cristo durante a celebração da missa?|Figura de Cristo apareceu em hóstia durante a celebração da missa.
+Durante que apareceu Figura de Cristo em hóstia?|Figura de Cristo apareceu em hóstia durante a celebração da missa.
+O que fizeram?|Fizeram um grande álbum.
+O que destrói matas em Pinho?|Fogo destrói matas em Pinho.
+O que destrói Fogo em Pinho?|Fogo destrói matas em Pinho.
+Onde destrói Fogo matas?|Fogo destrói matas em Pinho.
+O que foi identificada?|Foi identificada uma zona que podia ser uma vala comum.
+O que foi em Ávila?|Foi isto em Ávila.
+Onde foi isto?|Foi isto em Ávila.
+O que foi?|Foi o que reivindicámos na altura.
+Para que foi há 73 anos?|Foi para o Brasil há 73 anos.
+Quantos anos foi para o Brasil há?|Foi para o Brasil há 73 anos.
+O que foi?|Foi pura coincidência.
+O que foi muito rápido?|Foi tudo muito rápido.
+O que foi?|Foi um enriquecimento extraordinário.
+De que foram?|Foram das primeiras bandas que vimos ao vivo.
+O que foram relatadas?|Foram relatadas várias execuções ao longo do rio Jadar.
+O que foram vistos?|Foram vistos cadáveres alinhados no local.
+O que matam 43 islamistas?|Forças de segurança matam 43 islamistas.
+O que matam Forças de segurança?|Forças de segurança matam 43 islamistas.
+Quem não revelam autor?|Fotografias não revelam autor.
+Quem não revelam Fotografias?|Fotografias não revelam autor.
+Qual deve ser refreado?|Frenesim regionalista do PS-Porto deve ser refreado.
+O que fui fazer?|Fui fazer uma visita à Sarinha.
+Quem fazem morte nas estradas?|Férias fazem morte nas estradas.
+O que fazem Férias?|Férias fazem morte nas estradas.
+O que incomoda população?|Fábrica de carvão incomoda população.
+O que incomoda Fábrica de carvão?|Fábrica de carvão incomoda população.
+O que devia milhares ao fisco?|Gestor judicial notável devia milhares ao fisco.
+O que devia Gestor judicial notável?|Gestor judicial notável devia milhares ao fisco.
+O que dá casas?|Governo dá casas.
+O que dá Governo?|Governo dá casas.
+O que financia emprego?|Governo financia emprego.
+O que financia Governo?|Governo financia emprego.
+O que promove emprego?|Governo promove emprego.
+O que promove Governo?|Governo promove emprego.
+O que absorve BCM?|Grupo BCP absorve BCM.
+O que absorve Grupo BCP?|Grupo BCP absorve BCM.
+Aonde gungunhana chega?|Gungunhana chega aos Açores.
+Quem cria joint-venture em Xangai?|General Motors cria joint-venture em Xangai.
+O que cria General Motors em Xangai?|General Motors cria joint-venture em Xangai.
+Onde cria General Motors joint-venture?|General Motors cria joint-venture em Xangai.
+O que gome dique?|Gomes da Silva defende dique.
+O que defende Gomes da Silva?|Gomes da Silva defende dique.
+O que gostamos dos Cure?|Gostamos todos dos Cure.
+De que gostamos todos?|Gostamos todos dos Cure.
+De quem gosto?|Gosto muito de ti.
+Quem apresentou queixa-crime?|Governador civil de Braga apresentou queixa-crime.
+O que apresentou Governador civil de Braga?|Governador civil de Braga apresentou queixa-crime.
+O que mantém horários do comércio?|Governo mantém horários do comércio.
+O que mantém Governo?|Governo mantém horários do comércio.
+O que promete regras de ordenamento?|Governo promete regras de ordenamento.
+O que promete Governo?|Governo promete regras de ordenamento.
+Quem constrói a sua no cosmopolitismo que Lisboa não tem?|Graça Dias constrói a sua no cosmopolitismo que Lisboa não tem.
+O que constrói Graça Dias no cosmopolitismo que Lisboa não tem?|Graça Dias constrói a sua no cosmopolitismo que Lisboa não tem.
+Em que constrói Graça Dias a sua?|Graça Dias constrói a sua no cosmopolitismo que Lisboa não tem.
+O que ganha com facilidade?|Guimarães ganha com facilidade.
+Com que ganha Guimarães?|Guimarães ganha com facilidade.
+Quem não suspendeu financiamento?|Gulbenkian não suspendeu financiamento.
+O que não suspendeu Gulbenkian?|Gulbenkian não suspendeu financiamento.
+Quem está a chegar?|Gás Natural está a chegar.
+A que está Gás Natural?|Gás Natural está a chegar.
+Por que hoje vim?|Hoje vim cá por outros motivos.
+Quem querem alteração da Constituição?|Homossexuais querem alteração da Constituição.
+O que querem Homossexuais?|Homossexuais querem alteração da Constituição.
+O que há?|Há alturas em que parece ter um íman que atrai a bola na sua direcção.
+O que há?|Há sete outros suspeitos que a polícia ainda procura.
+O que há no local da execução?|Há uma vala comum no local da execução.
+Onde há uma vala comum?|Há uma vala comum no local da execução.
+O que acelera pagamentos?|IAPMEI acelera pagamentos.
+O que acelera IAPMEI?|IAPMEI acelera pagamentos.
+O que têm centro de dia?|Idosos de Marvila têm centro de dia.
+O que têm Idosos de Marvila?|Idosos de Marvila têm centro de dia.
+O que dá prémios a empreendimentos?|INH dá prémios a empreendimentos.
+O que dá INH a empreendimentos?|INH dá prémios a empreendimentos.
+O que dá INH prémios?|INH dá prémios a empreendimentos.
+O que há mais de sete anos?|Imagens encaixotadas há mais de sete anos.
+De que anos há Imagens encaixotadas?|Imagens encaixotadas há mais de sete anos.
+O que imagina?|Imagina fado em alemão.
+Quem discutem metodologias do pré-escolar?|Investigadores discutem metodologias do pré-escolar.
+O que discutem Investigadores?|Investigadores discutem metodologias do pré-escolar.
+Quem nega contacto?|Inácio nega contacto.
+O que nega Inácio?|Inácio nega contacto.
+O que iremos recuperar?|Iremos recuperar as taxas de crescimento habituais.
+O que expande colonatos?|Israel expande colonatos.
+O que expande Israel?|Israel expande colonatos.
+O que era o que me dominava?|Isso era o que me dominava.
+Quem era isso?|Isso era o que me dominava.
+O que foi uma página na minha vida profissional?|Isso foi uma página na minha vida profissional.
+O que foi isso?|Isso foi uma página na minha vida profissional.
+O que se viu na tal conferência de imprensa?|Isso viu-se na tal conferência de imprensa.
+Em que se viu isso?|Isso viu-se na tal conferência de imprensa.
+Quem critica Governo brasileiro?|Itamar critica Governo brasileiro.
+O que critica Itamar?|Itamar critica Governo brasileiro.
+Quem mantém invencibilidade?|Johnson mantém invencibilidade.
+O que mantém Johnson?|Johnson mantém invencibilidade.
+Quem cria glossário do Europeu?|José estebes cria glossário do Europeu.
+O que cria José estebes?|José estebes cria glossário do Europeu.
+Quem reage?|Jardim Fernandes reage.
+Quem não falou de Paulo Portas?|Jordi Pujol não falou de Paulo Portas.
+De quem não falou Jordi Pujol?|Jordi Pujol não falou de Paulo Portas.
+Quem escreve a Almeida Santos?|Jorge Ferreira escreve a Almeida Santos.
+Quem escreve Jorge Ferreira?|Jorge Ferreira escreve a Almeida Santos.
+Quem foi ao golfe?|Jorge Sampaio foi ao golfe.
+A que foi Jorge Sampaio?|Jorge Sampaio foi ao golfe.
+O que começa hoje em Liverpool?|Julgamento das activistas começa hoje em Liverpool.
+Onde começa Julgamento das activistas?|Julgamento das activistas começa hoje em Liverpool.
+Quem traz a eternidade no seu canto?|June Tabor traz a eternidade no seu canto.
+O que traz June Tabor?|June Tabor traz a eternidade no seu canto.
+O que tomou posse?|Junta Autónoma dos Portos do Centro tomou posse.
+O que tomou Junta Autónoma dos Portos do Centro?|Junta Autónoma dos Portos do Centro tomou posse.
+Por quem juro?|Juro pela alma da minha mãe.
+O que juro?|Juro que não interessa.
+O que justifica?|Justifica a tua resposta.
+Quem não espera alterações?|Khatami não espera alterações.
+O que não espera Khatami?|Khatami não espera alterações.
+Quem denuncia bombardeamentos no Sul do Líbano?|Liga Árabe denuncia bombardeamentos no Sul do Líbano.
+O que denuncia Liga Árabe?|Liga Árabe denuncia bombardeamentos no Sul do Líbano.
+Quem provoca demora?|Legislação provoca demora.
+O que provoca Legislação?|Legislação provoca demora.
+Qual é precisa?|Lei de bases é precisa.
+Quem manda recado a Guterres?|Li Peng manda recado a Guterres.
+O que manda Li Peng a Guterres?|Li Peng manda recado a Guterres.
+A quem manda Li Peng recado?|Li Peng manda recado a Guterres.
+Quem aceita comissão permanente?|Lobo Xavier aceita comissão permanente.
+O que aceita Lobo Xavier?|Lobo Xavier aceita comissão permanente.
+De que problemas longe está Carlos Manuel?|Longe destes problemas está Carlos Manuel.
+Quem longe destes problemas está?|Longe destes problemas está Carlos Manuel.
+Quem ataca Menezes?|Ludgero ataca Menezes.
+Quem ataca Ludgero?|Ludgero ataca Menezes.
+Quem se quer afastar de Saddam?|Líder curdo quer se afastar de Saddam.
+De quem se quer afastar Líder curdo?|Líder curdo quer se afastar de Saddam.
+O que apoia projectos da Lusa?|Macau apoia projectos da Lusa.
+O que apoia Macau?|Macau apoia projectos da Lusa.
+Quem celebra um ano de vida?|MCM África celebra um ano de vida.
+O que celebra MCM África?|MCM África celebra um ano de vida.
+O que absorve crude Iraquiano?|Mercado absorve crude Iraquiano.
+O que absorve Mercado?|Mercado absorve crude Iraquiano.
+O que planeia internet por satélite?|Microsoft planeia internet por satélite.
+Onde planeia Microsoft internet?|Microsoft planeia internet por satélite.
+Quem denuncia venda do país?|Monteiro denuncia venda do país.
+O que denuncia Monteiro?|Monteiro denuncia venda do país.
+O que mostar?|Mostar vota sem incidentes.
+O que discutem em Lisboa o ensino pré-escolar?|Mais de três centenas de técnicos discutem em Lisboa o ensino pré-escolar.
+Onde discutem mais de três centenas de técnicos o ensino pré-escolar?|Mais de três centenas de técnicos discutem em Lisboa o ensino pré-escolar.
+O que discutem mais de três centenas de técnicos em Lisboa?|Mais de três centenas de técnicos discutem em Lisboa o ensino pré-escolar.
+Quem mais satisfeito estava?|Mais satisfeito estava Mário Reis.
+Quem tem razão?|Maria Vitória tem razão.
+O que tem Maria Vitória?|Maria Vitória tem razão.
+Quem voltou a romper em prantos?|Marianita voltou a romper em prantos.
+A que voltou Marianita?|Marianita voltou a romper em prantos.
+O que menciona?|Menciona os efeitos que teve no Alexandre a separação dos pais.
+O que toma decisão quatro anos depois da fuga do ex-corretor?|Ministério das Finanças toma decisão quatro anos depois da fuga do ex-corretor.
+O que toma Ministério das Finanças quatro anos depois da fuga do ex-corretor?|Ministério das Finanças toma decisão quatro anos depois da fuga do ex-corretor.
+O que lança programa a fundo perdido?|Ministério lança programa a fundo perdido.
+O que lança Ministério?|Ministério lança programa a fundo perdido.
+Quem sofre quebra?|Mitsubishi Electric sofre quebra.
+O que sofre Mitsubishi Electric?|Mitsubishi Electric sofre quebra.
+Quem toma posse?|Monge toma posse.
+O que toma Monge?|Monge toma posse.
+Quem repudiam críticas?|Médicos repudiam críticas.
+O que repudiam Médicos?|Médicos repudiam críticas.
+Quem aceitam debate?|Narciso e Menezes aceitam debate.
+O que aceitam Narciso e Menezes?|Narciso e Menezes aceitam debate.
+Quem falham em Jerusalém?|Negociações falham em Jerusalém.
+Onde falham Negociações?|Negociações falham em Jerusalém.
+Em que contexto um a família desempenha papel fundamental no nosso desenvolvimento?|Neste contexto a família desempenha um papel fundamental no nosso desenvolvimento.
+Quem um neste contexto desempenha papel fundamental no nosso desenvolvimento?|Neste contexto a família desempenha um papel fundamental no nosso desenvolvimento.
+O que desempenha neste contexto a família?|Neste contexto a família desempenha um papel fundamental no nosso desenvolvimento.
+Em que momento os apareceram pais do Alexandre?|Neste momento apareceram os pais do Alexandre.
+Quem apareceram neste momento?|Neste momento apareceram os pais do Alexandre.
+Em que ontem se pronunciou o penalista Costa Andrade?|No mesmo sentido se pronunciou ontem o penalista Costa Andrade.
+O que ontem no mesmo sentido pronunciou o penalista Costa Andrade?|No mesmo sentido se pronunciou ontem o penalista Costa Andrade.
+O que pronunciou no mesmo sentido se?|No mesmo sentido se pronunciou ontem o penalista Costa Andrade.
+Quem avança com um debate de urgência?|Nogueira Pinto avança com um debate de urgência.
+Com que avança Nogueira Pinto?|Nogueira Pinto avança com um debate de urgência.
+O que gera polémica?|Nova direcção gera polémica.
+O que gera nova direcção?|Nova direcção gera polémica.
+O que homenageia o Infante D Henrique?|Nova travessia rodoviária do Douro homenageia o Infante D. Henrique.
+Quem homenageia nova travessia rodoviária do Douro?|Nova travessia rodoviária do Douro homenageia o Infante D. Henrique.
+Em que selecção existiu esse nunca tipo de mercenarismo?|Nesta selecção nunca existiu esse tipo de mercenarismo.
+O que nunca existiu nesta selecção?|Nesta selecção nunca existiu esse tipo de mercenarismo.
+O que subiu em Abril?|Número de desempregados subiu em Abril.
+Quando subiu Número de desempregados?|Número de desempregados subiu em Abril.
+Quem era um excelente professor de Físico-Química?|O Aristides era um excelente professor de Físico-Química.
+Quem era o Aristides?|O Aristides era um excelente professor de Físico-Química.
+O que foi ontem divulgado no Boletim de Cotações da Bolsa de Valores de Lisboa?|O Balanço consolidado da Tertir foi ontem divulgado no Boletim de Cotações da Bolsa de Valores de Lisboa.
+Onde foi o Balanço consolidado da Tertir ontem divulgado?|O Balanço consolidado da Tertir foi ontem divulgado no Boletim de Cotações da Bolsa de Valores de Lisboa.
+O que não interveio no mercado?|O Banco de Portugal não interveio no mercado.
+Em que não interveio o Banco de Portugal?|O Banco de Portugal não interveio no mercado.
+O que é um organismo deste ministério?|O IA é um organismo deste ministério.
+O que é o IA?|O IA é um organismo deste ministério.
+O que é recebido em cerca de 20 países africanos?|O MCM África é recebido em cerca de 20 países africanos.
+Onde é o MCM África recebido?|O MCM África é recebido em cerca de 20 países africanos.
+O que não se beliscou?|O Norte não se beliscou.
+O que não reagiu?|O PS não reagiu.
+O que não está a dormir?|O PSD não está a dormir.
+A que não está o PSD?|O PSD não está a dormir.
+Quem ficara com o Frederico ao portão da escola?|O Pedro ficara com o Frederico ao portão da escola.
+Com que ficara o Pedro ao portão da escola?|O Pedro ficara com o Frederico ao portão da escola.
+A que ficara o Pedro com o Frederico?|O Pedro ficara com o Frederico ao portão da escola.
+Quem diz que a laicidade não é negociável em França?|O Presidente Chirac diz que a laicidade não é negociável em França.
+Qual diz o Presidente Chirac?|O Presidente Chirac diz que a laicidade não é negociável em França.
+O que tentou obter um comentário social-democrata?|O Público tentou obter um comentário social-democrata.
+O que tentou o Público obter?|O Público tentou obter um comentário social-democrata.
+Quem não o decepcionaria?|O Rafa não o decepcionaria.
+Quem se ajoelhou?|O Rei ajoelhou-se.
+Quem não perdeu tempo?|O Rui não perdeu tempo.
+O que não perdeu o Rui?|O Rui não perdeu tempo.
+O que passeou na Holanda?|O Tour passeou na Holanda.
+Onde passeou o Tour?|O Tour passeou na Holanda.
+Quem conteve uma gargalhada?|O Vasco conteve uma gargalhada.
+O que conteve o Vasco?|O Vasco conteve uma gargalhada.
+O que surgiu na sequência esta prestação de serviços?|O anúncio surgiu na sequência esta prestação de serviços.
+Em que surgiu o anúncio esta prestação de serviços?|O anúncio surgiu na sequência esta prestação de serviços.
+O que surgiu o anúncio na sequência?|O anúncio surgiu na sequência esta prestação de serviços.
+O que é muito fresco?|O ar do mar é muito fresco.
+O que não muda as respostas?|O aspecto religioso não muda as respostas.
+O que não muda o aspecto religioso?|O aspecto religioso não muda as respostas.
+O que não pode continuar?|O bicho não pode continuar assim.
+O que é o mais optimista?|O cenário é o mais optimista.
+O que é o cenário?|O cenário é o mais optimista.
+O que emitiu 17 pareceres?|O conselho emitiu 17 pareceres.
+Quantos pareceres emitiu o conselho?|O conselho emitiu 17 pareceres.
+O que já morava?|O desgraçado que morava aqui já emigrou.
+O que já era muito velhinho?|O edifício já era muito velhinho.
+O que foi prorrogado por uma hora?|O encerramento das assembleias foi prorrogado por uma hora.
+Por que foi o encerramento das assembleias prorrogado?|O encerramento das assembleias foi prorrogado por uma hora.
+O que suspirava secretamente de alívio?|O episcopado francês suspirava secretamente de alívio.
+De que suspirava o episcopado francês?|O episcopado francês suspirava secretamente de alívio.
+O que continua a condicionar o cobre?|O escândalo Sumitomo continua a condicionar o cobre.
+A que continua o escândalo Sumitomo?|O escândalo Sumitomo continua a condicionar o cobre.
+O que não é propriamente dos mais alegres?|O espectáculo não é propriamente dos mais alegres.
+Propriamente que não é o espectáculo?|O espectáculo não é propriamente dos mais alegres.
+Quem contou ainda que nenhum dos trabalhadores do estabelecimento ficou ferido?|O funcionário da pastelaria contou ainda que nenhum dos trabalhadores do estabelecimento ficou ferido.
+O que contou o funcionário da pastelaria?|O funcionário da pastelaria contou ainda que nenhum dos trabalhadores do estabelecimento ficou ferido.
+O que estava fora do lance?|O guarda-redes Kouba estava fora do lance.
+De que estava o guarda-redes Kouba?|O guarda-redes Kouba estava fora do lance.
+O que trouxe ao Rui uma revelação inesperada?|O início do dia trouxe ao Rui uma revelação inesperada.
+Aonde trouxe o início do dia uma revelação inesperada?|O início do dia trouxe ao Rui uma revelação inesperada.
+O que trouxe o início do dia ao Rui?|O início do dia trouxe ao Rui uma revelação inesperada.
+Quem recebeu ontem em Gaza o primeiro membro do novo governo de Netanyahu?|O líder da OLP recebeu ontem em Gaza o primeiro membro do novo governo de Netanyahu.
+Onde recebeu o líder da OLP ontem o primeiro membro do novo governo de Netanyahu?|O líder da OLP recebeu ontem em Gaza o primeiro membro do novo governo de Netanyahu.
+O que recebeu o líder da OLP ontem em Gaza?|O líder da OLP recebeu ontem em Gaza o primeiro membro do novo governo de Netanyahu.
+O que mora?|O medo mora ali.
+Quem representa vários personagens?|O mesmo actor representa vários personagens.
+Quem representa o mesmo actor?|O mesmo actor representa vários personagens.
+O que embatucou?|O outro embatucou.
+O que ficou enxofrado com aquele insulto?|O outro ficou enxofrado com aquele insulto.
+Com que insulto ficou o outro enxofrado?|O outro ficou enxofrado com aquele insulto.
+Quem a matou?|O pai de Dom Pedro matou-a.
+Quem estava na sala a ver o noticiário?|O pai estava na sala a ver o noticiário.
+Em que estava o pai a ver o noticiário?|O pai estava na sala a ver o noticiário.
+A que estava o pai na sala?|O pai estava na sala a ver o noticiário.
+O que é o de Corroios?|O parque mais avançado é o de Corroios.
+Quem é o parque mais avançado?|O parque mais avançado é o de Corroios.
+O que é agora de Simonetta Luz Afonso?|O pelouro das relações com os países participantes é agora de Simonetta Luz Afonso.
+De quem é o pelouro das relações com os países participantes?|O pelouro das relações com os países participantes é agora de Simonetta Luz Afonso.
+O que é todo meu?|O prazer é todo meu.
+O que foi em Srebrenica?|O primeiro sítio onde o general Mladic foi visto foi em Srebrenica.
+Onde foi o primeiro sítio onde o general Mladic visto foi?|O primeiro sítio onde o general Mladic foi visto foi em Srebrenica.
+O que seria o tema em debate?|O processo de refiliação seria o tema em debate.
+O que seria o processo de refiliação?|O processo de refiliação seria o tema em debate.
+O que o aceitou?|O próprio PSD o aceitou pacificamente.
+O que estava dado?|O recado estava dado.
+O que não é surpreendente?|O relatório do Ministério das Finanças divulgado recentemente acerca das dívidas fiscais não é surpreendente.
+O que está disperso por diversos investidores?|O remanescente está disperso por diversos investidores.
+Por que está o remanescente disperso?|O remanescente está disperso por diversos investidores.
+O que é palha?|O resto é palha.
+Qual é o resto?|O resto é palha.
+O que deverá ser conhecido apenas no início do próximo ano?|O resultado da avaliação deverá ser conhecido apenas no início do próximo ano.
+Em que deverá o resultado da avaliação ser conhecido?|O resultado da avaliação deverá ser conhecido apenas no início do próximo ano.
+O que aqueceu o pelotão?|O sol aqueceu o pelotão.
+O que aqueceu o sol?|O sol aqueceu o pelotão.
+O que veio para a Assembleia da República onde também foi aprovado por unanimidade?|O texto veio para a Assembleia da República onde também foi aprovado por unanimidade.
+Para que veio o texto?|O texto veio para a Assembleia da República onde também foi aprovado por unanimidade.
+O que era agora mais amargo de_ o que um limão verde?|O tom era agora mais amargo do que um limão verde.
+O que prescreveu por falta de bom senso?|O velho lugar comum prescreveu por falta de bom senso.
+Por que prescreveu o velho lugar comum?|O velho lugar comum prescreveu por falta de bom senso.
+O que foi moderado?|O volume foi moderado.
+O que mudam tráfegos na calçada de carriche?|Obras do eixo norte-sul mudam tráfegos na calçada de carriche.
+O que mudam Obras do eixo norte-sul?|Obras do eixo norte-sul mudam tráfegos na calçada de carriche.
+Quem fez justiça?|Oliver Bierhoff fez justiça.
+O que fez Oliver Bierhoff?|Oliver Bierhoff fez justiça.
+O que também pedalam?|Os cegos também pedalam.
+Quem é um bom exemplo?|Ogun é um bom exemplo.
+O que é Ogun?|Ogun é um bom exemplo.
+Quem recorrem ao tribunal?|Operadores recorrem ao tribunal.
+A que recorrem Operadores?|Operadores recorrem ao tribunal.
+O que querem matar cinco baleias cinzentas por ano?|Os Makah querem matar cinco baleias cinzentas por ano.
+Quantas baleias querem os Makah matar por ano?|Os Makah querem matar cinco baleias cinzentas por ano.
+Por que querem os Makah matar cinco baleias cinzentas?|Os Makah querem matar cinco baleias cinzentas por ano.
+O que funcionam em grupos de três?|Os White Cloud funcionam em grupos de três.
+Onde funcionam os White Cloud?|Os White Cloud funcionam em grupos de três.
+O que serão fundamentais?|Os acordos de parceria serão fundamentais.
+O que também ficaram sensibilizados?|Os comentadores israelitas também ficaram sensibilizados.
+O que foram provavelmente desenterrados?|Os corpos de pelo menos uma delas foram provavelmente desenterrados posteriormente.
+Quem afirmam agora que as cotações poderão começar a cair a qualquer momento?|Os corretores afirmam agora que as cotações poderão começar a cair a qualquer momento.
+O que afirmam os corretores?|Os corretores afirmam agora que as cotações poderão começar a cair a qualquer momento.
+Quem ponderam a filiação noutro partido ou a fundação de uma nova formação de extrema esquerda?|Os deputados explusos ponderam a filiação noutro partido ou a fundação de uma nova formação de extrema esquerda.
+O que ponderam os deputados explusos?|Os deputados explusos ponderam a filiação noutro partido ou a fundação de uma nova formação de extrema esquerda.
+O que não vivam nenhuma instituição que os acolha?|Os doentes com sida que vivam no Porto não têm nenhuma instituição que os acolha.
+O que não têm os doentes com sida que vivam no Porto?|Os doentes com sida que vivam no Porto não têm nenhuma instituição que os acolha.
+O que normalmente não são felizes?|Os emigrantes económicos normalmente não são felizes.
+Quem não deverão fazer investimentos significativos no próximo ano?|Os empresários privados não deverão fazer investimentos significativos no próximo ano.
+O que não deverão os empresários privados fazer?|Os empresários privados não deverão fazer investimentos significativos no próximo ano.
+O que vão acontecendo sem grande alarde?|Os encontros de trabalho vão acontecendo sem grande alarde.
+Sem que vão os encontros de trabalho acontecendo?|Os encontros de trabalho vão acontecendo sem grande alarde.
+O que parecem não querer dar tréguas à família real do Mónaco?|Os escândalos parecem não querer dar tréguas à família real do Mónaco.
+O que parecem os escândalos não querer dar à família real do Mónaco?|Os escândalos parecem não querer dar tréguas à família real do Mónaco.
+A quem parecem os escândalos não querer dar tréguas?|Os escândalos parecem não querer dar tréguas à família real do Mónaco.
+Quem devem o seu prestígio às faculdades onde se licenciaram?|Os farmacêuticos devem o seu prestígio às faculdades onde se licenciaram.
+O que devem os farmacêuticos às faculdades onde se licenciaram?|Os farmacêuticos devem o seu prestígio às faculdades onde se licenciaram.
+A que devem os farmacêuticos o seu prestígio?|Os farmacêuticos devem o seu prestígio às faculdades onde se licenciaram.
+Quem ascenderam a níveis de vencimento iguais aos praticados no resto da Europa?|Os jogadores de futebol ascenderam a níveis de vencimento iguais aos praticados no resto da Europa.
+A que ascenderam os jogadores de futebol?|Os jogadores de futebol ascenderam a níveis de vencimento iguais aos praticados no resto da Europa.
+O que perderam a estabilidade?|Os mais novos perderam a estabilidade.
+O que perderam os mais novos?|Os mais novos perderam a estabilidade.
+O que foram mais fortes de_ o que o seu futebol?|Os nervos dos jogadores foram mais fortes do que o seu futebol.
+O que veem o documento com mil cuidados?|Os próprios tchetchenos vêem o documento com mil cuidados.
+O que vêem os próprios tchetchenos?|Os próprios tchetchenos vêem o documento com mil cuidados.
+O que nas tinham?|Os que ainda tinham dúvidas desfizeram-nas.
+O que são bastante significativos?|Os seus argumentos são bastante significativos.
+Quem concordaram?|Os sócios concordaram.
+Quem estão de rastos com o teu desaparecimento?|Os teus pais estão de rastos com o teu desaparecimento.
+De que estão os teus pais com o teu desaparecimento?|Os teus pais estão de rastos com o teu desaparecimento.
+Com que estão os teus pais de rastos?|Os teus pais estão de rastos com o teu desaparecimento.
+O que reagiram em alta à notícia do Wall Street Journal?|Os títulos da operadora reagiram em alta à notícia do Wall Street Journal.
+Em que reagiram os títulos da operadora à notícia do Wall Street Journal?|Os títulos da operadora reagiram em alta à notícia do Wall Street Journal.
+Aonde reagiram os títulos da operadora em alta?|Os títulos da operadora reagiram em alta à notícia do Wall Street Journal.
+O que escaparam?|Os veados escaparam.
+Em que ouvi também que hoje vai haver trovoadas em muitos locais do país?|Ouvi também no noticiário da manhã que hoje vai haver trovoadas em muitos locais do país.
+O que ouvi também no noticiário da manhã?|Ouvi também no noticiário da manhã que hoje vai haver trovoadas em muitos locais do país.
+Quem avisa vereadores do PSD em câmaras de Lisboa?|Pacheco avisa vereadores do PSD em câmaras de Lisboa.
+Quem avisa Pacheco?|Pacheco avisa vereadores do PSD em câmaras de Lisboa.
+O que exige libertação de presos políticos?|PE exige libertação de presos políticos.
+O que exige PE?|PE exige libertação de presos políticos.
+O que procurou durante 17 anos uma escultura que nunca foi furtada?|PJ procurou durante 17 anos uma escultura que nunca foi furtada.
+Durante que anos procurou PJ uma escultura que nunca foi furtada?|PJ procurou durante 17 anos uma escultura que nunca foi furtada.
+O que procurou PJ durante 17 anos?|PJ procurou durante 17 anos uma escultura que nunca foi furtada.
+O que ainda pode chegar ao bronze?|Portugal ainda pode chegar ao bronze.
+A que ainda pode Portugal chegar?|Portugal ainda pode chegar ao bronze.
+O que empata em Toulon?|Portugal empata em Toulon.
+Onde empata Portugal?|Portugal empata em Toulon.
+O que avança com debate de urgência na Assembleia da República?|PP avança com debate de urgência na Assembleia da República.
+Onde avança UNMOVABLE-PP?|PP avança com debate de urgência na Assembleia da República.
+O que quer eliminação dos telefones pagos na Assembleia da República?|PP quer eliminação dos telefones pagos na Assembleia da República.
+O que quer UNMOVABLE-PP?|PP quer eliminação dos telefones pagos na Assembleia da República.
+O que apoia recuperação de centros históricos?|PROCOM apoia recuperação de centros históricos.
+O que apoia PROCOM?|PROCOM apoia recuperação de centros históricos.
+Onde programa arranca?|Programa arranca hoje no continente e ilhas.
+O que decreta silêncio?|PSD decreta silêncio.
+O que decreta PSD?|PSD decreta silêncio.
+O que avança com auditoria do TC às viagens dos deputados?|PSD avança com auditoria do TC às viagens dos deputados.
+Com quem avança PSD?|PSD avança com auditoria do TC às viagens dos deputados.
+Quem avisa em tom de ameaça?|Pacheco avisa em tom de ameaça.
+Em que avisa Pacheco?|Pacheco avisa em tom de ameaça.
+Quem diz que não se revê nessas críticas?|Pacheco diz que não se revê nessas críticas.
+O que diz Pacheco?|Pacheco diz que não se revê nessas críticas.
+Quem tem parque infantil recuperado?|Parede tem parque infantil recuperado.
+O que tem Parede recuperado?|Parede tem parque infantil recuperado.
+O que discute reformas federalistas?|Parlamento italiano discute reformas federalistas.
+O que discute Parlamento italiano?|Parlamento italiano discute reformas federalistas.
+O que aguarda o fim das escavações no Castelo de São Jorge?|Parque de estacionamento aguarda o fim das escavações no Castelo de São Jorge.
+O que aguarda Parque de estacionamento?|Parque de estacionamento aguarda o fim das escavações no Castelo de São Jorge.
+Quem decidiu pedir a votação do artigo que constitucionaliza as regiões?|Paulo Portas decidiu pedir a votação do artigo que constitucionaliza as regiões.
+O que decidiu Paulo Portas pedir?|Paulo Portas decidiu pedir a votação do artigo que constitucionaliza as regiões.
+O que pode ser?|Pode ser um bom começo.
+O que só tinha o futebol no top mundial?|Portugal só tinha o futebol no top mundial.
+O que só tinha Portugal?|Portugal só tinha o futebol no top mundial.
+Qual é bom em futebol?|Portugal é bom em futebol.
+Em que é Portugal bom?|Portugal é bom em futebol.
+Quem será embelezada?|Praça Luís Camões será embelezada.
+Quem recusa candidatura à Câmara do Porto?|Presidente da AIP recusa candidatura à Câmara do Porto.
+O que recusa Presidente da AIP?|Presidente da AIP recusa candidatura à Câmara do Porto.
+Quem começa na próxima segunda-feira?|Privatização da Cimpor começa na próxima segunda-feira.
+Quando começa Privatização da Cimpor?|Privatização da Cimpor começa na próxima segunda-feira.
+Quem continua a preferir a TV?|Publicidade continua a preferir a TV.
+Onde continua Publicidade?|Publicidade continua a preferir a TV.
+O que gera monstruosidades?|Qualquer conhecimento estanque gera monstruosidades.
+O que gera qualquer conhecimento estanque?|Qualquer conhecimento estanque gera monstruosidades.
+O que mata bombeiro de Alenquer?|Queda na instrução mata bombeiro de Alenquer.
+O que mata Queda na instrução?|Queda na instrução mata bombeiro de Alenquer.
+O que quer dizer?|Quer dizer que gostam ambos das mesmas coisas.
+O que arranca em 16 freguesias do continente e ilhas?|Rendimento mínimo arranca em 16 freguesias do continente e ilhas.
+Em que arranca Rendimento mínimo?|Rendimento mínimo arranca em 16 freguesias do continente e ilhas.
+O que assinala emissões internacionais?|RTP assinala emissões internacionais.
+O que assinala RTP?|RTP assinala emissões internacionais.
+O que avança em Francelos?|Realojamento de ciganos avança em Francelos.
+Onde avança Realojamento de ciganos?|Realojamento de ciganos avança em Francelos.
+O que reside?|Reside aí a sua latência mágica.
+O que se revelou?|Revelou-se o teor do acto processual em segredo de justiça.
+Quem fecha ao trânsito?|Rua da Graça fecha ao trânsito.
+A que fecha Rua da Graça?|Rua da Graça fecha ao trânsito.
+O que avança?|S. Francisco avança mesmo.
+O que sacramento retoma?|Sacramento retoma esperanças.
+Qual é o principal suspeito do atentado bombista?|Segurança do parque olímpico de Atlanta é o principal suspeito do atentado bombista.
+O que é Segurança do parque olímpico de Atlanta?|Segurança do parque olímpico de Atlanta é o principal suspeito do atentado bombista.
+Qual é suspeito?|Segurança é suspeito.
+O que poderão perder força?|Sindicatos poderão perder força.
+O que poderão Sindicatos perder?|Sindicatos poderão perder força.
+Quem defende Aparecido na CPLP?|Mota Soares defende Aparecido na CPLP.
+O que defende Mota Soares?|Mota Soares defende Aparecido na CPLP.
+Quem sabemos que tudo o que vibra produz um som?|Sabemos nós que tudo o que vibra produz um som.
+O que sabemos nós?|Sabemos nós que tudo o que vibra produz um som.
+O que sabemos?|Sabemos que os prémios são devidos.
+O que sabes muito?|Sabes muito bem que a Matemática não é o meu forte.
+Quem recusa O Trabalho?|Salgueiro recusa O Trabalho.
+O que recusa Salgueiro?|Salgueiro recusa O Trabalho.
+Quem se candidata a delegado?|Santana Lopes candidata-se a delegado.
+A que se candidata Santana Lopes?|Santana Lopes candidata-se a delegado.
+O que adquire banco argentino?|Santander adquire banco argentino.
+O que adquire Santander?|Santander adquire banco argentino.
+O que se seguem?|Seguem-se sessões de autógrafos com os grupos participantes.
+O que sei?|Sei que a herança não é boa.
+Quantos casos foram assinalados?|Sete casos foram assinalados.
+O que desconfiam?|Sindicatos de Braga desconfiam.
+Sobre quem se debruçou com a autora não pormenor?|Sobre os filhos destas supermulheres a autora não se debruçou com pormenor.
+Quem se debruçou com sobre os filhos destas supermulheres não pormenor?|Sobre os filhos destas supermulheres a autora não se debruçou com pormenor.
+Com que não se debruçou sobre os filhos destas supermulheres a autora?|Sobre os filhos destas supermulheres a autora não se debruçou com pormenor.
+O que lançam campanha nacional pela regionalização?|Socialistas lançam campanha nacional pela regionalização.
+O que lançam Socialistas?|Socialistas lançam campanha nacional pela regionalização.
+O que sou?|Sou um felizardo.
+O que soube?|Soube depois que ele tocava.
+Quem projecta Museu dos Cristos?|Sousel projecta Museu dos Cristos.
+Quem projecta Sousel?|Sousel projecta Museu dos Cristos.
+O que surge?|Surge agora a Dois.
+Qual são?|São coisas naturais.
+Quem são?|São militares de rotina.
+Qual são as reticências dos juízes do Palácio Ratton?|São pelo menos duas as reticências dos juízes do Palácio Ratton.
+O que são por_ o menos duas?|São pelo menos duas as reticências dos juízes do Palácio Ratton.
+O que terminam?|Terminam inscrições para exames.
+O que libertou um dos acusados?|TIC libertou um dos acusados.
+O que libertou TIC?|TIC libertou um dos acusados.
+Quem passeou pela planície Holandesa?|Tour passeou pela planície Holandesa.
+Por quem passeou Tour?|Tour passeou pela planície Holandesa.
+Quem participou por três vezes no Iron Man?|Triatleta portuguesa participou por três vezes no Iron Man.
+Por que vezes participou Triatleta portuguesa no Iron Man?|Triatleta portuguesa participou por três vezes no Iron Man.
+Onde participou Triatleta portuguesa por três vezes?|Triatleta portuguesa participou por três vezes no Iron Man.
+Quem morrem em Tavira?|Três jovens e um adulto morrem em Tavira.
+Onde morrem três jovens e um adulto?|Três jovens e um adulto morrem em Tavira.
+O que foi inaugurada em Espinho?|TV Cabo foi inaugurada em Espinho.
+Onde foi TV Cabo inaugurada?|TV Cabo foi inaugurada em Espinho.
+O que temos da Costa do Estoril?|Temos o Festival de Música da Costa do Estoril.
+De que temos o Festival de Música?|Temos o Festival de Música da Costa do Estoril.
+Quem voltou a fechar em Ermesinde?|Tesouraria da Fazenda Pública voltou a fechar em Ermesinde.
+Onde voltou Tesouraria da Fazenda Pública?|Tesouraria da Fazenda Pública voltou a fechar em Ermesinde.
+De que teve?|Teve de ser de empurrão.
+Quem melhora resultados semestrais?|Thyssen melhora resultados semestrais.
+O que melhora Thyssen?|Thyssen melhora resultados semestrais.
+O que tinha?|Tinha um buraco redondo na parte superior do crânio.
+O que tirei?|Tirei imensas fotografias.
+Para que tocara?|Tocara para a saída.
+O que estavam de férias no Algarve?|Todos estavam de férias no Algarve.
+De que estavam todos no Algarve?|Todos estavam de férias no Algarve.
+Onde estavam todos de férias?|Todos estavam de férias no Algarve.
+O que irão fazer o acompanhamento das crianças envolvidas até aos seus nove anos de idade?|Todos os países irão fazer o acompanhamento das crianças envolvidas até aos seus nove anos de idade.
+O que irão todos os países fazer?|Todos os países irão fazer o acompanhamento das crianças envolvidas até aos seus nove anos de idade.
+O que quiseram desempenhar um papel nas transições democráticas dos seus países balcânicos?|Todos quiseram desempenhar um papel nas transições democráticas dos seus países balcânicos.
+O que quiseram todos desempenhar?|Todos quiseram desempenhar um papel nas transições democráticas dos seus países balcânicos.
+O que sentem muito a tua falta?|Todos sentimos muito a tua falta.
+O que sentimos todos?|Todos sentimos muito a tua falta.
+Quem conclui microfilmagens do período colonial?|Torre do Tombo conclui microfilmagens do período colonial.
+O que conclui Torre do Tombo?|Torre do Tombo conclui microfilmagens do período colonial.
+Quem solicitam a tribunal anulação das eleições em Israel?|Trabalhistas solicitam a tribunal anulação das eleições em Israel.
+Onde solicitam Trabalhistas anulação das eleições em Israel?|Trabalhistas solicitam a tribunal anulação das eleições em Israel.
+O que solicitam Trabalhistas a tribunal?|Trabalhistas solicitam a tribunal anulação das eleições em Israel.
+De quem se trata?|Trata-se de um fado cantado pelo tal Alberto Ribeiro no filme Capas Negras.
+O que matam gado?|Trovadas matam gado.
+O que matam Trovadas?|Trovadas matam gado.
+O que é tudo?|Um ponto é tudo.
+Qual é um ponto?|Um ponto é tudo.
+Quem já comprou um cão através de um anúncio de jornal?|Um amigo meu já comprou um cão através de um anúncio de jornal.
+O que já comprou um amigo meu através de um anúncio de jornal?|Um amigo meu já comprou um cão através de um anúncio de jornal.
+Através que já comprou um amigo meu um cão?|Um amigo meu já comprou um cão através de um anúncio de jornal.
+O que cheira o longo corredor?|Um cheiro a naftalina invadiu o longo corredor.
+O que invadiu um cheiro a naftalina?|Um cheiro a naftalina invadiu o longo corredor.
+Quem é assim uma espécie de corista?|Um cronista em Portugal é assim uma espécie de corista.
+O que é um cronista em Portugal?|Um cronista em Portugal é assim uma espécie de corista.
+Quem ficou ferido?|Um operário ficou ferido.
+O que é uma aparente inconsistência dos extremos que se tocam?|Uma característica fundamental dos portugueses é uma aparente inconsistência dos extremos que se tocam.
+O que é uma característica fundamental dos portugueses?|Uma característica fundamental dos portugueses é uma aparente inconsistência dos extremos que se tocam.
+Quem entra em pânico?|Uma mulher entra em pânico.
+Em que entra uma mulher?|Uma mulher entra em pânico.
+Quem ganha apoios?|Valentim Loureiro ganha apoios.
+O que ganha Valentim Loureiro?|Valentim Loureiro ganha apoios.
+O que recupera pavia?|Viseu recupera pavia.
+O que recupera Viseu?|Viseu recupera pavia.
+Quem são os trapos?|Velhos são os trapos.
+O que são velhos?|Velhos são os trapos.
+Com que vem?|Vem imediatamente comigo.
+Quem vão ser?|Vão ser muitos colegas.
+Quem são idosos isolados?|Vítimas são idosos isolados.
+Qual são Vítimas?|Vítimas são idosos isolados.
+Quem está cansada?|Vó Aurora está cansada.
+O que acompanhou os movimentos de Saddam desde a primeira hora?|Washington acompanhou os movimentos de Saddam desde a primeira hora.
+O que acompanhou Washington desde a primeira hora?|Washington acompanhou os movimentos de Saddam desde a primeira hora.
+Desde que acompanhou Washington os movimentos de Saddam?|Washington acompanhou os movimentos de Saddam desde a primeira hora.
+Quem irrita adeptos do Rio Ave?|Árbitro irrita adeptos do Rio Ave.
+Quem irrita Árbitro?|Árbitro irrita adeptos do Rio Ave.
+O que é nova no Extremo Oriente?|A Ashurst é nova no Extremo Oriente.
+Onde é a Ashurst nova?|A Ashurst é nova no Extremo Oriente.
+O que lhe disse que não fazia contra-espionagem doméstica?|A CIA disse-lhe que não fazia contra-espionagem doméstica.
+O que lhe disse a CIA?|A CIA disse-lhe que não fazia contra-espionagem doméstica.
+O que não é a primeira promoção deste género?|A Chivas Class não é a primeira promoção deste género.
+O que não é a Chivas Class?|A Chivas Class não é a primeira promoção deste género.
+O que indicou o caminho?|A Legião Americana Color Guard local indicou o caminho.
+O que indicou a Legião Americana Color Guard local?|A Legião Americana Color Guard local indicou o caminho.
+O que vai lançar um Sentra completamente renovado na próxima estação?|A Nissan vai lançar um Sentra completamente renovado na próxima estação.
+Quem vai a Nissan lançar na próxima estação?|A Nissan vai lançar um Sentra completamente renovado na próxima estação.
+Em que vai a Nissan lançar um Sentra completamente renovado?|A Nissan vai lançar um Sentra completamente renovado na próxima estação.
+O que terá de vender ou fundir centenas de créditos insolventes nos próximos três anos?|A RTC terá de vender ou fundir centenas de créditos insolventes nos próximos três anos.
+De que anos terá a RTC?|A RTC terá de vender ou fundir centenas de créditos insolventes nos próximos três anos.
+O que terá o nome da Norris McLaughlin?|A empresa emergente terá o nome da Norris McLaughlin.
+O que terá a empresa emergente?|A empresa emergente terá o nome da Norris McLaughlin.
+O que não teceu comentários sobre a nomeação de um substituto?|A empresa não teceu comentários sobre a nomeação de um substituto.
+O que não teceu a empresa?|A empresa não teceu comentários sobre a nomeação de um substituto.
+O que emitirá os certificados?|A fiduciária emitirá os certificados.
+O que emitirá a fiduciária?|A fiduciária emitirá os certificados.
+O que é boa?|A minha fastball é boa.
+O que entra em vigor a 15 de Fevereiro?|A nova taxa entra em vigor a 15 de Fevereiro.
+Quando entra a nova taxa?|A nova taxa entra em vigor a 15 de Fevereiro.
+O que é o resultado de um pagamento aprovado ontem pelo Departamento de Utilidade Pública de Mssachusetts?|A taxa é o resultado de um pagamento aprovado ontem pelo Departamento de Utilidade Pública de Mssachusetts.
+O que é a taxa?|A taxa é o resultado de um pagamento aprovado ontem pelo Departamento de Utilidade Pública de Mssachusetts.
+O que existe desde o final do ano?|A variação percentual existe desde o final do ano.
+Desde que existe a variação percentual?|A variação percentual existe desde o final do ano.
+Com quem actualmente vive no Alabama?|Actualmente vive com familiares no Alabama.
+Onde actualmente vive com familiares?|Actualmente vive com familiares no Alabama.
+Qual são simplesmente bizarras?|Algumas das alegações são simplesmente bizarras.
+Quantos casos aqui estão?|Aqui estão dois casos que o ilustram.
+O que são totalmente diferentes?|As minhas relações com os britânicos são totalmente diferentes.
+O que adornavam a sua bancada?|Cestos de rosas e palmeiras em vasos adornavam a sua bancada.
+O que adornavam Cestos de rosas e palmeiras em vasos?|Cestos de rosas e palmeiras em vasos adornavam a sua bancada.
+O que são definidos por um número crescente de estados?|Direitos dos contribuintes são definidos por um número crescente de estados.
+Por que são Direitos dos contribuintes definidos?|Direitos dos contribuintes são definidos por um número crescente de estados.
+O que foi uma ideia do próprio George Bush?|Esta foi uma ideia do próprio George Bush.
+O que foi esta?|Esta foi uma ideia do próprio George Bush.
+O que foi drasticamente abandonada em Agosto?|Esta medida foi drasticamente abandonada em Agosto.
+Quando foi esta medida drasticamente abandonada?|Esta medida foi drasticamente abandonada em Agosto.
+Quem inventa um leite?|Goya inventa um leite.
+O que inventa Goya?|Goya inventa um leite.
+O que não é possível?|Isso não é possível.
+O que não deverá decidir antes do próximo ano?|O Tribunal Fiscal não deverá decidir antes do próximo ano.
+Antes que não deverá o Tribunal Fiscal decidir?|O Tribunal Fiscal não deverá decidir antes do próximo ano.
+O que aquiesceu?|O banco aquiesceu.
+O que seria o último na rápida expansão de investimentos ultramarinos da Coca-Cola?|O empreendimento seria o último na rápida expansão de investimentos ultramarinos da Coca-Cola.
+O que seria o empreendimento?|O empreendimento seria o último na rápida expansão de investimentos ultramarinos da Coca-Cola.
+O que será sediado em Indianapolis?|O empreendimento será sediado em Indianapolis.
+Onde será o empreendimento sediado?|O empreendimento será sediado em Indianapolis.
+O que vai hoje assinar um protocolo que estabelece relações diplomáticas formais com a Polónia?|O governo da Coreia do Sul vai hoje assinar um protocolo que estabelece relações diplomáticas formais com a Polónia.
+O que vai o governo da Coreia do Sul hoje assinar?|O governo da Coreia do Sul vai hoje assinar um protocolo que estabelece relações diplomáticas formais com a Polónia.
+O que não foi a única circunstância em que o juiz recebeu tratamento especial por parte do seu banco local?|O incidente não foi a única circunstância em que o juiz recebeu tratamento especial por parte do seu banco local.
+O que não foi o incidente?|O incidente não foi a única circunstância em que o juiz recebeu tratamento especial por parte do seu banco local.
+Quem escreveu?|O juiz escreveu novamente.
+O que não foi divulgado?|O preço não foi divulgado.
+O que permanece?|O seu legado permanece.
+O que é o representante de negociação de mais de 20000 funcionários do Estado de Michigan?|O sindicato é o representante de negociação de mais de 20000 funcionários do Estado de Michigan.
+Quem é o sindicato?|O sindicato é o representante de negociação de mais de 20000 funcionários do Estado de Michigan.
+O que são peritos na ofuscação?|Os Babelistas das Nações Unidas são peritos na ofuscação.
+Qual são os Babelistas das Nações Unidas?|Os Babelistas das Nações Unidas são peritos na ofuscação.
+O que o assumiram controlo e finalmente encontraram Markus Hess?|Os alemães ocidentais assumiram o controlo e finalmente encontraram Markus Hess.
+O que assumiram os alemães ocidentais e finalmente encontraram Markus Hess?|Os alemães ocidentais assumiram o controlo e finalmente encontraram Markus Hess.
+Quem assumiram os alemães ocidentais o controlo e finalmente encontraram?|Os alemães ocidentais assumiram o controlo e finalmente encontraram Markus Hess.
+O que querem desesperadamente invadir todos os aspectos do negócio dos valores mobiliários?|Os bancos querem desesperadamente invadir todos os aspectos do negócio dos valores mobiliários.
+O que querem os bancos desesperadamente invadir?|Os bancos querem desesperadamente invadir todos os aspectos do negócio dos valores mobiliários.
+Quem estão igualmente a explorar a memória e percepção com as novas máquinas?|Os cientistas estão igualmente a explorar a memória e percepção com as novas máquinas.
+A que estão os cientistas?|Os cientistas estão igualmente a explorar a memória e percepção com as novas máquinas.
+O que vão ainda assinar um acordo comercial?|Os dois vão ainda assinar um acordo comercial.
+O que vão os dois ainda assinar?|Os dois vão ainda assinar um acordo comercial.
+O que não foram revelados?|Os termos não foram revelados.
+O que foram mais produtivas?|Outras viagens foram mais produtivas.
+O que esteve encerrada para um dia de folga?|TAP linhas aéreas esteve encerrada para um dia de folga.
+Para que esteve TAP linhas aéreas encerrada?|TAP linhas aéreas esteve encerrada para um dia de folga.
+O que estão sediados em Toronto?|Todos os interesses estão sediados em Toronto.
+Onde estão todos os interesses sediados?|Todos os interesses estão sediados em Toronto.
+O que é o ligeiro aumento de uma hormona cerebral?|Um alegado efeito secundário é o ligeiro aumento de uma hormona cerebral.
+O que é um alegado efeito secundário?|Um alegado efeito secundário é o ligeiro aumento de uma hormona cerebral.
+O que reunirá os seus apoiantes num plenário nacional para discussão dos problemas da polícia?|A ASPP reunirá os seus apoiantes num plenário nacional para discussão dos problemas da polícia.
+O que reunirá a ASPP?|A ASPP reunirá os seus apoiantes num plenário nacional para discussão dos problemas da polícia.
+O que acabou por ser a concretização de um sonho?|A América acabou por ser a concretização de um sonho.
+Por que acabou a América?|A América acabou por ser a concretização de um sonho.
+O que tem de preparar -se para o futuro?|A América tem de preparar-se para o futuro.
+De que de a América tem preparar -se para o futuro?|A América tem de preparar-se para o futuro.
+O que desconhece as causas que estiveram na origem do sinistro?|A BT desconhece as causas que estiveram na origem do sinistro.
+O que desconhece a BT?|A BT desconhece as causas que estiveram na origem do sinistro.
+O que iniciou a semana sob o signo do azar?|A Bolsa de Madrid iniciou a semana sob o signo do azar.
+O que iniciou a Bolsa de Madrid?|A Bolsa de Madrid iniciou a semana sob o signo do azar.
+O que está de volta?|A Botilde está de volta.
+De que está a Botilde?|A Botilde está de volta.
+O que tem actualmente 5100 postos de trabalho?|A Carris tem actualmente 5100 postos de trabalho.
+O que tem a Carris actualmente 5100?|A Carris tem actualmente 5100 postos de trabalho.
+O que patrocinou?|A Comissão para as Comemorações dos Descobrimentos patrocinou.
+O que tentará fazer o mesmo com a Rússia?|A Comunidade Europeia tentará fazer o mesmo com a Rússia.
+O que tentará a Comunidade Europeia fazer?|A Comunidade Europeia tentará fazer o mesmo com a Rússia.
+O que se prepara para as suas primeiras eleições livres?|A Croácia prepara-se para as suas primeiras eleições livres.
+Para que se prepara a Croácia?|A Croácia prepara-se para as suas primeiras eleições livres.
+O que vai demolir todas as construções de raiz do acampamento cigano de Francelos?|A Câmara Municipal de Gaia vai demolir todas as construções de raiz do acampamento cigano de Francelos.
+O que vai a Câmara Municipal de Gaia demolir?|A Câmara Municipal de Gaia vai demolir todas as construções de raiz do acampamento cigano de Francelos.
+O que afirma que é do Governo?|A Câmara afirma que é do Governo.
+O que afirma a Câmara?|A Câmara afirma que é do Governo.
+O que vê com bons olhos este investimento?|A Câmara de Braga vê com bons olhos este investimento.
+Com que vê a Câmara de Braga este investimento?|A Câmara de Braga vê com bons olhos este investimento.
+O que vê a Câmara de Braga com bons olhos?|A Câmara de Braga vê com bons olhos este investimento.
+O que já aprovou em Junho o levantamento do embargo?|A Câmara dos Representantes já aprovou em Junho o levantamento do embargo.
+Quando já aprovou a Câmara dos Representantes o levantamento do embargo?|A Câmara dos Representantes já aprovou em Junho o levantamento do embargo.
+O que já aprovou a Câmara dos Representantes em Junho?|A Câmara dos Representantes já aprovou em Junho o levantamento do embargo.
+O que tem tido um comportamento impecável em todo este processo?|A EDP tem tido um comportamento impecável em todo este processo.
+O que tem a EDP tido?|A EDP tem tido um comportamento impecável em todo este processo.
+O que foi outro dos participantes na sessão do Ministério?|A Edifer foi outro dos participantes na sessão do Ministério.
+O que foi a Edifer?|A Edifer foi outro dos participantes na sessão do Ministério.
+O que é a grande ganhadora?|A Educação é a grande ganhadora.
+O que é a Educação?|A Educação é a grande ganhadora.
+O que ofereceu entradas grátis a cerca de 700 crianças das escolas de Lisboa?|A FEP ofereceu entradas grátis a cerca de 700 crianças das escolas de Lisboa.
+O que ofereceu a FEP a cerca de 700 crianças das escolas de Lisboa?|A FEP ofereceu entradas grátis a cerca de 700 crianças das escolas de Lisboa.
+O que ofereceu a FEP entradas grátis?|A FEP ofereceu entradas grátis a cerca de 700 crianças das escolas de Lisboa.
+O que fez 85 anos?|A Faculdade de Direito de Lisboa fez 85 anos.
+Quantos anos fez a Faculdade de Direito de Lisboa?|A Faculdade de Direito de Lisboa fez 85 anos.
+O que entra em colapso?|A Federação Jugoslava entra em colapso.
+Em que entra a Federação Jugoslava?|A Federação Jugoslava entra em colapso.
+O que afirma que 27 mil trabalhadores do sector já perderam o emprego?|A Federação dos Sindicatos Têxteis afirma que 27 mil trabalhadores do sector já perderam o emprego.
+Quem afirma a Federação dos Sindicatos Têxteis que já perderam o emprego?|A Federação dos Sindicatos Têxteis afirma que 27 mil trabalhadores do sector já perderam o emprego.
+O que afirma a Federação dos Sindicatos Têxteis que 27 mil trabalhadores do sector já perderam?|A Federação dos Sindicatos Têxteis afirma que 27 mil trabalhadores do sector já perderam o emprego.
+O que levanta a voz?|A França levanta a voz.
+Quem levanta a França?|A França levanta a voz.
+O que aprovou ontem o caderno reivindicativo do próximo ano?|A Frente Comum aprovou ontem o caderno reivindicativo do próximo ano.
+O que aprovou a Frente Comum?|A Frente Comum aprovou ontem o caderno reivindicativo do próximo ano.
+O que é toda uma outra história?|A Grã-Bretanha é toda uma outra história.
+Qual é a Grã-Bretanha uma outra história?|A Grã-Bretanha é toda uma outra história.
+O que é a Grã-Bretanha toda?|A Grã-Bretanha é toda uma outra história.
+O que apresentou recentemente ao mercado três novas máquinas de topo de gama?|A Hewlett-Packard apresentou recentemente ao mercado três novas máquinas de topo de gama.
+A que apresentou a Hewlett-Packard recentemente três novas máquinas de topo de gama?|A Hewlett-Packard apresentou recentemente ao mercado três novas máquinas de topo de gama.
+Quantas novas apresentou a Hewlett-Packard recentemente ao mercado?|A Hewlett-Packard apresentou recentemente ao mercado três novas máquinas de topo de gama.
+O que mantém as sanções aos sérvios bósnios?|A Ifor mantém as sanções aos sérvios bósnios.
+O que mantém a Ifor?|A Ifor mantém as sanções aos sérvios bósnios.
+O que estará cotada durante 30 dias no mercado sem cotações?|A Indelma-Indústrias Electro-Mecânicas SA estará cotada durante 30 dias no mercado sem cotações.
+Durante que dias estará a Indelma-Indústrias Electro-Mecânicas SA cotada no mercado sem cotações?|A Indelma-Indústrias Electro-Mecânicas SA estará cotada durante 30 dias no mercado sem cotações.
+Em que estará a Indelma-Indústrias Electro-Mecânicas SA cotada durante 30 dias?|A Indelma-Indústrias Electro-Mecânicas SA estará cotada durante 30 dias no mercado sem cotações.
+O que tinha na manga uma última cartada?|A Indonésia tinha na manga uma última cartada.
+Em que tinha a Indonésia uma última cartada?|A Indonésia tinha na manga uma última cartada.
+O que tinha a Indonésia na manga?|A Indonésia tinha na manga uma última cartada.
+O que já tem primeiro-ministro?|A Itália já tem primeiro-ministro.
+O que já tem a Itália?|A Itália já tem primeiro-ministro.
+O que diz que não pode promover a imagem de Portugal junto dos portugueses?|A Markimage diz que não pode promover a imagem de Portugal junto dos portugueses.
+O que diz a Markimage?|A Markimage diz que não pode promover a imagem de Portugal junto dos portugueses.
+O que fica com as quatro do Shopping Cidade do Porto?|A Medeia fica com as quatro do Shopping Cidade do Porto.
+Onde fica a Medeia?|A Medeia fica com as quatro do Shopping Cidade do Porto.
+O que nunca faz isso?|A Milu nunca faz isso.
+O que nunca faz a Milu?|A Milu nunca faz isso.
+O que comemorou ontem o sétimo aniversário da explosão do vaivém Challenger?|A NASA comemorou ontem o sétimo aniversário da explosão do vaivém Challenger.
+O que comemorou a NASA?|A NASA comemorou ontem o sétimo aniversário da explosão do vaivém Challenger.
+O que vai estrear amanhã o seu novo espaço permanente de concertos para os próximos três meses?|A Orquestra Clássica do Porto vai estrear amanhã o seu novo espaço permanente de concertos para os próximos três meses.
+O que vai a Orquestra Clássica do Porto estrear?|A Orquestra Clássica do Porto vai estrear amanhã o seu novo espaço permanente de concertos para os próximos três meses.
+O que foi criada por Teresa Gouveia?|A Orquestra do Porto da Régie Sinfonia foi criada por Teresa Gouveia.
+Por quem foi a Orquestra do Porto da Régie Sinfonia criada?|A Orquestra do Porto da Régie Sinfonia foi criada por Teresa Gouveia.
+O que é o grupo?|A Patrulha é o grupo.
+O que é a Patrulha?|A Patrulha é o grupo.
+O que esteve no local?|A Polícia Judiciária esteve no local.
+Onde esteve a Polícia Judiciária?|A Polícia Judiciária esteve no local.
+O que foi outro dos títulos que ontem esteve em destaque?|A Portugal Telecom foi outro dos títulos que ontem esteve em destaque.
+De que foi a Portugal Telecom?|A Portugal Telecom foi outro dos títulos que ontem esteve em destaque.
+O que surge no horizonte?|A Presidência da República surge no horizonte.
+Em que surge a Presidência da República?|A Presidência da República surge no horizonte.
+O que pode ser visitada pelo público livremente?|A Quintinha pode ser visitada pelo público livremente.
+Por que pode a Quintinha ser visitada?|A Quintinha pode ser visitada pelo público livremente.
+O que tem actualmente em curso um processo de despedimento colectivo de 144 trabalhadores?|A Renault Portuguesa tem actualmente em curso um processo de despedimento colectivo de 144 trabalhadores.
+Onde tem a Renault Portuguesa actualmente um processo de despedimento colectivo de 144 trabalhadores?|A Renault Portuguesa tem actualmente em curso um processo de despedimento colectivo de 144 trabalhadores.
+O que tem a Renault Portuguesa actualmente em curso?|A Renault Portuguesa tem actualmente em curso um processo de despedimento colectivo de 144 trabalhadores.
+O que também tem defeitos?|A Rita também tem defeitos.
+O que também tem a Rita?|A Rita também tem defeitos.
+O que quer vender foguetes espaciais à Índia porque precisa de divisas?|A Rússia quer vender foguetes espaciais à Índia porque precisa de divisas.
+De que quer a Rússia vender foguetes espaciais à Índia porque precisa?|A Rússia quer vender foguetes espaciais à Índia porque precisa de divisas.
+O que é um país altamente homogéneo?|A Rússia é um país altamente homogéneo.
+O que é a Rússia?|A Rússia é um país altamente homogéneo.
+O que foi concluída com o Viaduto do Relógio?|A Segunda Circular foi concluída com o Viaduto do Relógio.
+Com que foi a Segunda Circular concluída?|A Segunda Circular foi concluída com o Viaduto do Relógio.
+O que rectificou ontem a nacionalidade dos passageiros?|A Swissair rectificou ontem a nacionalidade dos passageiros.
+O que rectificou a Swissair?|A Swissair rectificou ontem a nacionalidade dos passageiros.
+O que não quer perder terreno?|A TMN não quer perder terreno.
+O que não quer a TMN perder?|A TMN não quer perder terreno.
+O que é a etapa seguinte natural da TV por cabo?|A TV interactiva é a etapa seguinte natural da TV por cabo.
+O que é a TV interactiva?|A TV interactiva é a etapa seguinte natural da TV por cabo.
+O que ficará para a história?|A Taça América ficará para a história.
+Para que ficará a Taça América?|A Taça América ficará para a história.
+O que fica em San Diego?|A Taça fica em San Diego.
+Onde fica a Taça?|A Taça fica em San Diego.
+O que quer manter a quota de 60 por cento do mercado?|A Telecel quer manter a quota de 60 por cento do mercado.
+O que quer a Telecel manter?|A Telecel quer manter a quota de 60 por cento do mercado.
+O que é o intermediário financeiro da operação de concentração?|A UBP é o intermediário financeiro da operação de concentração.
+O que é a UBP?|A UBP é o intermediário financeiro da operação de concentração.
+O que definiu ontem a sua actuação para os próximos quatro anos?|A UGT definiu ontem a sua actuação para os próximos quatro anos.
+O que definiu a UGT?|A UGT definiu ontem a sua actuação para os próximos quatro anos.
+O que quer que os técnicos do Ministério da Educação elaborem também uma proposta séria sobre os custos do pré-escolar?|A UIPSS quer que os técnicos do Ministério da Educação elaborem também uma proposta séria sobre os custos do pré-escolar.
+O que quer a UIPSS?|A UIPSS quer que os técnicos do Ministério da Educação elaborem também uma proposta séria sobre os custos do pré-escolar.
+O que continua numa situação de impasse?|A Universidade da Madeira continua numa situação de impasse.
+Em que continua a Universidade da Madeira?|A Universidade da Madeira continua numa situação de impasse.
+O que teve consequências inesperadas?|A aceleração drástica no tratamento dos pedidos de asilo teve consequências inesperadas.
+O que teve a aceleração drástica no tratamento dos pedidos de asilo?|A aceleração drástica no tratamento dos pedidos de asilo teve consequências inesperadas.
+Quem esteve no Festival Internacional de Teatro de Almada?|A actriz esteve no Festival Internacional de Teatro de Almada.
+Em que esteve a actriz?|A actriz esteve no Festival Internacional de Teatro de Almada.
+O que pode decidir o resultado das eleições mexicanas?|A afluência às urnas pode decidir o resultado das eleições mexicanas.
+O que pode a afluência às urnas decidir?|A afluência às urnas pode decidir o resultado das eleições mexicanas.
+O que não tem mais de 500 habitantes?|A aldeia não tem mais de 500 habitantes.
+O que não tem a aldeia?|A aldeia não tem mais de 500 habitantes.
+O que faz parte da natureza humana?|A ambiguidade faz parte da natureza humana.
+O que faz a ambiguidade?|A ambiguidade faz parte da natureza humana.
+O que será feita por Augusto Mateus?|A apresentação será feita por Augusto Mateus.
+Por quem será a apresentação feita?|A apresentação será feita por Augusto Mateus.
+O que poderá ser uma peça fundamental para a recuperação do mercado germânico?|A aprovação do Orçamento de Estado nos EUA poderá ser uma peça fundamental para a recuperação do mercado germânico.
+O que poderá a aprovação do Orçamento de Estado nos EUA ser?|A aprovação do Orçamento de Estado nos EUA poderá ser uma peça fundamental para a recuperação do mercado germânico.
+O que sempre foi economicista?|A argumentação sempre foi economicista.
+O que funcionou por contraste?|A associação de imagens funcionou por contraste.
+Por que funcionou a associação de imagens?|A associação de imagens funcionou por contraste.
+O que será depois decidida pelo Tribunal Administrativo?|A atribuição de indemnizações será depois decidida pelo Tribunal Administrativo.
+Por que será a atribuição de indemnizações depois decidida?|A atribuição de indemnizações será depois decidida pelo Tribunal Administrativo.
+O que representa uma janela de racionalidade?|A autarquia intermédia representa uma janela de racionalidade.
+O que representa a autarquia intermédia?|A autarquia intermédia representa uma janela de racionalidade.
+O que garantiu já o internamento deste grupo em hospitais?|A autarquia lisboeta garantiu já o internamento deste grupo em hospitais.
+O que garantiu a autarquia lisboeta?|A autarquia lisboeta garantiu já o internamento deste grupo em hospitais.
+O que será hoje realizada no Instituto de Medicina Legal do Porto?|A autópsia será hoje realizada no Instituto de Medicina Legal do Porto.
+Em que será a autópsia hoje realizada?|A autópsia será hoje realizada no Instituto de Medicina Legal do Porto.
+O que apresenta valores muito semelhantes?|A avaliação da actuação do presidente da Câmara apresenta valores muito semelhantes.
+O que apresenta a avaliação da actuação do presidente da Câmara?|A avaliação da actuação do presidente da Câmara apresenta valores muito semelhantes.
+O que começou finalmente a encher?|A barragem do Caldeirão começou finalmente a encher.
+A que começou a barragem do Caldeirão?|A barragem do Caldeirão começou finalmente a encher.
+O que fundou o enleio artístico da família?|A bisavó fundou o enleio artístico da família.
+O que fundou a bisavó?|A bisavó fundou o enleio artístico da família.
+Quem está de volta?|A brasileira Marisa Monte está de volta.
+De que está a brasileira Marisa Monte?|A brasileira Marisa Monte está de volta.
+O que existe?|A capacidade de destruição existe.
+O que é sofrível?|A carta de vinhos é sofrível.
+O que vai seca?|A carta que Silva Carvalho vai hoje entregar à secretária-geral Helena Santo é seca.
+O que foi entregue à polícia?|A cassete foi entregue à polícia.
+A quem foi a cassete entregue?|A cassete foi entregue à polícia.
+O que vai fomentar a sexta coligação?|A catástrofe da Rússia vai fomentar a sexta coligação.
+O que vai a catástrofe da Rússia fomentar?|A catástrofe da Rússia vai fomentar a sexta coligação.
+O que não foi revelada?|A causa da morte não foi revelada.
+O que é o tráfico de resíduos tóxicos?|A causa maior de inquietação da Interpol é o tráfico de resíduos tóxicos.
+O que é a causa maior de inquietação da Interpol?|A causa maior de inquietação da Interpol é o tráfico de resíduos tóxicos.
+O que é certamente muito rara?|A cena é certamente muito rara.
+O que apoiou oficialmente a recandidatura do Presidente Bill Clinton à Casa Branca em Novembro?|A central sindical norte-americana AFL-CIO apoiou oficialmente a recandidatura do Presidente Bill Clinton à Casa Branca em Novembro.
+O que apoiou a central sindical norte-americana AFL-CIO?|A central sindical norte-americana AFL-CIO apoiou oficialmente a recandidatura do Presidente Bill Clinton à Casa Branca em Novembro.
+O que decorrerá no cais de Alcântara?|A cerimónia de transmissão de comando decorrerá no cais de Alcântara.
+Em que decorrerá a cerimónia de transmissão de comando?|A cerimónia de transmissão de comando decorrerá no cais de Alcântara.
+O que terá um dia de atraso?|A certidão de nascimento do euro terá um dia de atraso.
+O que terá a certidão de nascimento do euro?|A certidão de nascimento do euro terá um dia de atraso.
+O que reside na norma?|A chave do seu problema reside na norma.
+Em que reside a chave do seu problema?|A chave do seu problema reside na norma.
+O que já começou?|A chuva de milhões já começou.
+O que também começou algumas complicações no trânsito?|A chuva intensa que começou ao princípio da tarde também provocou algumas complicações no trânsito.
+O que também provocou a chuva intensa que começou ao princípio da tarde?|A chuva intensa que começou ao princípio da tarde também provocou algumas complicações no trânsito.
+O que estava virtualmente isolada?|A cidade estava virtualmente isolada.
+O que estava a cidade?|A cidade estava virtualmente isolada.
+O que está também entregue à incerteza?|A cidade está também entregue à incerteza.
+A que está a cidade também entregue?|A cidade está também entregue à incerteza.
+O que imita a professora em coro?|A classe imita a professora em coro.
+Quem imita a classe?|A classe imita a professora em coro.
+O que parece estar mesmo adiantada?|A coisa parece estar mesmo adiantada.
+O que parece a coisa estar?|A coisa parece estar mesmo adiantada.
+O que só assim pode apresentar resultados positivos aos accionistas?|A construtora só assim pode apresentar resultados positivos aos accionistas.
+O que só assim pode a construtora apresentar?|A construtora só assim pode apresentar resultados positivos aos accionistas.
+O que não teve plano prévio?|A construção das rotundas não teve plano prévio.
+O que não teve a construção das rotundas?|A construção das rotundas não teve plano prévio.
+O que exibidas em já Portugal também foi assegurada pelas televisões nacionais?|A continuidade de várias séries já exibidas em Portugal também foi assegurada pelas televisões nacionais.
+Onde já exibidas a continuidade de várias séries também foi assegurada pelas televisões nacionais?|A continuidade de várias séries já exibidas em Portugal também foi assegurada pelas televisões nacionais.
+Por que já exibidas a continuidade de várias séries em Portugal também foi assegurada?|A continuidade de várias séries já exibidas em Portugal também foi assegurada pelas televisões nacionais.
+O que foi bem diferente?|A corrida feminina foi bem diferente.
+O que tem sido combatida em Portugal ao ritmo de casos pontuais denunciados pela imprensa?|A corrupção tem sido combatida em Portugal ao ritmo de casos pontuais denunciados pela imprensa.
+Onde tem a corrupção sido combatida?|A corrupção tem sido combatida em Portugal ao ritmo de casos pontuais denunciados pela imprensa.
+O que nunca foi tão baixa?|A cotação de Lenine nunca foi tão baixa.
+Quem irá depois escolher entre elas?|A criança irá depois escolher entre elas.
+Entre quem irá a criança depois escolher?|A criança irá depois escolher entre elas.
+O que não parece estar a ganhar terreno?|A criação de uma universidade em Viseu não parece estar a ganhar terreno.
+Onde não parece a criação de uma universidade em Viseu estar?|A criação de uma universidade em Viseu não parece estar a ganhar terreno.
+O que deve ser efectuada no editor habitual?|A criação dos textos deve ser efectuada no editor habitual.
+Em quem deve a criação dos textos ser efectuada?|A criação dos textos deve ser efectuada no editor habitual.
+O que não é de Judas?|A culpa não é de Judas.
+De quem não é a culpa?|A culpa não é de Judas.
+O que é da chuva?|A culpa é da chuva.
+De que é a culpa?|A culpa é da chuva.
+O que cresceu a partir de muitas raízes?|A cultura europeia cresceu a partir de muitas raízes.
+A que cresceu a cultura europeia?|A cultura europeia cresceu a partir de muitas raízes.
+O que frustrado?|A cólera do povo frustrado.
+O que não é inocente?|A data não é inocente.
+O que deverá ser anunciada até?|A decisão deverá ser anunciada até amanhã.
+O que foi contra Tellextea?|A decisão foi contra Tellextea.
+Contra quem foi a decisão?|A decisão foi contra Tellextea.
+O que começava a dar sinais de desacerto?|A defesa do Espinho começava a dar sinais de desacerto.
+A que começava a defesa do Espinho?|A defesa do Espinho começava a dar sinais de desacerto.
+O que falou com a voz apertada nos limites da razão?|A delegada do Ministério Público falou com a voz apertada nos limites da razão.
+Com quem falou a delegada do Ministério Público nos limites da razão?|A delegada do Ministério Público falou com a voz apertada nos limites da razão.
+Onde falou a delegada do Ministério Público com a voz apertada?|A delegada do Ministério Público falou com a voz apertada nos limites da razão.
+O que se acentua?|A derrapagem da economia acentua-se.
+O que tão é mais importante porque está quase sozinho?|A determinação de Popov é tão mais importante porque está quase sozinho.
+O que é de Fernando Alvarez?|A direcção plástica é de Fernando Alvarez.
+De quem é a direcção plástica?|A direcção plástica é de Fernando Alvarez.
+O que é uma participação de amigos?|A do Zaragozano é uma participação de amigos.
+O que é a do Zaragozano?|A do Zaragozano é uma participação de amigos.
+O que foi mais forte que o desejo?|A doença foi mais forte que o desejo.
+O que mudou as Marianas?|A droga mudou as Marianas.
+O que mudou a droga?|A droga mudou as Marianas.
+O que é o combate pela sobrevivência?|A economia de mercado é o combate pela sobrevivência.
+O que é a economia de mercado?|A economia de mercado é o combate pela sobrevivência.
+O que entrou definitivamente na campanha eleitoral?|A economia entrou definitivamente na campanha eleitoral.
+Em que entrou a economia?|A economia entrou definitivamente na campanha eleitoral.
+O que é assegurada pela sua elevada mobilidade?|A eficiência deste gabinete é assegurada pela sua elevada mobilidade.
+Por que é a eficiência deste gabinete assegurada?|A eficiência deste gabinete é assegurada pela sua elevada mobilidade.
+O que foi então entregue a um grupo de projectistas alemães?|A elaboração do projecto foi então entregue a um grupo de projectistas alemães.
+A quem foi a elaboração do projecto então entregue?|A elaboração do projecto foi então entregue a um grupo de projectistas alemães.
+O que já está adjudicada?|A empreitada já está adjudicada.
+O que acabou por ser a alternativa?|A empresa acabou por ser a alternativa.
+Por que acabou a empresa?|A empresa acabou por ser a alternativa.
+O que disse que o veículo tinha feito uma revisão poucos dias?|A empresa proprietária disse que o veículo tinha feito uma revisão poucos dias antes.
+O que disse a empresa proprietária?|A empresa proprietária disse que o veículo tinha feito uma revisão poucos dias antes.
+O que é de Jan Lauwers?|A encenação é de Jan Lauwers.
+De quem é a encenação?|A encenação é de Jan Lauwers.
+O que será formalizada através da compra de participações minoritárias em empresas congéneres?|A entrada da empresa portuguesa nestes mercados será formalizada através da compra de participações minoritárias em empresas congéneres.
+Onde será a entrada da empresa portuguesa nestes mercados formalizada?|A entrada da empresa portuguesa nestes mercados será formalizada através da compra de participações minoritárias em empresas congéneres.
+O que deverá receber este ano cerca de 400 alunos?|A escola deverá receber este ano cerca de 400 alunos.
+O que deverá a escola receber cerca de 400 alunos?|A escola deverá receber este ano cerca de 400 alunos.
+Quem deverá a escola receber este ano?|A escola deverá receber este ano cerca de 400 alunos.
+O que não foi das mais inspiradas?|A escolha não foi das mais inspiradas.
+De que não foi a escolha?|A escolha não foi das mais inspiradas.
+O que aposta numa maioria de nomes fortes?|A escolha para o festival de estreia aposta numa maioria de nomes fortes.
+Em que aposta a escolha para o festival de estreia?|A escolha para o festival de estreia aposta numa maioria de nomes fortes.
+O que tem todos os ingredientes de uma revolução?|A esmagadora vitória de Boris Ieltsin tem todos os ingredientes de uma revolução.
+O que tem a esmagadora vitória de Boris Ieltsin?|A esmagadora vitória de Boris Ieltsin tem todos os ingredientes de uma revolução.
+O que significaria a estagnação dos lucros?|A estagnação da boneca significaria a estagnação dos lucros.
+O que significaria a estagnação da boneca?|A estagnação da boneca significaria a estagnação dos lucros.
+O que diz esteticamente a salvação?|A estética diz esteticamente a salvação.
+O que diz a estética?|A estética diz esteticamente a salvação.
+O que é irreprimível?|A evocação das ilustrações inseridas nas aventuras de Jules Verne editadas no princípio deste século é irreprimível.
+O que foi para a Bolsa de Frankfurt?|A excepção foi para a Bolsa de Frankfurt.
+Para que foi a excepção?|A excepção foi para a Bolsa de Frankfurt.
+O que era então o estado de espírito?|A expectativa era então o estado de espírito.
+O que era a expectativa?|A expectativa era então o estado de espírito.
+O que fez vinte mortos?|A explosão fez vinte mortos.
+Quantos mortos fez a explosão?|A explosão fez vinte mortos.
+Quem está no mercado a comprar acções?|A família Oliveira está no mercado a comprar acções.
+Em que está a família Oliveira a comprar acções?|A família Oliveira está no mercado a comprar acções.
+A que está a família Oliveira no mercado?|A família Oliveira está no mercado a comprar acções.
+O que abala todos os continentes?|A febre do mercado comum abala todos os continentes.
+O que abala a febre do mercado comum?|A febre do mercado comum abala todos os continentes.
+O que é um dos mais importantes acontecimentos do género no Brasil?|A feira é um dos mais importantes acontecimentos do género no Brasil.
+O que é a feira?|A feira é um dos mais importantes acontecimentos do género no Brasil.
+O que provoca irremediavelmente a minha infelicidade?|A felicidade deles provoca irremediavelmente a minha infelicidade.
+O que provoca a felicidade deles irremediavelmente?|A felicidade deles provoca irremediavelmente a minha infelicidade.
+O que cria um mundo próprio?|A ficção de Maria Judite de Carvalho cria um mundo próprio.
+O que cria a ficção de Maria Judite de Carvalho?|A ficção de Maria Judite de Carvalho cria um mundo próprio.
+O que acabou por ser detectada depois do encerramento das urnas?|A fraude acabou por ser detectada depois do encerramento das urnas.
+Por que acabou a fraude?|A fraude acabou por ser detectada depois do encerramento das urnas.
+O que desapareceu do mapa?|A freguesia de Ribeirinha desapareceu do mapa.
+De que desapareceu a freguesia de Ribeirinha?|A freguesia de Ribeirinha desapareceu do mapa.
+O que ficou completamente impossível?|A fuga ficou completamente impossível.
+O que apresenta várias vantagens para a Allied?|A fusão apresenta várias vantagens para a Allied.
+O que apresenta a fusão?|A fusão apresenta várias vantagens para a Allied.
+O que não fica longe da terra natal de Margarete?|A fábrica da Steiff não fica longe da terra natal de Margarete.
+Onde não fica a fábrica da Steiff?|A fábrica da Steiff não fica longe da terra natal de Margarete.
+O que seria relativa se este fosse um caso único no Agroal?|A gravidade esta situação seria relativa se este fosse um caso único no Agroal.
+O que seria a gravidade esta situação relativa se fosse um caso único no Agroal?|A gravidade esta situação seria relativa se este fosse um caso único no Agroal.
+O que seria a gravidade esta situação relativa se este fosse no Agroal?|A gravidade esta situação seria relativa se este fosse um caso único no Agroal.
+Onde seria a gravidade esta situação relativa se este fosse um caso único?|A gravidade esta situação seria relativa se este fosse um caso único no Agroal.
+O que começa 48 horas?|A guerra começa 48 horas depois.
+O que tinha mudado de finalidade?|A guerra tinha mudado de finalidade.
+De que tinha a guerra mudado?|A guerra tinha mudado de finalidade.
+O que é a coisa mais desprezível que existe?|A guerra é a coisa mais desprezível que existe.
+O que é a guerra?|A guerra é a coisa mais desprezível que existe.
+O que tinha origem na Turquia?|A heroína tinha origem na Turquia.
+O que tinha a heroína?|A heroína tinha origem na Turquia.
+O que é simples?|A história das reservas bancárias é simples.
+O que já é conhecida?|A história já é conhecida.
+O que envolve bem diferente?|A história que envolve este livro é bem diferente.
+O que tem mais de dois anos?|A história tem mais de dois anos.
+O que tem a história?|A história tem mais de dois anos.
+O que está em crise?|A hotelaria está em crise.
+Em que está a hotelaria?|A hotelaria está em crise.
+O que não é nova?|A ideia não é nova.
+O que é o limite?|A imaginação é o limite.
+O que é a imaginação?|A imaginação é o limite.
+O que tem dois níveis?|A importância da reforma tem dois níveis.
+Quantos níveis tem a importância da reforma?|A importância da reforma tem dois níveis.
+O que o justifica?|A importância do mesmo justifica-o.
+O que foi conseguida ao fim de longa luta?|A independência foi conseguida ao fim de longa luta.
+A que foi a independência conseguida?|A independência foi conseguida ao fim de longa luta.
+O que custa cinco mil escudos?|A inscrição custa cinco mil escudos.
+Quantos mil custa a inscrição?|A inscrição custa cinco mil escudos.
+O que poderá ser melhorada?|A insonorização poderá ser melhorada.
+O que está não atingir Portugal?|A instabilidade que está a afectar os principais mercados de capitais internacionais parece não atingir Portugal.
+O que parece a instabilidade que está a afectar os principais mercados de capitais internacionais não atingir?|A instabilidade que está a afectar os principais mercados de capitais internacionais parece não atingir Portugal.
+O que é o argumento recorrente?|A integração é o argumento recorrente.
+O que é a integração?|A integração é o argumento recorrente.
+O que preenche o espaço de um grande equívoco?|A intelectualidade moçambicana preenche o espaço de um grande equívoco.
+O que preenche a intelectualidade moçambicana?|A intelectualidade moçambicana preenche o espaço de um grande equívoco.
+O que é aparentemente generosa?|A intenção é aparentemente generosa.
+O que provocou uma chuva de palmas?|A intervenção provocou uma chuva de palmas.
+O que provocou a intervenção?|A intervenção provocou uma chuva de palmas.
+O que terminará com a entrega de presentes oferecidos por lojas do centro comercial?|A jornada terminará com a entrega de presentes oferecidos por lojas do centro comercial.
+Com que terminará a jornada?|A jornada terminará com a entrega de presentes oferecidos por lojas do centro comercial.
+O que marcou a minha juventude?|A leitura dos seus relatos marcou a minha juventude.
+Quem marcou a leitura dos seus relatos?|A leitura dos seus relatos marcou a minha juventude.
+O que é sagrada para os russos?|A literatura clássica é sagrada para os russos.
+Para que é a literatura clássica sagrada?|A literatura clássica é sagrada para os russos.
+O que envolvidos?|A logística dos ministérios envolvidos.
+O que revelou o desastre?|A luz do dia revelou o desastre.
+O que revelou a luz do dia?|A luz do dia revelou o desastre.
+O que é evidente?|A lógica da sugestão é evidente.
+O que me traz sempre uma energia nova?|A madrugada traz-me sempre uma energia nova.
+O que me traz a madrugada?|A madrugada traz-me sempre uma energia nova.
+O que permanece interditada aos banhistas?|A maioria das praias permanece interditada aos banhistas.
+A que permanece a maioria das praias interditada?|A maioria das praias permanece interditada aos banhistas.
+O que foi adquirida este ano por motivos de serviço?|A maioria dos automóveis foi adquirida este ano por motivos de serviço.
+O que foi a maioria dos automóveis adquirida por motivos de serviço?|A maioria dos automóveis foi adquirida este ano por motivos de serviço.
+Por que foi a maioria dos automóveis adquirida este ano?|A maioria dos automóveis foi adquirida este ano por motivos de serviço.
+O que é mais hiperbólica?|A mensagem de Pedro Barroso é mais hiperbólica.
+O que foi adoptada por Ramos-Horta quando confrontado com a missiva de Xanana?|A mesma prudência foi adoptada por Ramos-Horta quando confrontado com a missiva de Xanana.
+Por quem foi a mesma prudência adoptada quando confrontado com a missiva de Xanana?|A mesma prudência foi adoptada por Ramos-Horta quando confrontado com a missiva de Xanana.
+O que foi uma grande aventura na minha vida?|A minha passagem pela Dom Quixote foi uma grande aventura na minha vida.
+O que foi a minha passagem pela Dom Quixote?|A minha passagem pela Dom Quixote foi uma grande aventura na minha vida.
+O que é curta?|A minha vida é curta.
+O que deveria acabar?|A missão deveria acabar aqui.
+O que pariu um rato?|A montanha pariu um rato.
+O que pariu a montanha?|A montanha pariu um rato.
+O que não pode atingir maior horror?|A morte não pode atingir maior horror.
+O que não pode a morte atingir?|A morte não pode atingir maior horror.
+O que era esperada?|A moção de censura era esperada.
+Quem está grávida de nove meses?|A mulher está grávida de nove meses.
+De que meses está a mulher grávida?|A mulher está grávida de nove meses.
+O que vai ao rubro?|A multidão vai ao rubro.
+A que vai a multidão?|A multidão vai ao rubro.
+Quem começou a desempenhar todas as funções do marido?|A mãe começou a desempenhar todas as funções do marido.
+O que começou a mãe?|A mãe começou a desempenhar todas as funções do marido.
+Quem faleceu quando este tinha 17 meses de idade?|A mãe de Brodkey faleceu quando este tinha 17 meses de idade.
+O que faleceu a mãe de Brodkey quando tinha 17 meses de idade?|A mãe de Brodkey faleceu quando este tinha 17 meses de idade.
+Quantos meses faleceu a mãe de Brodkey quando este tinha de idade?|A mãe de Brodkey faleceu quando este tinha 17 meses de idade.
+De que faleceu a mãe de Brodkey quando este tinha 17 meses?|A mãe de Brodkey faleceu quando este tinha 17 meses de idade.
+Quem é uma força muito grande?|A mãe é uma força muito grande.
+O que é a mãe?|A mãe é uma força muito grande.
+O que não está?|A nação não está bem.
+O que é tradicionalmente violenta na cidade?|A noite de Ano Novo é tradicionalmente violenta na cidade.
+Onde é a noite de Ano Novo tradicionalmente violenta?|A noite de Ano Novo é tradicionalmente violenta na cidade.
+O que não irá proibir os bancos de esperma?|A norma não irá proibir os bancos de esperma.
+O que não irá a norma proibir?|A norma não irá proibir os bancos de esperma.
+O que também mereceu comentários de outros quadrantes?|A notícia divulgada em Espanha também mereceu comentários de outros quadrantes.
+O que também mereceu a notícia divulgada em Espanha?|A notícia divulgada em Espanha também mereceu comentários de outros quadrantes.
+O que foi dada a Soares por Rodrigues Consolado?|A notícia foi dada a Soares por Rodrigues Consolado.
+Quem foi a notícia dada?|A notícia foi dada a Soares por Rodrigues Consolado.
+O que é uma reflexão sobre o teatro?|A nova produção do Teatro Meridional é uma reflexão sobre o teatro.
+O que é a nova produção do Teatro Meridional?|A nova produção do Teatro Meridional é uma reflexão sobre o teatro.
+O que nunca teve o sucesso do original?|A nova série nunca teve o sucesso do original.
+O que nunca teve a nova série?|A nova série nunca teve o sucesso do original.
+O que já estava em projecto em 1991?|A obra já estava em projecto em 1991.
+Em que já estava a obra?|A obra já estava em projecto em 1991.
+O que a sensibilizou?|A oferta de trabalho de Mesquita Machado sensibilizou-a.
+O que atingiu também a cobertura televisiva dos bailes dos clubes?|A onda moralista atingiu também a cobertura televisiva dos bailes dos clubes.
+O que atingiu a onda moralista?|A onda moralista atingiu também a cobertura televisiva dos bailes dos clubes.
+O que se desenrolava de noite?|A operação de desembarque desenrolava-se de noite.
+De que se desenrolava a operação de desembarque?|A operação de desembarque desenrolava-se de noite.
+O que está marcada para a próxima terça-feira?|A operação está marcada para a próxima terça-feira.
+Quando está a operação marcada?|A operação está marcada para a próxima terça-feira.
+O que será concretizada até final de Junho?|A operação será concretizada até final de Junho.
+Quando será a operação concretizada?|A operação será concretizada até final de Junho.
+O que andou aqui com o discurso errado durante anos?|A oposição rosa andou aqui com o discurso errado durante anos.
+Com que andou a oposição rosa aqui durante anos?|A oposição rosa andou aqui com o discurso errado durante anos.
+Durante que andou a oposição rosa aqui com o discurso errado?|A oposição rosa andou aqui com o discurso errado durante anos.
+O que é agora dirigida por outros?|A organização é agora dirigida por outros.
+Por que é a organização agora dirigida?|A organização é agora dirigida por outros.
+O que é a dos eleitores com mais de 90 anos?|A outra questão é a dos eleitores com mais de 90 anos.
+O que é a outra questão?|A outra questão é a dos eleitores com mais de 90 anos.
+O que não é recente?|A paixão pelo super-herói não é recente.
+O que é total?|A paranóia do directo é total.
+O que marca o regresso a África das tropas portuguesas?|A participação na Onumoz marca o regresso a África das tropas portuguesas.
+O que marca a participação na Onumoz a África das tropas portuguesas?|A participação na Onumoz marca o regresso a África das tropas portuguesas.
+O que marca a participação na Onumoz o regresso?|A participação na Onumoz marca o regresso a África das tropas portuguesas.
+A que a ficou viver na rua?|A partir daí ficou a viver na rua.
+A que ficou a partird?|A partir daí ficou a viver na rua.
+O que é para Angola o que as pernas são para o homem?|A paz é para Angola o que as pernas são para o homem.
+Onde é a paz o que as pernas são para o homem?|A paz é para Angola o que as pernas são para o homem.
+O que é a paz para Angola?|A paz é para Angola o que as pernas são para o homem.
+O que tinha o cabimento?|A pergunta tinha o cabimento.
+O que tinha a pergunta?|A pergunta tinha o cabimento.
+O que continuou no topo do mecanismo de taxas de câmbio do SME onde a divisa portuguesa ocupa agora o terceiro lugar?|A peseta continuou no topo do mecanismo de taxas de câmbio do SME onde a divisa portuguesa ocupa agora o terceiro lugar.
+Em que continuou a peseta?|A peseta continuou no topo do mecanismo de taxas de câmbio do SME onde a divisa portuguesa ocupa agora o terceiro lugar.
+Quem é saudável por natureza?|A pessoa é saudável por natureza.
+Por que é a pessoa saudável?|A pessoa é saudável por natureza.
+O que está exposta na Galeria Municipal da Amadora?|A pintura de José Alves está exposta na Galeria Municipal da Amadora.
+Onde está a pintura de José Alves exposta da Amadora?|A pintura de José Alves está exposta na Galeria Municipal da Amadora.
+De que está a pintura de José Alves exposta na Galeria Municipal?|A pintura de José Alves está exposta na Galeria Municipal da Amadora.
+Quem foi alertada por um telefonema anónimo?|A polícia foi alertada por um telefonema anónimo.
+Por que foi a polícia alertada?|A polícia foi alertada por um telefonema anónimo.
+Quem não vigia a área durante a noite?|A polícia local não vigia a área durante a noite.
+O que não vigia a polícia local?|A polícia local não vigia a área durante a noite.
+Quem prossegue as suas averiguações?|A polícia prossegue as suas averiguações.
+O que prossegue a polícia?|A polícia prossegue as suas averiguações.
+O que já estava assumida?|A política de estabilidade cambial já estava assumida.
+O que é sobretudo isso?|A política para mim é sobretudo isso.
+O que é a política para mim?|A política para mim é sobretudo isso.
+O que pertence ao passado?|A política-espectáculo pertence ao passado.
+A que pertence a política-espectáculo?|A política-espectáculo pertence ao passado.
+O que é uma invenção masculina?|A pornografia é uma invenção masculina.
+O que é a pornografia?|A pornografia é uma invenção masculina.
+O que foi uma constante ao longo dos três dias?|A presença de milhares de espanhóis foi uma constante ao longo dos três dias.
+O que foi a presença de milhares de espanhóis?|A presença de milhares de espanhóis foi uma constante ao longo dos três dias.
+O que era então o objectivo possível?|A presidência da Assembleia da República era então o objectivo possível.
+O que era a presidência da Assembleia da República?|A presidência da Assembleia da República era então o objectivo possível.
+O que teve ontem outro episódio?|A pressão do FC Porto sobre a Federação teve ontem outro episódio.
+O que teve a pressão do FC Porto sobre a Federação?|A pressão do FC Porto sobre a Federação teve ontem outro episódio.
+O que avistaram fumo?|A primeira casa de família que avistámos ainda deitava fumo.
+O que deitava a primeira casa de família que avistámos?|A primeira casa de família que avistámos ainda deitava fumo.
+O que era uma rapariga que foi devolvida à família?|A primeira era uma rapariga que foi devolvida à família.
+Quem era a primeira?|A primeira era uma rapariga que foi devolvida à família.
+O que pode ser de horror?|A primeira expressão pode ser de horror.
+De que pode a primeira expressão ser?|A primeira expressão pode ser de horror.
+O que ocorreu em meados do ano passado?|A primeira ocorreu em meados do ano passado.
+Em que ocorreu a primeira?|A primeira ocorreu em meados do ano passado.
+O que foi admirável?|A primeira parte foi admirável.
+O que põe a da própria estrutura do sistema?|A primeira questão que se põe é a da própria estrutura do sistema.
+O que é a primeira questão que se põe?|A primeira questão que se põe é a da própria estrutura do sistema.
+O que incidiu sobre a correspondência efectiva dos calibres?|A primeira verificação feita incidiu sobre a correspondência efectiva dos calibres.
+Sobre que incidiu a primeira verificação feita?|A primeira verificação feita incidiu sobre a correspondência efectiva dos calibres.
+O que tem sido a Soares da Costa?|A principal beneficiada tem sido a Soares da Costa.
+Quem tem a principal beneficiada sido?|A principal beneficiada tem sido a Soares da Costa.
+O que tem de ser assumida nacionalmente?|A prioridade educativa tem de ser assumida nacionalmente.
+De que tem a prioridade educativa?|A prioridade educativa tem de ser assumida nacionalmente.
+O que não é nova?|A proposta não é nova.
+O que veio mais?|A prostituição veio mais tarde.
+Quem é uma mulher que assedia um homem?|A protagonista é uma mulher que assedia um homem.
+Quem é a protagonista?|A protagonista é uma mulher que assedia um homem.
+O que não podia ser melhor?|A pré-época do Sporting não podia ser melhor.
+O que não resistiu ao abalo?|A própria União Soviética não resistiu ao abalo.
+A que não resistiu a própria União Soviética?|A própria União Soviética não resistiu ao abalo.
+O que é concebida de acordo com uma visão mais futurista?|A publicidade é concebida de acordo com uma visão mais futurista.
+De que é a publicidade concebida?|A publicidade é concebida de acordo com uma visão mais futurista.
+O que está a melhorar em Portugal?|A qualidade está a melhorar em Portugal.
+Onde está a qualidade?|A qualidade está a melhorar em Portugal.
+O que nem sequer é nova?|A questão nem sequer é nova.
+O que é bem diferente?|A realidade portuguesa é bem diferente.
+O que foi feita sob o signo da xenofobia?|A recente campanha em Viena foi feita sob o signo da xenofobia.
+Sob que foi a recente campanha em Viena feita?|A recente campanha em Viena foi feita sob o signo da xenofobia.
+O que esteve na origem do nascimento da Comunidade Económica Europeia?|A reconciliação franco-alemã esteve na origem do nascimento da Comunidade Económica Europeia.
+Em que esteve a reconciliação franco-alemã?|A reconciliação franco-alemã esteve na origem do nascimento da Comunidade Económica Europeia.
+O que deverá constituir um dos primeiros passos?|A reestruturação do quadro accionista na TMN deverá constituir um dos primeiros passos.
+O que deverá a reestruturação do quadro accionista na TMN constituir?|A reestruturação do quadro accionista na TMN deverá constituir um dos primeiros passos.
+O que está em marcha?|A reforma da PSP está em marcha.
+Em que está a reforma da PSP?|A reforma da PSP está em marcha.
+O que conquistou o primeiro lugar?|A remodelação conquistou decididamente o primeiro lugar.
+O que decididamente a remodelação conquistou?|A remodelação conquistou decididamente o primeiro lugar.
+O que deve ser feita de forma reflectida?|A remodelação da política de arquivos em Portugal deve ser feita de forma reflectida.
+De que deve a remodelação da política de arquivos em Portugal ser feita?|A remodelação da política de arquivos em Portugal deve ser feita de forma reflectida.
+O que diminuiu nos últimos dois anos?|A rentabilidade das empresas diminuiu nos últimos dois anos.
+Em que anos diminuiu a rentabilidade das empresas?|A rentabilidade das empresas diminuiu nos últimos dois anos.
+O que tem uma tradição infeliz?|A repressão situacionista no Togo tem uma tradição infeliz.
+O que tem a repressão situacionista no Togo?|A repressão situacionista no Togo tem uma tradição infeliz.
+O que é só deles?|A responsabilidade é só deles.
+De quem é a responsabilidade?|A responsabilidade é só deles.
+O que chegará a 24 de Abril?|A resposta chegará a 24 de Abril.
+Quando chegará a resposta de Abril?|A resposta chegará a 24 de Abril.
+De que chegará a resposta a 24?|A resposta chegará a 24 de Abril.
+O que ainda decorria à hora do fecho esta edição?|A reunião ainda decorria à hora do fecho esta edição.
+A que ainda decorria a reunião esta edição?|A reunião ainda decorria à hora do fecho esta edição.
+O que ainda decorria a reunião à hora do fecho?|A reunião ainda decorria à hora do fecho esta edição.
+O que foi dividida em duas partes?|A reunião foi dividida em duas partes.
+Onde foi a reunião dividida?|A reunião foi dividida em duas partes.
+O que terminou sem qualquer resultado positivo?|A reunião terminou sem qualquer resultado positivo.
+Sem que terminou a reunião?|A reunião terminou sem qualquer resultado positivo.
+O que foi uma proposta portuguesa?|A rotatividade no BCE foi uma proposta portuguesa.
+O que foi a rotatividade no BCE?|A rotatividade no BCE foi uma proposta portuguesa.
+O que foi gravemente danificada?|A sede da Presidência foi gravemente danificada.
+O que foi a sede da Presidência gravemente?|A sede da Presidência foi gravemente danificada.
+O que voltou a começar sob o signo da fortuna para os homens da casa?|A segunda parte voltou a começar sob o signo da fortuna para os homens da casa.
+O que voltou a segunda parte?|A segunda parte voltou a começar sob o signo da fortuna para os homens da casa.
+O que aconteceu esta semana?|A segunda visita da PJ aconteceu esta semana.
+O que aconteceu a segunda visita da PJ?|A segunda visita da PJ aconteceu esta semana.
+O que começou mal para a Bolsa de Paris?|A semana começou mal para a Bolsa de Paris.
+Para que começou a semana?|A semana começou mal para a Bolsa de Paris.
+O que é mais masculina?|A sexualidade desprendida do amor é mais masculina.
+O que deixa também não deixa margem para grandes alternativas?|A situação pioneira também não deixa margem para grandes alternativas.
+O que pioneira a situação também não deixa?|A situação pioneira também não deixa margem para grandes alternativas.
+O que estava decidida?|A sorte de Angola estava decidida.
+O que estava do lado de Portugal?|A sorte estava do lado de Portugal.
+Deonde estava a sorte?|A sorte estava do lado de Portugal.
+O que foi interrompida no ano seguinte?|A sua actividade pedagógica na UE foi interrompida no ano seguinte.
+Em que foi a sua actividade pedagógica na UE interrompida?|A sua actividade pedagógica na UE foi interrompida no ano seguinte.
+O que é agora um monte de escombros?|A sua cidade é agora um monte de escombros.
+O que é a sua cidade?|A sua cidade é agora um monte de escombros.
+O que bem precisa de um empurrãozinho?|A sua classificação bem precisa de um empurrãozinho.
+De que bem precisa a sua classificação?|A sua classificação bem precisa de um empurrãozinho.
+O que começou em Maio do ano passado?|A sua história começou em Maio do ano passado.
+Quando começou a sua história?|A sua história começou em Maio do ano passado.
+O que são os cavalos de corrida?|A sua paixão são os cavalos de corrida.
+O que são a sua paixão?|A sua paixão são os cavalos de corrida.
+O que é antiga?|A sua relação com Santana Lopes é antiga.
+O que não é fácil?|A sua tarefa não é fácil.
+O que é a Associação?|A sua última esperança é a Associação.
+O que é a sua última esperança?|A sua última esperança é a Associação.
+O que foi atribuída pelos operadores a operações selectivas depois de quatro sessões em baixa?|A subida foi atribuída pelos operadores a operações selectivas depois de quatro sessões em baixa.
+Por quem foi a subida atribuída a operações selectivas depois de quatro sessões em baixa?|A subida foi atribuída pelos operadores a operações selectivas depois de quatro sessões em baixa.
+A que foi a subida atribuída pelos operadores depois de quatro sessões em baixa?|A subida foi atribuída pelos operadores a operações selectivas depois de quatro sessões em baixa.
+Depois que baixa foi a subida atribuída pelos operadores a operações selectivas?|A subida foi atribuída pelos operadores a operações selectivas depois de quatro sessões em baixa.
+O que foi outro dos factores positivos?|A subida inicial de Wall Street foi outro dos factores positivos.
+O que foi a subida inicial de Wall Street?|A subida inicial de Wall Street foi outro dos factores positivos.
+O que conferiu ao MJQ o seu rosto definitivo?|A substituição de Kenny Clarke por Connie Kay conferiu ao MJQ o seu rosto definitivo.
+A que conferiu a substituição de Kenny Clarke por Connie Kay o seu rosto definitivo?|A substituição de Kenny Clarke por Connie Kay conferiu ao MJQ o seu rosto definitivo.
+O que conferiu a substituição de Kenny Clarke por Connie Kay ao MJQ?|A substituição de Kenny Clarke por Connie Kay conferiu ao MJQ o seu rosto definitivo.
+O que não é porém invejável?|A tarefa dos juízes não é porém invejável.
+O que é igual?|A taxa de sucesso de ambos é igual.
+O que é a Câmara de Lisboa?|A taça é a Câmara de Lisboa.
+O que é a taça?|A taça é a Câmara de Lisboa.
+O que só estará disponível no mercado no próximo século?|A televisão com imagens tridimensionais só estará disponível no mercado no próximo século.
+Em que só estará a televisão com imagens tridimensionais disponível?|A televisão com imagens tridimensionais só estará disponível no mercado no próximo século.
+O que já não é o que era?|A televisão por cabo já não é o que era.
+O que já não é a televisão por cabo?|A televisão por cabo já não é o que era.
+O que não pode ser outra?|A tendência não pode ser outra.
+O que voltou a aumentar?|A tensão voltou a aumentar.
+A que voltou a tensão?|A tensão voltou a aumentar.
+O que ampliou a quebra?|A tomada de benefícios ampliou a quebra.
+O que ampliou a tomada de benefícios?|A tomada de benefícios ampliou a quebra.
+O que é má?|A tradução em Portugal é má.
+O que é de António Moura?|A tradução é de António Moura.
+De quem é a tradução?|A tradução é de António Moura.
+O que está devidamente documentada?|A transação de urânio sul-africano através de Moçambique está devidamente documentada.
+O que está a transação de urânio sul-africano através de Moçambique?|A transação de urânio sul-africano através de Moçambique está devidamente documentada.
+O que é quase sempre difícil?|A transição das crianças índias para a cidade é quase sempre difícil.
+O que não tem a mínima viabilidade?|A troca não tem a mínima viabilidade.
+O que não tem a troca?|A troca não tem a mínima viabilidade.
+A que seguiu o se envio para a prisão de Leiria?|A uma nova detenção seguiu-se o envio para a prisão de Leiria.
+O que se seguiu a uma nova detenção?|A uma nova detenção seguiu-se o envio para a prisão de Leiria.
+O que irá funcionar junto ao edifício comercial do Cacém?|A unidade irá funcionar junto ao edifício comercial do Cacém.
+Junto que irá a unidade funcionar?|A unidade irá funcionar junto ao edifício comercial do Cacém.
+O que está cheia de restrições?|A vida comunitária está cheia de restrições.
+De que está a vida comunitária cheia?|A vida comunitária está cheia de restrições.
+O que lhe roubava o ar?|A vida no seminário roubava-lhe o ar.
+O que lhe roubava a vida no seminário?|A vida no seminário roubava-lhe o ar.
+O que assegura momentos difíceis?|A viticultura que assegura a sobrevivência da grande maioria da população rural do concelho atravessa momentos difíceis.
+O que atravessa a viticultura que assegura a sobrevivência da grande maioria da população rural do concelho?|A viticultura que assegura a sobrevivência da grande maioria da população rural do concelho atravessa momentos difíceis.
+O que fala por si?|A vossa carta fala por si.
+Por que fala a vossa carta?|A vossa carta fala por si.
+O que ainda não está marcada?|A votação do inquérito ainda não está marcada.
+O que deve ocorrer hoje ou?|A votação final deve ocorrer hoje ou amanhã.
+O que era ontem a parte mais tranquila?|A zona ocidental da cidade era ontem a parte mais tranquila.
+O que era a zona ocidental da cidade?|A zona ocidental da cidade era ontem a parte mais tranquila.
+O que vai faltar nos próximos dias?|A água vai faltar nos próximos dias.
+Em que vai a água faltar?|A água vai faltar nos próximos dias.
+O que apresenta imagens animadas de dinossauros?|A última das opções do programa apresenta imagens animadas de dinossauros.
+O que apresenta a última das opções do programa?|A última das opções do programa apresenta imagens animadas de dinossauros.
+O que foi a atenção da comunicação social?|A única diferença foi a atenção da comunicação social.
+O que foi a única diferença?|A única diferença foi a atenção da comunicação social.
+O que contesta fecho da Bolsa do Porto?|AI Portuense contesta fecho da Bolsa do Porto.
+O que contesta AI Portuense?|AI Portuense contesta fecho da Bolsa do Porto.
+O que insiste num Governo de transição?|ANC insiste num Governo de transição.
+Em que insiste ANC?|ANC insiste num Governo de transição.
+O que acabara?|Acabara a corrida das motos.
+O que acabou?|Acabou por ser eleito um representante do PSD.
+O que vai apresentar parecer sobre financiamento do ensino superior?|Academia de Lisboa vai apresentar parecer sobre financiamento do ensino superior.
+O que vai Academia de Lisboa apresentar?|Academia de Lisboa vai apresentar parecer sobre financiamento do ensino superior.
+O que recebe hoje o Sporting?|Académica recebe hoje o Sporting.
+O que recebe Académica?|Académica recebe hoje o Sporting.
+O que accionistas?|Accionistas descontentes com a entrada do Itaú no BPI.
+Em que acertou?|Acertou no braço do inimigo.
+O que dominou plenário?|Acesso ao ensino superior dominou plenário.
+O que dominou Acesso ao ensino superior?|Acesso ao ensino superior dominou plenário.
+O que se aconselha?|Aconselha-se uma remodelação da organização curricular.
+O que obriga populares a mostrar candidatos?|Acordo em Sintra obriga populares a mostrar candidatos.
+O que obriga Acordo em Sintra a mostrar candidatos?|Acordo em Sintra obriga populares a mostrar candidatos.
+O que obriga Acordo em Sintra populares?|Acordo em Sintra obriga populares a mostrar candidatos.
+O que actos?|Actos simbólicos no dia de Coimbra.
+Qual actualmente são os investigadores do atentado?|Actualmente são mais de cem os investigadores do atentado.
+Quem actualmente são mais de cem?|Actualmente são mais de cem os investigadores do atentado.
+Onde actuavam?|Actuavam na Linha de Sintra.
+O que adiada?|Adiada guerra dos socialistas em Beja.
+O que adjudicação?|Adjudicação a empresas privadas da conservação de vários espaços ajardinados.
+O que  o protagonista esta postura táctica?|Ado foi o protagonista esta postura táctica.
+Quem foi Ado esta postura táctica?|Ado foi o protagonista esta postura táctica.
+O que foi Ado o protagonista?|Ado foi o protagonista esta postura táctica.
+Quem representavam o embrião do nosso Universo?|Africanas representavam o embrião do nosso Universo.
+O que representavam Africanas?|Africanas representavam o embrião do nosso Universo.
+O que africanos durante operação policial em Gaia?|Africanos agredidos durante operação policial em Gaia.
+Durante quem africanos agredidos?|Africanos agredidos durante operação policial em Gaia.
+Quem quer o divórcio?|Aga Khan quer o divórcio.
+O que quer Aga Khan?|Aga Khan quer o divórcio.
+O que não tem?|Agenda política própria não tem.
+Quem fere jovem?|Agente da PSP fere jovem.
+Quem justificou algumas das dificuldades com que se confrontaram?|Agostinho Rosário justificou algumas das dificuldades com que se confrontaram.
+O que justificou Agostinho Rosário?|Agostinho Rosário justificou algumas das dificuldades com que se confrontaram.
+O que se agravam?|Agravam-se divergências na liderança sérvia da Bósnia.
+Quem presa por engano?|Al Joyner preso por engano.
+Por que preso Al Joyner?|Al Joyner preso por engano.
+Quem é um tipo com sorte?|Alain Roussel é um tipo com sorte.
+O que é Alain Roussel?|Alain Roussel é um tipo com sorte.
+Quem enfrenta a irlandesa McKiernan?|Albertina enfrenta a irlandesa McKiernan.
+O que enfrenta Albertina?|Albertina enfrenta a irlandesa McKiernan.
+Quem lo fez no ano passado?|Alberto Berasategui fê-lo no ano passado.
+Em que lo fê Alberto Berasategui?|Alberto Berasategui fê-lo no ano passado.
+Quem continua a braços com problemas de autoridade nas polícias?|Alberto Costa continua a braços com problemas de autoridade nas polícias.
+O que continua Alberto Costa?|Alberto Costa continua a braços com problemas de autoridade nas polícias.
+Quem foi o arquitecto?|Alberto Pessoa foi o arquitecto.
+Quem foi Alberto Pessoa?|Alberto Pessoa foi o arquitecto.
+Quem enuncia prioridades de Washington?|Albright enuncia prioridades de Washington.
+O que enuncia Albright?|Albright enuncia prioridades de Washington.
+Quem inaugura centro de saúde?|Alcains inaugura centro de saúde.
+O que inaugura Alcains?|Alcains inaugura centro de saúde.
+Quem quer ir para a Julioa?|Aldeia da Luz quer ir para a Julioa.
+Para que quer Aldeia da Luz ir?|Aldeia da Luz quer ir para a Julioa.
+O que propõe alargamento dos horários comerciais?|Alenquer propõe alargamento dos horários comerciais.
+O que propõe Alenquer?|Alenquer propõe alargamento dos horários comerciais.
+Onde algazarra?|Algazarra em Viana do Castelo.
+O que foram fundamentais?|Algumas das testemunhas oculares foram fundamentais.
+Qual tiveram mesmo de ser cortadas ao trânsito durante algum tempo?|Algumas vias tiveram mesmo de ser cortadas ao trânsito durante algum tempo.
+De que tiveram algumas vias?|Algumas vias tiveram mesmo de ser cortadas ao trânsito durante algum tempo.
+O que estarão próximos da paranóia?|Alguns estados estarão próximos da paranóia.
+De que estarão alguns estados próximos?|Alguns estados estarão próximos da paranóia.
+Com quem aliança?|Aliança com príncipe árabe para um negócio planetário.
+Para quem alimentos?|Alimentos para bebés sem ingredientes de bovinos.
+O que alliot já fez algumas provas mas ainda não disputou qualquer grande prémio com as cores esta escuderia?|Alliot já fez este ano algumas provas mas ainda não disputou qualquer grande prémio com as cores esta escuderia.
+O que alliot já fez este ano mas ainda não disputou qualquer grande prémio com as cores esta escuderia?|Alliot já fez este ano algumas provas mas ainda não disputou qualquer grande prémio com as cores esta escuderia.
+O que alliot já fez este ano algumas provas mas ainda não disputou grande prémio com as cores esta escuderia?|Alliot já fez este ano algumas provas mas ainda não disputou qualquer grande prémio com as cores esta escuderia.
+O que alliot já fez este ano algumas provas mas ainda não disputou qualquer esta escuderia?|Alliot já fez este ano algumas provas mas ainda não disputou qualquer grande prémio com as cores esta escuderia.
+O que alliot já fez este ano algumas provas mas ainda não disputou qualquer grande prémio com as cores?|Alliot já fez este ano algumas provas mas ainda não disputou qualquer grande prémio com as cores esta escuderia.
+Quem anunciou também que Woody Allen terá de pagar todas as custas do processo?|Alter anunciou também que Woody Allen terá de pagar todas as custas do processo.
+O que anunciou Alter?|Alter anunciou também que Woody Allen terá de pagar todas as custas do processo.
+O que alternava?|Alternava as horas das mamadas com o entusiasmo quente da época.
+Qual era previsível?|Aluimento no Cais do Sodré era previsível.
+Quantos são pontuadas por um júri?|Ambas são pontuadas por um júri.
+Por que são ambas pontuadas?|Ambas são pontuadas por um júri.
+O que ambientalistas querem?|Ambientalistas querem garantias na construção de aterros.
+O que foram profundamente inovadores na sua época?|Ambos foram profundamente inovadores na sua época.
+O que foram ambos profundamente?|Ambos foram profundamente inovadores na sua época.
+Qual são privados?|Ambos os sistemas são privados.
+O que pertenciam à esfera de influência socialista?|Ambos pertenciam à esfera de influência socialista.
+A que pertenciam ambos?|Ambos pertenciam à esfera de influência socialista.
+O que têm problemas de saúde?|Ambos têm problemas de saúde.
+O que têm ambos?|Ambos têm problemas de saúde.
+O que tentam nova abordagem terapêutica?|Americanos tentam nova abordagem terapêutica.
+O que tentam Americanos?|Americanos tentam nova abordagem terapêutica.
+O que vencem na Taça América?|Americanos vencem na Taça América.
+Em que vencem Americanos?|Americanos vencem na Taça América.
+O que foram enviadas para França?|Amostras dos fósseis foram enviadas para França.
+Onde foram Amostras dos fósseis enviadas?|Amostras dos fósseis foram enviadas para França.
+Quem fora da corrida?|Ana Barros fora da corrida.
+De que fora Ana Barros?|Ana Barros fora da corrida.
+Quem acabou por aceitar o desafio?|Ana Cristina acabou por aceitar o desafio.
+Por que acabou Ana Cristina?|Ana Cristina acabou por aceitar o desafio.
+Quem recorre ao Provedor de Justiça?|Anafre recorre ao Provedor de Justiça.
+A quem recorre Anafre?|Anafre recorre ao Provedor de Justiça.
+De que analista principal?|Analista principal da Dataquest nos EUA.
+De que anatomia?|Anatomia do crime da Rua da Palma.
+Em que anda agora esta pronúncia difundida pela TV?|Anda agora em moda esta pronúncia difundida pela TV.
+O que anda agora em moda?|Anda agora em moda esta pronúncia difundida pela TV.
+O que gostou de Deus Pinheiro?|Angola gostou de Deus Pinheiro.
+De quem gostou Angola?|Angola gostou de Deus Pinheiro.
+O que vai receber Mandela em Março?|Angola vai receber Mandela em Março.
+Quem vai Angola receber?|Angola vai receber Mandela em Março.
+Entre que angústia?|Angústia entre os pescadores de Aveiro.
+Quem dá o seu acordo a uma investigação do FBI?|Anita Hill dá o seu acordo a uma investigação do FBI.
+O que dá Anita Hill a uma investigação do FBI?|Anita Hill dá o seu acordo a uma investigação do FBI.
+A que dá Anita Hill o seu acordo?|Anita Hill dá o seu acordo a uma investigação do FBI.
+Quem deixa grupo Amorim?|Antero Santos deixa grupo Amorim.
+O que deixa Antero Santos?|Antero Santos deixa grupo Amorim.
+O que antes só tinha tido?|Antes só tinha tido fracassos.
+Quem substitui Arlindo Cunha?|António Duarte Silva substitui Arlindo Cunha.
+Quem substitui António Duarte Silva?|António Duarte Silva substitui Arlindo Cunha.
+Quem é um candidato forte?|António Ramalho Eanes é um candidato forte.
+Quem é António Ramalho Eanes?|António Ramalho Eanes é um candidato forte.
+Quem domina em Lisboa?|António Sala domina em Lisboa.
+Onde domina António Sala?|António Sala domina em Lisboa.
+O que anulado?|Anulado concurso do terminal de carga do aeroporto de Macau.
+O que se anuncia?|Anuncia-se o fim da organização em áreas de negócios.
+O que se anuncia?|Anuncia-se também que Jacques Roubaud pronunciará uma conferência no Instituto Franco-Português.
+Quem foi assassinado há 12 escassos anos?|Anwar Sadat foi assassinado há 12 escassos anos.
+Quantos escassos foi Anwar Sadat assassinado há?|Anwar Sadat foi assassinado há 12 escassos anos.
+Por quem se apaixonou?|Apaixonou-se por um cego que não era aluno dele.
+Onde apareceu com um caixote de óleo Johnson?|Apareceu em casa com um caixote de óleo Johnson.
+Com quem apareceu em casa?|Apareceu em casa com um caixote de óleo Johnson.
+Com que apple continua?|Apple continua com gama Macintosh.
+O que marcou a diferença?|Aquela transferência vil para o Benfica marcou a diferença.
+O que marcou Aquela transferência vil para o Benfica?|Aquela transferência vil para o Benfica marcou a diferença.
+Quem mostra evolução histórica de 120 espécies arbóreas?|Arboreto da Expo mostra evolução histórica de 120 espécies arbóreas.
+O que mostra Arboreto da Expo?|Arboreto da Expo mostra evolução histórica de 120 espécies arbóreas.
+O que arganil aguentou?|Arganil aguentou a grande invasão.
+Quem deverá adiar a apresentação de nova proposta ao Conselho da Agricultura?|Arlindo Cunha deverá adiar a apresentação de nova proposta ao Conselho da Agricultura.
+O que deverá Arlindo Cunha adiar?|Arlindo Cunha deverá adiar a apresentação de nova proposta ao Conselho da Agricultura.
+Quem não oferecem condições mínimas para que o ataque do Gil Vicente constitua perigo?|Armando ou Raudnei não oferecem condições mínimas para que o ataque do Gil Vicente constitua perigo.
+O que não oferecem Armando ou Raudnei?|Armando ou Raudnei não oferecem condições mínimas para que o ataque do Gil Vicente constitua perigo.
+De que armindo é?|Armindo é do tempo em que a ria se enchia das velas brancas dos moliceiros.
+Em que os arrumou?|Arrumou-os no carrinho de compras.
+Quem confessou a versão dada pela acusação dos factos que ocorreram durante o assalto?|Artur Gomes confessou a versão dada pela acusação dos factos que ocorreram durante o assalto.
+O que confessou Artur Gomes?|Artur Gomes confessou a versão dada pela acusação dos factos que ocorreram durante o assalto.
+O que estimam em 500 mil o número de pessoas em risco?|As Nações Unidas estimam em 500 mil o número de pessoas em risco.
+Em que estimam as Nações Unidas o número de pessoas em risco?|As Nações Unidas estimam em 500 mil o número de pessoas em risco.
+O que estimam as Nações Unidas em 500 mil?|As Nações Unidas estimam em 500 mil o número de pessoas em risco.
+O que forem compradas pelo BPI?|As acções que não forem adquiridas nsta tranche serão compradas pelo BPI.
+Por que serão as acções que não forem adquiridas nsta tranche compradas?|As acções que não forem adquiridas nsta tranche serão compradas pelo BPI.
+Quem arquivam o processo por falta de provas?|As autoridades arquivam o processo por falta de provas.
+O que arquivam as autoridades?|As autoridades arquivam o processo por falta de provas.
+O que assobiavam nos ouvidos?|As balas assobiavam nos ouvidos.
+Em quem assobiavam as balas?|As balas assobiavam nos ouvidos.
+O que devem ser justas no rabo?|As calças devem ser justas no rabo.
+Em que devem as calças ser justas?|As calças devem ser justas no rabo.
+O que são o prato forte da cozinha húngara?|As carnes são o prato forte da cozinha húngara.
+O que são as carnes?|As carnes são o prato forte da cozinha húngara.
+O que estão todas?|As cartas estão todas ali.
+O que estão as cartas?|As cartas estão todas ali.
+O que são os maus tratos?|As causas são os maus tratos.
+O que são as causas?|As causas são os maus tratos.
+O que atrasaram as operações em algumas regiões?|As chuvas atrasaram as operações em algumas regiões.
+O que atrasaram as chuvas?|As chuvas atrasaram as operações em algumas regiões.
+O que são um pouco?|As coisas são um pouco assim.
+O que mantiveram os mesmos níveis?|As comissões mantiveram os mesmos níveis.
+O que mantiveram as comissões?|As comissões mantiveram os mesmos níveis.
+O que estavam confinadas do ponto de vista geográfico?|As comunidades estavam confinadas do ponto de vista geográfico.
+De que estavam as comunidades confinadas?|As comunidades estavam confinadas do ponto de vista geográfico.
+O que remontam ao século XVII?|As cornetas dos batedores remontam ao século XVII.
+Quando remontam as cornetas dos batedores?|As cornetas dos batedores remontam ao século XVII.
+O que alcançadas em ontem Lisboa pelas principais divisas internacionais não causaram qualquer surpresa?|As cotações ontem alcançadas em Lisboa pelas principais divisas internacionais não causaram qualquer surpresa.
+Onde ontem alcançadas as cotações pelas principais divisas internacionais não causaram qualquer surpresa?|As cotações ontem alcançadas em Lisboa pelas principais divisas internacionais não causaram qualquer surpresa.
+Por que ontem alcançadas as cotações em Lisboa não causaram qualquer surpresa?|As cotações ontem alcançadas em Lisboa pelas principais divisas internacionais não causaram qualquer surpresa.
+O que ontem alcançadas as cotações em Lisboa pelas principais divisas internacionais não causaram?|As cotações ontem alcançadas em Lisboa pelas principais divisas internacionais não causaram qualquer surpresa.
+O que vieram com a regionalização?|As críticas generalizadas à actuação da direcção do partido vieram com a regionalização.
+Com que vieram as críticas generalizadas à actuação da direcção do partido?|As críticas generalizadas à actuação da direcção do partido vieram com a regionalização.
+O que foram recebidas pelo comissário Bruce Millan?|As delegações metropolitanas portuguesas foram recebidas pelo comissário Bruce Millan.
+Por quem foram as delegações metropolitanas portuguesas recebidas?|As delegações metropolitanas portuguesas foram recebidas pelo comissário Bruce Millan.
+O que vêm pelos problemas que temos?|As doenças vêm pelos problemas que temos.
+Por que vêm as doenças que temos?|As doenças vêm pelos problemas que temos.
+O que vêm as doenças pelos problemas?|As doenças vêm pelos problemas que temos.
+O que foram de euforia em alta?|As duas últimas sessões foram de euforia em alta.
+De que foram as duas últimas sessões?|As duas últimas sessões foram de euforia em alta.
+Quando já não são adiadas?|As eleições jordanas de Novembro já não são adiadas.
+Quem preferem filhos varões?|As famílias afegãs preferem filhos varões.
+Quem preferem as famílias afegãs?|As famílias afegãs preferem filhos varões.
+O que vão continuar a não equilibrar o orçamento?|As fontes de receita vão continuar a não equilibrar o orçamento.
+A que vão as fontes de receita continuar?|As fontes de receita vão continuar a não equilibrar o orçamento.
+O que registam 143 homens feridos?|As forças da ordem registam 143 homens feridos.
+Quem registam as forças da ordem?|As forças da ordem registam 143 homens feridos.
+Quem continuam a levantar -se a_ as três de_ a manhã?|As freiras continuam a levantar-se às três da manhã.
+A que manhã a as freiras continuam levantar -se a_ as três de_ a manhã?|As freiras continuam a levantar-se às três da manhã.
+O que não resultam porque os italianos não deixam?|As fugas não resultam porque os italianos não deixam.
+O que não resultam as fugas porque não deixam?|As fugas não resultam porque os italianos não deixam.
+O que foram um dos pontos altos dos exercícios?|As grutas da Salustreira foram um dos pontos altos dos exercícios.
+O que foram as grutas da Salustreira?|As grutas da Salustreira foram um dos pontos altos dos exercícios.
+O que não davam um retrato fiável da situação real?|As informações disponíveis não davam um retrato fiável da situação real.
+O que não davam as informações disponíveis?|As informações disponíveis não davam um retrato fiável da situação real.
+O que já estão a decorrer no GCP?|As inscrições já estão a decorrer no GCP.
+Onde já estão as inscrições?|As inscrições já estão a decorrer no GCP.
+O que começam sempre da mesma maneira?|As manhãs em Condom começam sempre da mesma maneira.
+De que começam as manhãs em Condom?|As manhãs em Condom começam sempre da mesma maneira.
+O que foram produzidas especialmente para a exposição?|As maquetas expostas foram produzidas especialmente para a exposição.
+Especialmente que foram as maquetas expostas produzidas?|As maquetas expostas foram produzidas especialmente para a exposição.
+O que serão o recinto?|As mesas de votos serão o recinto.
+O que serão as mesas de votos?|As mesas de votos serão o recinto.
+O que não atingem exclusivamente os países de Leste?|As mudanças não atingem exclusivamente os países de Leste.
+O que não atingem as mudanças?|As mudanças não atingem exclusivamente os países de Leste.
+O que não tiveram descanso?|As máquinas fotográficas não tiveram descanso.
+O que não tiveram as máquinas fotográficas?|As máquinas fotográficas não tiveram descanso.
+O que entram num impasse?|As negociações sobre o futuro da Irlanda do Norte entram num impasse.
+Em que entram as negociações sobre o futuro da Irlanda do Norte?|As negociações sobre o futuro da Irlanda do Norte entram num impasse.
+O que são bem sólidas?|As nossas convicções são bem sólidas.
+O que são muito diferentes?|As novas organizações familiares são muito diferentes.
+O que aqui são todas?|As obras aqui são todas assim.
+Qual aqui são as obras?|As obras aqui são todas assim.
+O que não apresentam grandes inovações nsta matéria?|As orientações do CDS não apresentam grandes inovações nsta matéria.
+O que não apresentam as orientações do CDS?|As orientações do CDS não apresentam grandes inovações nsta matéria.
+O que erradas do referendo?|As perguntas erradas do referendo.
+De que erradas as perguntas?|As perguntas erradas do referendo.
+Quem passam a ser vistas com outros olhos pelos espectadores?|As personagens passam a ser vistas com outros olhos pelos espectadores.
+O que passam as personagens?|As personagens passam a ser vistas com outros olhos pelos espectadores.
+Quem viram observar que ele não estava?|As pessoas que viram o discurso de demissão do Presidente Nixon puderam observar que ele não estava bem.
+O que puderam as pessoas que viram o discurso de demissão do Presidente Nixon observar?|As pessoas que viram o discurso de demissão do Presidente Nixon puderam observar que ele não estava bem.
+O que foram escancaradas com a linguagem verde do dólar?|As portas foram escancaradas com a linguagem verde do dólar.
+Com que foram as portas escancaradas?|As portas foram escancaradas com a linguagem verde do dólar.
+O que ainda não estão definidas?|As posições de voto ainda não estão definidas.
+O que foram assim para quem anunciou que o jantar ia ser servido?|As primeiras palmas foram assim para quem anunciou que o jantar ia ser servido.
+Para que foram as primeiras palmas?|As primeiras palmas foram assim para quem anunciou que o jantar ia ser servido.
+O que são cumpridas invariavelmente de joelhos?|As promessas são cumpridas invariavelmente de joelhos.
+Qual são as promessas?|As promessas são cumpridas invariavelmente de joelhos.
+O que solicitam o seu posicionamento perante problemáticas actuais?|As questões esta secção solicitam o seu posicionamento perante problemáticas actuais.
+O que solicitam as questões esta secção?|As questões esta secção solicitam o seu posicionamento perante problemáticas actuais.
+O que napresentadas os últimos meses ao INDC abrangem situações muito diversas?|As reclamações apresentadas nos últimos meses ao INDC abrangem situações muito diversas.
+Em que apresentadas as reclamações ao INDC abrangem situações muito diversas?|As reclamações apresentadas nos últimos meses ao INDC abrangem situações muito diversas.
+A que apresentadas as reclamações nos últimos meses abrangem situações muito diversas?|As reclamações apresentadas nos últimos meses ao INDC abrangem situações muito diversas.
+O que apresentadas as reclamações nos últimos meses ao INDC abrangem?|As reclamações apresentadas nos últimos meses ao INDC abrangem situações muito diversas.
+O que não são más?|As relações com os outros ministérios não são más.
+O que estão desertas?|As ruas de Sarajevo estão desertas.
+O que não são eficazes?|As sanções pecuniárias existentes não são eficazes.
+O que começaram na adolescência?|As suas digressões com um reportório clássico começaram na adolescência.
+Em que começaram as suas digressões com um reportório clássico?|As suas digressões com um reportório clássico começaram na adolescência.
+O que vão ter futebol na sua programação de Verão?|As televisões privadas vão ter futebol na sua programação de Verão.
+O que vão as televisões privadas ter?|As televisões privadas vão ter futebol na sua programação de Verão.
+O que travados em Lisboa?|Assaltantes de Coimbra travados em Lisboa.
+Onde travados Assaltantes de Coimbra?|Assaltantes de Coimbra travados em Lisboa.
+O que já tem mesa eleita?|Assembleia Metropolitana já tem mesa eleita.
+O que já tem Assembleia Metropolitana?|Assembleia Metropolitana já tem mesa eleita.
+O que reúne?|Assembleia de credores reúne hoje.
+O que manda recados à direcção?|Assembleia manda recados à direcção.
+O que manda Assembleia à direcção?|Assembleia manda recados à direcção.
+A que manda Assembleia recados?|Assembleia manda recados à direcção.
+O que unidas contra lei de estrangeiros?|Associações unidas contra lei de estrangeiros.
+Contra quem unidas Associações?|Associações unidas contra lei de estrangeiros.
+Quem já tem 10 anos?|Asteróide Portugal já tem 10 anos.
+Quantos anos já tem Asteróide Portugal?|Asteróide Portugal já tem 10 anos.
+Quem detectam no Universo?|Astrónomos detectam radiação infravermelha omnipresente no Universo.
+Em que omnipresente Astrónomos detectam radiação infravermelha?|Astrónomos detectam radiação infravermelha omnipresente no Universo.
+O que vai ficar na freguesia de Atiães?|Aterro sanitário vai ficar na freguesia de Atiães.
+Em que vai Aterro sanitário ficar?|Aterro sanitário vai ficar na freguesia de Atiães.
+Quem ainda pode recorrer?|Autarca da Nazaré ainda pode recorrer.
+Quem encaram demissão do PSD?|Autarcas encaram demissão do PSD.
+O que encaram Autarcas?|Autarcas encaram demissão do PSD.
+O que autarquia acusa?|Autarquia acusa Centro de Saúde.
+O que autarquia?|Autarquia analisa situações de risco.
+Quem quer melhorar o trânsito?|Autarquia quer melhorar o trânsito.
+O que quer Autarquia melhorar?|Autarquia quer melhorar o trânsito.
+Quem falam em dois mil mortos no sismo?|Autoridades russas falam em dois mil mortos no sismo.
+Em que mortos falam Autoridades russas no sismo?|Autoridades russas falam em dois mil mortos no sismo.
+Em que falam Autoridades russas em dois mil mortos?|Autoridades russas falam em dois mil mortos no sismo.
+O que deverá ser importante?|Auxílio de antigos associados deverá ser importante.
+O que avaria?|Avaria atrasa saída de barcos da Expo.
+O que abatido por um míssil?|Avião abatido por um míssil.
+Por que abatido Avião?|Avião abatido por um míssil.
+O que aí fundaram?|Aí fundaram a colónia de Plymouth.
+O que aí se plantava?|Aí se plantava cocaína em larga escala.
+O que vai lançar novo canal?|BBC vai lançar novo canal.
+O que vai BBC lançar?|BBC vai lançar novo canal.
+O que entra na segunda fase?|BESCL entra na segunda fase.
+Em que entra BESCL?|BESCL entra na segunda fase.
+O que recebe com calma a resolução da ONU?|Bagdad recebe com calma a resolução da ONU.
+Com que recebe Bagdad a resolução da ONU?|Bagdad recebe com calma a resolução da ONU.
+O que recebe Bagdad com calma?|Bagdad recebe com calma a resolução da ONU.
+Quem ultima conferência de paz?|Baker ultima conferência de paz.
+O que ultima Baker?|Baker ultima conferência de paz.
+Qual só será içada nas esquadras da Irlanda do Norte em dias especiais?|Bandeira britânica só será içada nas esquadras da Irlanda do Norte em dias especiais.
+Em que só será Bandeira britânica içada?|Bandeira britânica só será içada nas esquadras da Irlanda do Norte em dias especiais.
+Quem apanhou o avião?|Bao Ge apanhou o avião.
+O que apanhou Bao Ge?|Bao Ge apanhou o avião.
+Quem foi a jornalista que entrevistou Spike Lee?|Barbara Grizzuti Harrison foi a jornalista que entrevistou Spike Lee.
+Quem foi Barbara Grizzuti Harrison?|Barbara Grizzuti Harrison foi a jornalista que entrevistou Spike Lee.
+Quem já reagiu às acusações?|Barbedo de Magalhães já reagiu às acusações.
+A que já reagiu Barbedo de Magalhães?|Barbedo de Magalhães já reagiu às acusações.
+O que lança dúvidas sobre a reconstrução da Ponte da Ajuda?|Barragem de Alqueva lança dúvidas sobre a reconstrução da Ponte da Ajuda.
+O que lança Barragem de Alqueva?|Barragem de Alqueva lança dúvidas sobre a reconstrução da Ponte da Ajuda.
+Quem começou a encher?|Barragem do Caldeirão começou a encher.
+A que começou Barragem do Caldeirão?|Barragem do Caldeirão começou a encher.
+O que poderá ir para San Diego?|Barroco português poderá ir para San Diego.
+Onde poderá Barroco português ir?|Barroco português poderá ir para San Diego.
+Onde barça?|Barça no país das maravilhas.
+O que bastou?|Bastou a fusão das instituições para que esse entendimento se pudesse garantir.
+Quem é uma série criada por William Finkelstein?|Batalhas Conjugais é uma série criada por William Finkelstein.
+O que é Batalhas Conjugais?|Batalhas Conjugais é uma série criada por William Finkelstein.
+Quem morreu em acidente de viação?|Baterista Cozy Powell morreu em acidente de viação.
+Em que morreu Baterista Cozy Powell?|Baterista Cozy Powell morreu em acidente de viação.
+O que cedeu ponto nos Barreiros?|Benfica cedeu ponto nos Barreiros.
+O que cedeu Benfica?|Benfica cedeu ponto nos Barreiros.
+O que venceu FC Nuremberg por 2 1?|Benfica venceu FC Nuremberg por 2-1.
+O que venceu Benfica por 2 1?|Benfica venceu FC Nuremberg por 2-1.
+Por que venceu Benfica FC Nuremberg?|Benfica venceu FC Nuremberg por 2-1.
+Quem se despediu ontem do Estoril Open?|Bernardo Mota despediu-se ontem do Estoril Open.
+De que se despediu Bernardo Mota?|Bernardo Mota despediu-se ontem do Estoril Open.
+Quem é uma das actrizes preferidas de Ingmar Bergman?|Bibi Andersson é uma das actrizes preferidas de Ingmar Bergman.
+Quem é Bibi Andersson?|Bibi Andersson é uma das actrizes preferidas de Ingmar Bergman.
+Quem visitou ontem a Bósnia-Herzegovina?|Bill Clinton visitou ontem a Bósnia-Herzegovina.
+O que visitou Bill Clinton?|Bill Clinton visitou ontem a Bósnia-Herzegovina.
+Qual é hipótese muito plausível?|Boicote às eleições é hipótese muito plausível.
+Qual é Boicote às eleições?|Boicote às eleições é hipótese muito plausível.
+Quem conseguiu de novo a proeza do modernismo em plena fase de desencantamento pós-moderno?|Bowie conseguiu de novo a proeza do modernismo em plena fase de desencantamento pós-moderno.
+O que conseguiu Bowie de?|Bowie conseguiu de novo a proeza do modernismo em plena fase de desencantamento pós-moderno.
+Qual quer ser capital do andebol?|Braga quer ser capital do andebol.
+Qual quer Braga ser?|Braga quer ser capital do andebol.
+O que moderniza centro de formação?|Bragança moderniza centro de formação.
+O que moderniza Bragança?|Bragança moderniza centro de formação.
+Quem é descendente de portugueses?|Brigitte Paulino-Neto é descendente de portugueses.
+Qual é Brigitte Paulino-Neto?|Brigitte Paulino-Neto é descendente de portugueses.
+Quem se referia às leis do Estado de emergência?|Bruno referia-se às leis do Estado de emergência.
+A que se referia Bruno?|Bruno referia-se às leis do Estado de emergência.
+O que adia fiscalidade dos combustíveis?|Bruxelas adia fiscalidade dos combustíveis.
+O que adia Bruxelas?|Bruxelas adia fiscalidade dos combustíveis.
+O que examina imposto italiano para a Europa?|Bruxelas examina imposto italiano para a Europa.
+O que examina Bruxelas?|Bruxelas examina imposto italiano para a Europa.
+O que anunciou corte nas taxas de juro?|Bundesbank anunciou corte nas taxas de juro.
+O que anunciou Bundesbank?|Bundesbank anunciou corte nas taxas de juro.
+Quem propõe alargamento do G7?|Bush propõe alargamento do G7.
+O que propõe Bush?|Bush propõe alargamento do G7.
+O que propõe adiamento do IVA?|CDS propõe adiamento do IVA.
+O que propõe CDS?|CDS propõe adiamento do IVA.
+O que quer apoios para clandestinos?|CDU quer apoios para clandestinos.
+O que quer CDU?|CDU quer apoios para clandestinos.
+O que propõe trabalho parcial após a licença de parto?|CIP propõe trabalho parcial após a licença de parto.
+O que propõe CIP?|CIP propõe trabalho parcial após a licença de parto.
+O que inicia programa de destruição de barracas?|CML inicia programa de destruição de barracas.
+O que inicia CML?|CML inicia programa de destruição de barracas.
+Quem evoca Amílcar Cabral?|Cabo Verde evoca Amílcar Cabral.
+Quem evoca Cabo Verde?|Cabo Verde evoca Amílcar Cabral.
+Qual é um caso?|Cada caso é um caso.
+O que é cada caso?|Cada caso é um caso.
+O que encontrado no Tejo?|Cadáver de jovem encontrado no Tejo.
+Onde encontrado Cadáver de jovem?|Cadáver de jovem encontrado no Tejo.
+O que reabre na semana tauromáquica?|Café Central reabre na semana tauromáquica.
+Em que reabre Café Central?|Café Central reabre na semana tauromáquica.
+Quem aposta em novos produtos?|Caima aposta em novos produtos.
+Em que aposta Caima?|Caima aposta em novos produtos.
+O que julgado ao fim de quatro anos?|Caldeira julgado ao fim de quatro anos.
+A que anos julgado Caldeira?|Caldeira julgado ao fim de quatro anos.
+Quem tomará uma decisão definitiva só em princípios de Setembro?|Calisto tomará uma decisão definitiva só em princípios de Setembro.
+O que tomará Calisto só em princípios de Setembro?|Calisto tomará uma decisão definitiva só em princípios de Setembro.
+Quando tomará Calisto uma decisão definitiva?|Calisto tomará uma decisão definitiva só em princípios de Setembro.
+O que se associam?|Canais privados da TV francesa associam-se.
+Quem financiou sede do PRD?|Carides financiou sede do PRD.
+O que financiou Carides?|Carides financiou sede do PRD.
+Quem é o arquétipo do que acabamos de dizer?|Carl Lewis é o arquétipo do que acabamos de dizer.
+O que é Carl Lewis?|Carl Lewis é o arquétipo do que acabamos de dizer.
+Quem encerrou o XV Simpósio de_ a União de Treinadores Europeus de Futebol?|Carlos Alberto Parreira encerrou o XV Simpósio da União de Treinadores Europeus de Futebol.
+O que encerrou Carlos Alberto Parreira?|Carlos Alberto Parreira encerrou o XV Simpósio da União de Treinadores Europeus de Futebol.
+Quem terminou ontem ao intervalo um jogo que nem sequer devia ter começado?|Carlos Calheiros terminou ontem ao intervalo um jogo que nem sequer devia ter começado.
+A que terminou Carlos Calheiros ontem um jogo que nem sequer devia ter começado?|Carlos Calheiros terminou ontem ao intervalo um jogo que nem sequer devia ter começado.
+O que terminou Carlos Calheiros ontem ao intervalo?|Carlos Calheiros terminou ontem ao intervalo um jogo que nem sequer devia ter começado.
+Quem apanha cinco anos de prisão?|Carteiro apanha cinco anos de prisão.
+Quantos anos apanha Carteiro?|Carteiro apanha cinco anos de prisão.
+O que percorreu a Baixa do Porto num cortejo em euforia?|Carvalhas percorreu a Baixa do Porto num cortejo em euforia.
+O que percorreu Carvalhas num cortejo em euforia?|Carvalhas percorreu a Baixa do Porto num cortejo em euforia.
+Em que percorreu Carvalhas a Baixa do Porto?|Carvalhas percorreu a Baixa do Porto num cortejo em euforia.
+O que substitui areia?|Casca de pinheiro substitui areia.
+O que substitui Casca de pinheiro?|Casca de pinheiro substitui areia.
+O que cascam munícipe de 83 anos?|Cascais homenageia munícipe de 83 anos.
+O que homenageia Cascais?|Cascais homenageia munícipe de 83 anos.
+O que ressuscita em Espanha?|Caso Filesa ressuscita em Espanha.
+Onde ressuscita Caso Filesa?|Caso Filesa ressuscita em Espanha.
+O que faz balanço dos seis primeiros meses?|Castelo Branco Capital do Teatro faz balanço dos seis primeiros meses.
+O que faz Castelo Branco Capital do Teatro?|Castelo Branco Capital do Teatro faz balanço dos seis primeiros meses.
+Quem vence Taça de Portugal?|Castelo da Maia vence Taça de Portugal.
+O que vence Castelo da Maia?|Castelo da Maia vence Taça de Portugal.
+Quem sofre avaria no golfo da Biscaia?|Castelo sofre avaria no golfo da Biscaia.
+O que sofre Castelo?|Castelo sofre avaria no golfo da Biscaia.
+Quem nomeia Peneda para Bruxelas?|Cavaco nomeia Peneda para Bruxelas.
+Quem nomeia Cavaco para Bruxelas?|Cavaco nomeia Peneda para Bruxelas.
+Para quem nomeia Cavaco Peneda?|Cavaco nomeia Peneda para Bruxelas.
+Quem terminava assim o seu discurso?|Cavaco terminava assim o seu discurso.
+O que terminava Cavaco?|Cavaco terminava assim o seu discurso.
+O que poderão enfrentar estas dificuldades ainda?|Certas regiões poderão enfrentar estas dificuldades ainda antes.
+O que poderão certas regiões enfrentar ainda?|Certas regiões poderão enfrentar estas dificuldades ainda antes.
+Quem inicia negociações para o novo Governo alemão?|Chanceler Kohl inicia negociações para o novo Governo alemão.
+O que inicia Chanceler Kohl?|Chanceler Kohl inicia negociações para o novo Governo alemão.
+A que se chega?|Chega-se depressa à saturação completa.
+Onde chegam discretamente?|Chegam discretamente junto à Cruz Alta.
+A que chegámos esta série?|Chegámos ao fim esta série.
+O que chegámos ao fim?|Chegámos ao fim esta série.
+Com que chileno?|Chileno com cocaína na fralda.
+O que chipre é?|Chipre é uma causa nacional para a Turquia.
+O que fez oito feridos?|Choque de autocarro fez oito feridos.
+Quantos fez Choque de autocarro?|Choque de autocarro fez oito feridos.
+O que provocou 10 feridos?|Choque na ponte provocou 10 feridos.
+Quantos provocou Choque na ponte?|Choque na ponte provocou 10 feridos.
+Quem descobrem crustáceo raro?|Cientistas australianos descobrem crustáceo raro.
+O que descobrem Cientistas australianos?|Cientistas australianos descobrem crustáceo raro.
+Quem descobriram factor genético que determina o sexo?|Cientistas britânicos descobriram factor genético que determina o sexo.
+O que descobriram Cientistas britânicos?|Cientistas britânicos descobriram factor genético que determina o sexo.
+Quem descobrem gene regulador da actividade nas moscas do vinagre?|Cientistas descobrem gene regulador da actividade nas moscas do vinagre.
+O que descobrem Cientistas?|Cientistas descobrem gene regulador da actividade nas moscas do vinagre.
+O que termina?|Cimeira da ONU para o Desenvolvimento Social termina hoje.
+O que claudia teve?|Claudia teve uma reacção alarmante.
+Quem insiste em Al Gore?|Clinton insiste em Al Gore.
+Em quem insiste Clinton?|Clinton insiste em Al Gore.
+Quem mantém o seu estilo?|Clinton mantém o seu estilo.
+O que mantém Clinton?|Clinton mantém o seu estilo.
+O que clubes?|Clubes aprovaram sorteio dos árbitros.
+Quem dá aulas sobre Arte Islâmica?|Cláudio Torres dá aulas sobre Arte Islâmica.
+O que dá Cláudio Torres?|Cláudio Torres dá aulas sobre Arte Islâmica.
+Por que comecemos?|Comecemos por algumas das mudanças operadas na nomenklatura russa.
+Onde começa?|Começa a haver um grande mal-estar na sociedade.
+O que começa?|Começa hoje a última etapa do processo de paz israelo-palestiniano.
+O que começa?|Começa o ciclo das cartas.
+Onde começou?|Começou a construir uma casa.
+O que começou?|Começou então a política de limpeza étnica.
+O que aprova abertura de negociações com a Suécia?|Comissão Europeia aprova abertura de negociações com a Suécia.
+O que aprova Comissão Europeia?|Comissão Europeia aprova abertura de negociações com a Suécia.
+O que arranca?|Comissão da Transparência arranca hoje.
+O que traça um quadro negro da região?|Comissão de Coordenação da Região Norte traça um quadro negro da região.
+O que traça Comissão de Coordenação de_ a Região Norte?|Comissão de Coordenação da Região Norte traça um quadro negro da região.
+O que apresentou plano?|Comissão presidida por Soares apresentou plano.
+O que apresentou Comissão presidida por Soares?|Comissão presidida por Soares apresentou plano.
+O que aposta em novos agricultores?|Companhia das Lezírias aposta em novos agricultores.
+Em quem aposta Companhia das Lezírias?|Companhia das Lezírias aposta em novos agricultores.
+O que vão explorar rotas internacionais?|Companhias aéreas privadas vão explorar rotas internacionais.
+O que vão Companhias aéreas privadas explorar?|Companhias aéreas privadas vão explorar rotas internacionais.
+O que se compreende?|Compreende-se a importância histórica do documento.
+O que comprovava tão antiga como a civilização?|Comprovava esta verdade tão antiga como a civilização.
+O que alarga âmbito da cooperação inter-regional?|Comunidade alarga âmbito da cooperação inter-regional.
+O que alarga Comunidade?|Comunidade alarga âmbito da cooperação inter-regional.
+Quem querem convénio da água?|Comunistas ibéricos querem convénio da água.
+O que querem Comunistas ibéricos?|Comunistas ibéricos querem convénio da água.
+O que atrapalha Narciso?|Concelhia do Porto atrapalha Narciso.
+O que atrapalha Concelhia do Porto?|Concelhia do Porto atrapalha Narciso.
+O que anulada pelo Parlamento russo?|Concessão territorial de 1954 anulada pelo Parlamento russo.
+Por que anulada Concessão territorial de 1954?|Concessão territorial de 1954 anulada pelo Parlamento russo.
+O que vai ser reatada?|Conferência de Paz vai ser reatada.
+O que começa em Viena?|Conferência do CFE começa em Viena.
+Onde começa Conferência do CFE?|Conferência do CFE começa em Viena.
+O que discutiu os próximos quatro anos?|Congresso discutiu os próximos quatro anos.
+O que discutiu Congresso?|Congresso discutiu os próximos quatro anos.
+O que aprova resolução?|Conselho da Europa aprova resolução.
+O que aprova Conselho da Europa?|Conselho da Europa aprova resolução.
+O que vai discutir o PDR?|Conselho de Ministros vai discutir o PDR.
+O que vai Conselho de Ministros discutir?|Conselho de Ministros vai discutir o PDR.
+O que entraram no terceiro mês?|Conversações angolanas de Lusaca entraram no terceiro mês.
+Em que entraram Conversações angolanas de Lusaca?|Conversações angolanas de Lusaca entraram no terceiro mês.
+O que vende património?|Cooperativa de Ourém vende património.
+O que vende Cooperativa de Ourém?|Cooperativa de Ourém vende património.
+Quem privatiza onze companhias?|Coreia do Sul privatiza onze companhias.
+O que privatiza Coreia do Sul?|Coreia do Sul privatiza onze companhias.
+O que se distancia da administração?|Corpo clínico de Évora distancia-se da administração.
+De que se distancia Corpo clínico de Évora?|Corpo clínico de Évora distancia-se da administração.
+Quem venceu Nacional Absoluto de Ténis?|Couto venceu Nacional Absoluto de Ténis.
+O que venceu Couto?|Couto venceu Nacional Absoluto de Ténis.
+O que cresce?|Cresce a entrega de refeições ao domicílio na Grande Lisboa.
+Quem aparece ao fim de três dias?|Criança do avião coreano aparece ao fim de três dias.
+A que dias aparece Criança do avião coreano?|Criança do avião coreano aparece ao fim de três dias.
+Quem saiu de casa?|Criança saiu de casa.
+De onde saiu Criança?|Criança saiu de casa.
+Quem diz que foi contratado por Winnie?|Criminoso diz que foi contratado por Winnie.
+O que diz Criminoso?|Criminoso diz que foi contratado por Winnie.
+O que se agrava nos Balcãs?|Crise dos refugiados agrava-se nos Balcãs.
+Em que se agrava Crise dos refugiados?|Crise dos refugiados agrava-se nos Balcãs.
+O que destruíram 11 cidades sérvias?|Croatas destruíram 11 cidades sérvias.
+O que destruíram Croatas?|Croatas destruíram 11 cidades sérvias.
+Quem rejeitam ultimato em Dubrovnik?|Croatas rejeitam ultimato em Dubrovnik.
+O que rejeitam Croatas?|Croatas rejeitam ultimato em Dubrovnik.
+O que exige retirada da Forpronu até finais de Junho?|Croácia exige retirada da Forpronu até finais de Junho.
+O que exige Croácia?|Croácia exige retirada da Forpronu até finais de Junho.
+Quem vai gerir o Rivoli?|Culturporto vai gerir o Rivoli.
+O que vai Culturporto gerir?|Culturporto vai gerir o Rivoli.
+O que aprovou reconversão do litoral de Matosinhos-Sul?|Câmara aprovou reconversão do litoral de Matosinhos-Sul.
+O que aprovou Câmara?|Câmara aprovou reconversão do litoral de Matosinhos-Sul.
+O que foi ontem empossada?|Câmara de Coimbra foi ontem empossada.
+O que detecta situação pouco clara?|Câmara detecta situação pouco clara.
+O que detecta Câmara?|Câmara detecta situação pouco clara.
+O que quer centro de arbitragem de conflitos?|Câmara do Porto quer centro de arbitragem de conflitos.
+O que quer Câmara do Porto?|Câmara do Porto quer centro de arbitragem de conflitos.
+O que não impede construção na Verdelha?|Câmara não impede construção na Verdelha.
+O que não impede Câmara?|Câmara não impede construção na Verdelha.
+O que paga obras em casa?|Câmara paga obras em casa.
+O que paga Câmara?|Câmara paga obras em casa.
+O que vai gerir equipamentos municipais?|Câmara vai gerir equipamentos municipais.
+O que vai Câmara gerir?|Câmara vai gerir equipamentos municipais.
+O que já têm hospedaria?|Cães vadios já têm hospedaria.
+O que já têm Cães vadios?|Cães vadios já têm hospedaria.

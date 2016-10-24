@@ -1,0 +1,136 @@
+O que é Moscovo?|A capital da Rússia é Moscovo.
+Qual é a capital da Rússia?|A capital da Rússia é Moscovo.
+O que muito humildemente o salientou?|A Clara muito humildemente o salientou.
+O que primou entre as grandes potências?|A Holanda primou entre as grandes potências.
+Entre que primou a Holanda?|A Holanda primou entre as grandes potências.
+Quem se desforrou na criança?|A Maria desforrou-se na criança.
+Em quem se desforrou a Maria?|A Maria desforrou-se na criança.
+Quem se estende sobre a relva?|A Maria estende-se sobre a relva.
+Sobre que se estende a Maria?|A Maria estende-se sobre a relva.
+O que é amarela?|A camisola é amarela.
+O que se seguiu de um maremoto?|A catástrofe seguiu-se de um maremoto.
+De que se seguiu a catástrofe?|A catástrofe seguiu-se de um maremoto.
+O que oxidou o ferro?|A chuva oxidou o ferro.
+O que oxidou a chuva?|A chuva oxidou o ferro.
+O que é inevitável?|A chuva é inevitável.
+Quem obedece apenas à mãe?|A criança obedece apenas à mãe.
+A quem obedece a criança?|A criança obedece apenas à mãe.
+Quem obedeceu à mãe?|A criança obedeceu à mãe.
+A quem obedeceu a criança?|A criança obedeceu à mãe.
+O que advém desse?|A doença advém desse facto.
+O que faliu?|A empresa faliu.
+O que remeteu contra os anúncios?|A empresa remeteu contra os anúncios.
+Contra que remeteu a empresa?|A empresa remeteu contra os anúncios.
+O que acabou por apenas chegar?|A encomenda acabou por apenas chegar.
+Por que acabou a encomenda?|A encomenda acabou por apenas chegar.
+O que está no armazém?|A encomenda está no armazém.
+Onde está a encomenda?|A encomenda está no armazém.
+O que se preparou para o jogo?|A equipa preparou-se para o jogo.
+Para que se preparou a equipa?|A equipa preparou-se para o jogo.
+O que se espetou na parede?|A faca espetou-se na parede.
+Em que se espetou a faca?|A faca espetou-se na parede.
+O que especulou essa possibilidade?|A imprensa especulou essa possibilidade.
+O que especulou a imprensa?|A imprensa especulou essa possibilidade.
+O que é?|A inauguração da loja é hoje.
+O que prevaleceu sobre o interesse?|A justiça prevaleceu sobre o interesse.
+Sobre que prevaleceu a justiça?|A justiça prevaleceu sobre o interesse.
+O que fica por?|A loja fica por ali.
+Por que fica a loja?|A loja fica por ali.
+O que é para?|A loja é para ali.
+Para que é a loja?|A loja é para ali.
+O que sobressai ao maxilar superior?|A mandíbula sobressai ao maxilar superior.
+A que sobressai a mandíbula?|A mandíbula sobressai ao maxilar superior.
+O que sobressai da sua obra?|A paisagem sobressai da sua obra.
+De que sobressai a paisagem?|A paisagem sobressai da sua obra.
+O que sobressai entre as outras artes?|A pintura sobressai entre as outras artes.
+Entre que sobressai a pintura?|A pintura sobressai entre as outras artes.
+Quem se virou contra os manifestantes?|A polícia virou-se contra os manifestantes.
+Contra quem se virou a polícia?|A polícia virou-se contra os manifestantes.
+O que rompeu em triunfo?|A população rompeu em triunfo.
+Em que rompeu a população?|A população rompeu em triunfo.
+O que resvalou na ladeira?|A tábua resvalou na ladeira.
+Em que resvalou a tábua?|A tábua resvalou na ladeira.
+O que apoiaram?|Apoiaram a redução de impostos para níveis justos pelo governo.
+Quem gosta apenas de vinho branco?|Aquele cliente gosta apenas de vinho branco.
+De que gosta aquele cliente?|Aquele cliente gosta apenas de vinho branco.
+Quem se mascararam de palhaço?|As crianças mascararam-se de palhaço.
+De que se mascararam as crianças?|As crianças mascararam-se de palhaço.
+Quem colocavam muito lixo?|As pessoas residentes nessa rua colocavam muito lixo lá.
+O que colocavam as pessoas residentes nessa rua?|As pessoas residentes nessa rua colocavam muito lixo lá.
+De quem se atrasarem é habitual?|Atrasarem-se é habitual deles.
+O que chegaram?|Chegaram alguns computadores.
+O que chegaram?|Chegaram as outras cartas.
+Quem chegaram?|Chegaram certas outras pessoas.
+O que chegaram?|Chegaram certos três carros.
+Quem chegaram?|Chegaram duas outras pessoas.
+Quem chegaram?|Chegaram estes quatro Pedros.
+O que chegaram?|Chegaram minhas outras cartas.
+O que chegaram?|Chegaram os primeiros carros.
+Quem chegaram?|Chegaram outras primeiras pessoas.
+Quem chegaram?|Chegaram quatro Pedros.
+Quem chegaram?|Chegaram tais pessoas.
+O que chegaram?|Chegaram todos estes quatro computadores.
+Quantos carros chegaram?|Chegaram três carros.
+O que chegaram?|Chegaram uns computadores.
+O que chegou?|Chegou algum computador.
+O que chegou?|Chegou certo carro.
+Com que chegou?|Chegou com quem chegou.
+O que chegou?|Chegou este computador.
+Quem chegou?|Chegou o indivíduo com que chegou.
+O que chegou?|Chegou quem chegou.
+O que chegou?|Chegou um computador.
+De que choveu?|Choveu da forma como choveu.
+Em que choveu?|Choveu na altura em que choveu.
+Onde choveu?|Choveu no sítio onde choveu.
+Quantos computadores comprei?|Comprei cem computadores.
+Quantos e comprei?|Comprei cento e vinte e um computadores.
+O que comprei?|Comprei cerca de vinte e dois computadores.
+Quantos mil comprei?|Comprei dois mil e duzentos computadores.
+Quantas impressoras comprei?|Comprei duzentas impressoras.
+Quantos e comprei?|Comprei duzentos e vinte e dois mil e dois computadores.
+Quantos e comprei?|Comprei mil e duzentos e dois computadores.
+O que comprei?|Comprei o computador melhor.
+O que comprei?|Comprei um computador muito diferente deste.
+Quantos computadores comprei?|Comprei vinte computadores.
+O que comprou?|Comprou hoje um livro.
+O que comprou o Manuel?|Comprou um livro o Manuel hoje.
+Quem comprou um livro?|Comprou um livro o Manuel hoje.
+Com quem contactaram?|Contactaram com ele.
+Quem desapareceram?|Desapareceram Pedros leoneses.
+O que desapareceram?|Desapareceram aqueles meus dois carros.
+O que desapareceram?|Desapareceram carros novos meus.
+Quantos carros desapareceram?|Desapareceram dois carros meus novos.
+O que desapareceram?|Desapareceram meus dois novos carros.
+O que desapareceram?|Desapareceram novos carros meus.
+O que desapareceram?|Desapareceram os dois carros.
+O que desapareceram?|Desapareceram vinhos novos.
+O que desapareceu?|Desapareceu aquele carro meu.
+O que desapareceu?|Desapareceu certo carro meu.
+O que desapareceu?|Desapareceu meu carro.
+O que desapareceu?|Desapareceu o meu terceiro carro.
+O que desapareceu?|Desapareceu um meu.
+O que desapareceu?|Desapareceu vinho novo.
+Quem estranhou o alistamento do Pedro no exército pelo pai?|Ela estranhou o alistamento do Pedro no exército pelo pai.
+O que estranhou ela?|Ela estranhou o alistamento do Pedro no exército pelo pai.
+Quem se absorve na leitura?|Ele absorve-se na leitura.
+Em que se absorve ele?|Ele absorve-se na leitura.
+Quem se debruçou ao balcão?|Ele debruçou-se ao balcão.
+A que se debruçou ele?|Ele debruçou-se ao balcão.
+Quem mora muito?|Ele mora muito perto.
+Quem presidiu as reuniões?|Ele presidiu as reuniões.
+O que presidiu ele?|Ele presidiu as reuniões.
+Quem salientou estarem seguros?|Ele salientou estarem seguros.
+Quem se classificaram entre os melhores?|Eles classificaram-se entre os melhores.
+Entre que se classificaram eles?|Eles classificaram-se entre os melhores.
+Quem se despistaram contra o muro?|Eles despistaram-se contra o muro.
+Contra que se despistaram eles?|Eles despistaram-se contra o muro.
+Quem viram o isolamento da Maria do mundo pelo João?|Eles viram o isolamento da Maria do mundo pelo João.
+O que viram eles?|Eles viram o isolamento da Maria do mundo pelo João.
+O que é difícil de reparar?|Esse problema é difícil de reparar.
+De que é esse problema difícil?|Esse problema é difícil de reparar.
+O que é um livro muito provocatório?|Esse é um livro muito provocatório.
+O que é esse?|Esse é um livro muito provocatório.
+Onde estava por onde estava?|Estava no sítio por onde estava.
+Por que estava no sítio?|Estava no sítio por onde estava.
+Quem está contente com a compra?|Este cliente está contente com a compra.
+Com que está este cliente contente?|Este cliente está contente com a compra.

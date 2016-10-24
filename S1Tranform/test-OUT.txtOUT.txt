@@ -1,0 +1,3 @@
+O que é Moscovo?|A capital da Rússia é Moscovo.
+Qual é a capital da Rússia?|A capital da Rússia é Moscovo.
+A capital da Rússia é Moscovo?|A capital da Rússia é Moscovo.
